@@ -29,35 +29,35 @@ function simpleNCardSpreadGenerator(cards, group) {
 }
 
 let threeCardSpreads = [
-    ['Past', 'Present', 'Future'],
-    ['Nature', 'Cause', 'Solution'],
-    ['Current Situation', 'Obstacle', 'Advice'],
-    ['Situation', 'Action', 'Outcome'],
-    ['Context', 'Where To Focus', 'Outcome'],
-    ['What I Think', 'What I Feel', 'What I Do'],
+    ['Quá khứ hiện tại tương lai'],
+     ['Bản chất', 'Nguyên nhân', 'Giải pháp'],
+     ['Tình hình hiện tại', 'Trở ngại', 'Lời khuyên'],
+     ['Tình huống', 'Hành động', 'Kết quả'],
+     ['Bối cảnh', 'Nơi cần tập trung', 'Kết quả'],
+     ['Điều tôi nghĩ', 'Điều tôi cảm thấy', 'Điều tôi làm'],
 ].map(a => simpleNCardSpreadGenerator(a))
 
 let spreads = []
 
-spreads.push(simpleNCardSpreadGenerator(['Past', 'Present', 'Future']))
-spreads.push(simpleNCardSpreadGenerator(['Nature', 'Cause', 'Solution']))
-spreads.push(simpleNCardSpreadGenerator(['Current Situation', 'Obstacle', 'Advice']))
-spreads.push(simpleNCardSpreadGenerator(['Situation', 'Action', 'Outcome']))
-spreads.push(simpleNCardSpreadGenerator(['Context', 'Where To Focus', 'Outcome']))
-spreads.push(simpleNCardSpreadGenerator(['What I Think', 'What I Feel', 'What I Do']))
+spreads.push(simpleNCardSpreadGenerator(['Quá khứ hiện tại tương lai']))
+spreads.push(simpleNCardSpreadGenerator(['Bản chất', 'Nguyên nhân', 'Giải pháp']))
+spreads.push(simpleNCardSpreadGenerator(['Tình hình hiện tại', 'Trở ngại', 'Lời khuyên']))
+spreads.push(simpleNCardSpreadGenerator(['Tình huống', 'Hành động', 'Kết quả']))
+spreads.push(simpleNCardSpreadGenerator(['Bối cảnh', 'Nơi cần tập trung', 'Kết quả']))
+spreads.push(simpleNCardSpreadGenerator(['Những gì tôi nghĩ', 'những gì tôi cảm thấy', 'những gì tôi làm']))
 
-spreads.push(simpleNCardSpreadGenerator(['Where you stand now', 'What you aspire to', 'How to get there']))
-spreads.push(simpleNCardSpreadGenerator(['What you aspire to', 'What is standing in your way', 'How you can overcome this']))
-spreads.push(simpleNCardSpreadGenerator(['What will help you', 'What will hinder you', 'What is your unrealised potential']))
+spreads.push(simpleNCardSpreadGenerator(['Nơi bạn đang đứng bây giờ', 'Điều bạn khao khát', 'Làm thế nào để đạt được điều đó']))
+spreads.push(simpleNCardSpreadGenerator(['Điều bạn khao khát', 'Điều gì đang cản đường bạn', 'Làm thế nào bạn có thể vượt qua điều này']))
+spreads.push(simpleNCardSpreadGenerator(['Điều gì sẽ giúp bạn', 'Điều gì sẽ cản trở bạn', 'Tiềm năng chưa được thực hiện của bạn là gì']))
 
-spreads.push(simpleNCardSpreadGenerator(['What you can change', 'What you can\'t change', 'What you may not be aware of']))
-spreads.push(simpleNCardSpreadGenerator(['What worked well', 'What didn\'t work well', 'Key learnings']))
+spreads.push(simpleNCardSpreadGenerator(['Điều bạn có thể thay đổi', 'Điều bạn không thể thay đổi', 'Điều bạn có thể không biết']))
+spreads.push(simpleNCardSpreadGenerator(['Điều gì hoạt động tốt', 'Điều gì không hoạt động tốt', 'Bài học chính']))
 
-spreads.push(simpleNCardSpreadGenerator(['Strengths', 'Weaknesses', 'Advice']))
-spreads.push(simpleNCardSpreadGenerator(['Opportunities', 'Challenges', 'Outcome']))
-spreads.push(simpleNCardSpreadGenerator(['Option 1', 'Option 2', 'Option 3']))
-spreads.push(simpleNCardSpreadGenerator(['Option 1', 'Option 2', 'What you need to know to make a decision']))
-spreads.push(simpleNCardSpreadGenerator(['A solution', 'An alternate solution', 'How to choose']))
+spreads.push(simpleNCardSpreadGenerator(['Điểm mạnh', 'Điểm yếu', 'Lời khuyên']))
+spreads.push(simpleNCardSpreadGenerator(['Cơ hội', 'Thách thức', 'Kết quả']))
+spreads.push(simpleNCardSpreadGenerator(['Phương án 1', 'Phương án 2', 'Phương án 3']))
+spreads.push(simpleNCardSpreadGenerator(['Phương án 1', 'Phương án 2', 'Những điều bạn cần biết để đưa ra quyết định']))
+spreads.push(simpleNCardSpreadGenerator(['Một giải pháp', 'Một giải pháp thay thế', 'Cách chọn']))
 
 function simple3CardBalancedGenerator(card1, card2, card3) {
     return {
@@ -95,11 +95,11 @@ function simple3CardBalancedGenerator(card1, card2, card3) {
     }
 }
 
-spreads.push(simple3CardBalancedGenerator('Mind', 'Body', 'Soul'))
-spreads.push(simple3CardBalancedGenerator('Physical State', 'Emotional State', 'Spiritual State'))
-spreads.push(simple3CardBalancedGenerator('Subconscious', 'Conscious', 'Super Conscious'))
-spreads.push(simple3CardBalancedGenerator('Option 1', 'Option 2', 'Option 3'))
-spreads.push(simple3CardBalancedGenerator('What I Think', 'What I Feel', 'What I Do'))
+spreads.push(simple3CardBalancedGenerator('Tâm trí', 'Cơ thể', 'Linh hồn'))
+spreads.push(simple3CardBalancedGenerator('Trạng thái vật lý', 'Trạng thái cảm xúc', 'Trạng thái tinh thần'))
+spreads.push(simple3CardBalancedGenerator('Tiềm thức', 'Có ý thức', 'Siêu ý thức'))
+spreads.push(simple3CardBalancedGenerator('Lựa chọn 1', 'Tùy chọn 2', 'Tùy chọn 3'))
+spreads.push(simple3CardBalancedGenerator('Tôi nghĩ gì', 'Tôi cảm thấy gì', 'Tôi làm gì'))
 
 spreads.push({
     id: slugify(`single card reading`),
@@ -143,18 +143,18 @@ function simple2CardCrossGenerator(card1, card2) {
     }
 }
 
-spreads.push(simpleNCardSpreadGenerator(['Situation', 'Advice']))
-spreads.push(simpleNCardSpreadGenerator(['Yes', 'No']))
-spreads.push(simpleNCardSpreadGenerator(['Option 1', 'Option 2']))
-spreads.push(simpleNCardSpreadGenerator(['Accept', 'Reject']))
+spreads.push(simpleNCardSpreadGenerator(['Tình huống', 'Lời khuyên']))
+spreads.push(simpleNCardSpreadGenerator(['Có', 'Không']))
+spreads.push(simpleNCardSpreadGenerator(['Lựa chọn 1', 'Tùy chọn 2']))
+spreads.push(simpleNCardSpreadGenerator(['Chấp nhận', 'Từ chối']))
 
-spreads.push(simple2CardCrossGenerator('Situation', 'Challenge'))
-spreads.push(simple2CardCrossGenerator('Aim', 'Blockage'))
-spreads.push(simple2CardCrossGenerator('Blockage', 'Solution'))
-spreads.push(simple2CardCrossGenerator('Ideal', 'Settling for'))
-spreads.push(simple2CardCrossGenerator('Situation', 'Extra Info'))
+spreads.push(simple2CardCrossGenerator('Tình huống', 'Thử thách'))
+spreads.push(simple2CardCrossGenerator('Mục đích', 'Tắc nghẽn'))
+spreads.push(simple2CardCrossGenerator('Chặn', 'Giải pháp'))
+spreads.push(simple2CardCrossGenerator('Lý tưởng', 'Giải quyết cho'))
+spreads.push(simple2CardCrossGenerator('Tình huống', 'Thông tin bổ sung'))
 spreads.push(simple2CardCrossGenerator('Querent', 'Adversary'))
 
-spreads.push(simpleNCardSpreadGenerator(['Positive', 'Negative', 'Result', 'Advice']))
+spreads.push(simpleNCardSpreadGenerator(['Tích cực', 'Tiêu cực', 'Kết quả', 'Lời khuyên']))
 
 module.exports = spreads.map(spread => Spread.fromObject(spread))

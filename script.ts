@@ -24,7 +24,7 @@ Vue.use(Vuex)
 let cards: Card[] = Tarot.cards.map(card => Card.fromObject(card))
 
 function makePageTitle(name) {
-    let siteName = 'hierophant.app'
+    let siteName = 'Kabala TAROT'
     if (!name) {
         return siteName
     }

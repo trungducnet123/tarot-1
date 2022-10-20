@@ -20,7 +20,7 @@
 
                         <div class="tarot-card__number" v-if="card.isMajorArcana()">{{ majorArcanaRomanNumeral }}</div>
                     </div>
-                    <div class="tarot-card__reversed" v-if="reversed">reversed</div>
+                    <div class="tarot-card__reversed" v-if="reversed">đảo ngược</div>
                 </div>
 
                 <div class="tarot-card__bottom" v-bind:class="{ active: !reversed }">

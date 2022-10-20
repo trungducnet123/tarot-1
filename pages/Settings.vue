@@ -3,8 +3,8 @@
         <div class="content">
             <div class="setting">
                 <div class="setting__header">
-                    <div class="setting__title">Fonts</div>
-                    <a class="setting__reset" v-on:click="reset('fonts')">(Reset)</a>
+                    <div class="setting__title">Font chữ</div>
+                    <a class="setting__reset" v-on:click="reset('fonts')">(Đặt lại)</a>
                 </div>
                 <div class="setting__list">
                     <div class="setting__item setting__item--text">
@@ -15,8 +15,8 @@
 
             <div class="setting">
                 <div class="setting__header">
-                    <div class="setting__title">Colors</div>
-                    <a class="setting__reset" v-on:click="reset('colors')">(Reset)</a>
+                    <div class="setting__title">Màu sắc</div>
+                    <a class="setting__reset" v-on:click="reset('colors')">(Đặt lại)</a>
                 </div>
                 <div class="setting__list">
                     <div class="setting__item setting__item--color">
@@ -41,9 +41,9 @@
                 <div class="color-themes">
                     <a v-on:click="showColorThemes = !showColorThemes"
                         class="color-themes__toggle">
-                        <span v-if="showColorThemes">Hide</span>
-                        <span v-else>Show</span>
-                        color themes
+                        <span v-if="showColorThemes">Ẩn</span>
+                        <span v-else>Hiện</span>
+                        lựa chọn giao diện
                     </a>
 
                     <div v-if="showColorThemes" class="color-themes__list">
@@ -64,7 +64,7 @@
             <div class="setting">
                 <div class="setting__header">
                     <div class="setting__title">Colorize favicon</div>
-                    <a class="setting__reset" v-on:click="reset('useColoredFavicon')">(Reset)</a>
+                    <a class="setting__reset" v-on:click="reset('useColoredFavicon')">(Đặt lại)</a>
                 </div>
                 <div class="setting__list">
                     <div class="setting__item setting__item--checkbox">
@@ -75,15 +75,15 @@
 
             <div class="setting">
                 <div class="setting__header">
-                    <div class="setting__title">Save</div>
+                    <div class="setting__title">Lưu</div>
                 </div>
                 <div class="setting__list">
                     <div class="setting__item">
-                        <button class="settings__save-button" type="button" v-on:click="save">Save Settings</button>
+                        <button class="settings__save-button" type="button" v-on:click="save">Lưu tùy chỉnh</button>
                     </div>
                     <div class="settings__save-text" v-if="savedResult != null">
-                        <div v-if="savedResult == true">Settings saved successfully!</div>
-                        <div v-if="savedResult == false">Error saving settings!</div>
+                        <div v-if="savedResult == true">Cài đặt đã lưu thành công!</div>
+                        <div v-if="savedResult == false">Lỗi khi lưu cài đặt!</div>
                     </div>
                 </div>
             </div> 

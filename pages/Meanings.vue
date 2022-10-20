@@ -17,7 +17,7 @@
                 </div>
 
                 <div class="search-instructions" v-if="!card">
-                    <p>bắt đầu bằng cách nhập tên thẻ của bạn vào thanh tìm kiếm ở trên.</p>     
+                    <p>bắt đầu bằng cách nhập tên lá bài tarot của bạn vào thanh tìm kiếm ở trên.</p>     
                 </div>
 
                 <div class="card-details" v-if="card">

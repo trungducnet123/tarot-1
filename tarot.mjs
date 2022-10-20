@@ -7,52 +7,52 @@ export default {
       "suit": "Trump",
       "img": "m00.jpg",
       "keywords": [
-        "freedom",
-        "faith",
-        "inexperience",
-        "innocence"
+        "s? t? do",
+         "s? tin tý?ng",
+         "thi?u kinh nghi?m",
+         "vô t?i"
       ],
       "meanings": {
         "old": {
           "upright": [
-            "freeing yourself from limitation",
-            "expressing joy and youthful vigor",
-            "being open-minded",
-            "taking a leap of faith",
-            "attuning yourself to your instincts",
-            "being eager or curious",
-            "exploring your potential",
-            "embracing innovation and change"
+            "gi?i phóng b?n thân kh?i gi?i h?n",
+             "th? hi?n ni?m vui và s?c tr?",
+             "c?i m?",
+             "có m?t bý?c nh?y v?t c?a ni?m tin",
+             "h?a m?nh v?i b?n nãng c?a b?n",
+             "háo h?c ho?c t? m?",
+             "khám phá ti?m nãng c?a b?n",
+             "ðón nh?n s? ð?i m?i và thay ð?i"
           ],
           "reversed": [
-            "being gullible and naive",
-            "taking unnecessary risks",
-            "failing to be serious when required",
-            "being silly or distracted",
-            "lacking experience",
-            "failing to honor well-established traditions and limits",
-            "behaving inappropriately"
+            "c? tin và ngây thõ",
+             "ch?p nh?n r?i ro không c?n thi?t",
+             "không nghiêm túc khi ðý?c yêu c?u",
+             "ng? ng?n ho?c m?t t?p trung",
+             "thi?u kinh nghi?m",
+             "không tôn tr?ng nh?ng truy?n th?ng và gi?i h?n ðý?c thi?t l?p t?t",
+             "cý x? không ðúng m?c"
           ]
         },
         "new": {
           "upright": [
-            "beginnings",
-            "freedom",
-            "innocence",
-            "originality",
-            "adventure",
-            "idealism",
-            "spontaneity"
+            "s? kh?i ð?u",
+             "s? t? do",
+             "Vô t?i",
+             "tính nguyên b?n",
+             "cu?c phiêu lýu",
+             "ch? ngh?a duy tâm",
+             "tính t? phát"
           ],
           "reversed": [
-            "reckless",
-            "careless",
-            "distracted",
-            "naive",
-            "foolish",
-            "gullible",
-            "stale",
-            "dull"
+            "li?u l?nh",
+             "c?u th?",
+             "phân tâm",
+             "ngây thõ",
+             "kh? d?i",
+             "c? tin",
+             "c?",
+             "chán ng?t"
           ]
         }
       },
@@ -61,17 +61,17 @@ export default {
       "archetype": "The Divine Madman",
       "elemental": "Air",
       "hebrewAlphabet": "Aleph/Ox/1",
-      "spiritual": "Adam before the fall. Christ as a wandering holy madman. Deity wrapped in human flesh. The Holy Spirit.",
+      "spiritual": "Adam trý?c khi sa ng?. Chúa Kitô nhý m?t k? ðiên cu?ng lang thang. V? th?n ðý?c bao b?c trong xác th?t con ngý?i. Chúa Thánh Th?n.",
       "numerology": "0 (off the scale; pure potential)",
       "questions": [
-        "What would I do if I felt free to take a leap?",
-        "How willing am I to be vulnerable and open?",
-        "How might past experiences help in this new situation?"
+        "Tôi s? làm g? n?u tôi c?m th?y t? do ð? có m?t bý?c nh?y v?t?",
+         "Tôi s?n sàng ð? d? b? t?n thýõng và c?i m? ð?n m?c nào?",
+         "Nh?ng kinh nghi?m trong quá kh? có th? giúp ích nhý th? nào trong t?nh hu?ng m?i này?"
       ],
       "fortuneTelling": [
-        "Watch for new projects and new beginnings",
-        "Prepare to take something on faith",
-        "Something new comes your way; go for it"
+        "Theo d?i các d? án m?i và kh?i ð?u m?i",
+         "H?y chu?n b? ð? th?c hi?n ði?u g? ðó d?a trên ni?m tin",
+         "M?t cái g? ðó m?i ð?n theo cách c?a b?n; h?y ti?p t?c"
       ],
       "id": "0"
     },

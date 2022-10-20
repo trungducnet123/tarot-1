@@ -22,12 +22,12 @@
             </div>
 
             <div v-if="!hasDrawn" class="spread-button-container">
-                <button type="button" class="spread-button" v-on:click="draw()">Draw Card{{ spread.cards.length > 1 ? 's' : '' }}</button>
+                <button type="button" class="spread-button" v-on:click="draw()">Rút bài{{ spread.cards.length > 1 ? 's' : '' }}</button>
             </div>
         </div>
         <div class="spread-page spread-page--list">
             <p class="spread-description" v-if="spread.description">{{ spread.description }}</p>
-            <div class="spread-list-header">Cards:</div>
+            <div class="spread-list-header">Lá bài:</div>
             <ol class="spread-list">
                 <li class="list-card" v-for="card in spread.cards">
                     <div class="list-card__header">
@@ -35,21 +35,21 @@
                         <div class="list-card__name">{{ card.name }}</div>
                         <div class="list-card__separator"></div>
                         <div class="list-card__card-name" v-if="card.card">{{ card.card[0].name }}</div>
-                        <div class="list-card__card-reversed" v-if="card.card && card.card[1]">Reversed</div>
+                        <div class="list-card__card-reversed" v-if="card.card && card.card[1]">Đảo ngược</div>
                     </div>
                     <div class="list-card__content">
-                        <div class="list-card__content-header" v-if="card.description">Description</div>
+                        <div class="list-card__content-header" v-if="card.description">Mô tả</div>
                         <div class="list-card__description" v-if="card.description">
                             {{ card.description }}
                         </div>
                         <div class="list-card__card-meaning" v-if="card.card">
-                            <div class="list-card__content-header">Meaning</div>
+                            <div class="list-card__content-header">Ý nghĩa</div>
                             <ul class="list-card__meanings">
                                 <li class="list-card__meaning" v-for="meaning in card.card[0].meanings[card.card[1] ? 'reversed' : 'upright']">
                                     {{ meaning }}
                                 </li>
                             </ul>
-                            <router-link v-bind:to="'/meanings/' + getCardURL(card.card)" class="list-card__see-more">More information <icon name="chevron-right"></icon></a>
+                            <router-link v-bind:to="'/meanings/' + getCardURL(card.card)" class="list-card__see-more">Xem thêm thông tin <icon name="chevron-right"></icon></a>
                         </div>
                     </div>
                 </li>

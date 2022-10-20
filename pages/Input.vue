@@ -6,7 +6,7 @@
                 <input type="text" v-model="card.upright">
                 <input type="text" v-model="card.reversed">
             </div>
-            <button type="button" v-on:click="output">output</button>
+            <button type="button" v-on:click="output">đầu ra</button>
         </div>
     </div>
 </template>

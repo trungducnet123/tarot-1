@@ -62,7 +62,7 @@ export default {
       "elemental": "Air",
       "hebrewAlphabet": "Aleph/Ox/1",
       "spiritual": "Adam trước khi sa ngã. Chúa Kitô như một kẻ điên cuồng lang thang. Vị thần được bao bọc trong xác thịt con người. Chúa Thánh Thần.",
-      "numerology": "0 (off the scale; pure potential)",
+      "numerology": "0 (ngoài quy mô; tiềm năng thuần túy)",
       "questions": [
         "Tôi sẽ làm gì nếu tôi cảm thấy tự do để có một bước nhảy vọt?",
          "Tôi sẵn sàng để dễ bị tổn thương và cởi mở đến mức nào?",
@@ -89,39 +89,39 @@ export default {
       "meanings": {
         "old": {
           "upright": [
-            "taking appropriate action",
-            "receiving guidance from a higher power",
-            "becoming a channel of divine will",
-            "expressing masculine energy in appropriate and constructive ways",
-            "being yourself in every way"
+            "thực hiện hành động thích hợp",
+             "nhận được hướng dẫn từ một quyền lực cao hơn",
+             "trở thành một kênh của thánh ý",
+             "thể hiện năng lượng nam tính theo những cách phù hợp và mang tính xây dựng",
+             "là chính mình trên mọi phương diện"
           ],
           "reversed": [
-            "inflating your own ego",
-            "abusing talents",
-            "manipulating or deceiving others",
-            "being too aggressive",
-            "using cheap illusions to dazzle others",
-            "refusing to invest the time and effort needed to master your craft",
-            "taking shortcuts"
+            "thổi phồng cái tôi của chính bạn",
+             "lạm dụng nhân tài",
+             "thao túng hoặc lừa dối người khác",
+             "quá hung hăng",
+             "sử dụng ảo tưởng rẻ tiền để làm lóa mắt người khác",
+             "từ chối đầu tư thời gian và nỗ lực cần thiết để làm chủ công việc của bạn",
+             "đi đường tắt"
           ]
         },
         "new": {
           "upright": [
-            "willpower",
-            "desire",
-            "being resourceful",
-            "skill",
-            "ability",
-            "concentration",
-            "manifestation"
+            "ý chí",
+             "khao khát",
+             "tháo vát",
+             "kỹ năng",
+             "có khả năng",
+             "nồng độ",
+             "biểu hiện"
           ],
           "reversed": [
-            "manipulation",
-            "cunning",
-            "trickery",
-            "wasted talent",
-            "illusion",
-            "deception"
+            "thao tác",
+             "xảo quyệt",
+             "mánh khóe",
+             "lãng phí tài năng",
+             "ảo giác",
+             "lừa dối"
           ]
         }
       },
@@ -130,16 +130,16 @@ export default {
       "archetype": "The Ego/The Self",
       "elemental": "The Sun/Mercury",
       "hebrewAlphabet": "Beth/House/2",
-      "spiritual": "Thoth, the Egyptian god of wisdom, known to the Greeks as Hermes and to the Romans as Mercury. Christ working miracles. Brahma, the Creator.",
-      "numerology": "1 (origins, unity, seeds)",
+      "spiritual": "Thoth, vị thần thông thái của Ai Cập, được người Hy Lạp gọi là Hermes và người La Mã gọi là thần Mercury. Chúa Kitô làm phép lạ. Brahma, Đấng sáng tạo.",
+      "numerology": "1 (nguồn gốc, sự thống nhất, hạt giống)",
       "questions": [
-        "What am I empowered to do?",
-        "How might my abilities come into play?",
-        "To what extent am I making the most of my talents?"
+        "Tôi được trao quyền để làm gì?",
+         "Khả năng của tôi có thể phát huy tác dụng như thế nào?",
+         "Tôi đang tận dụng tối đa tài năng của mình ở mức độ nào?"
       ],
       "fortuneTelling": [
-        "A powerful man may play a role in your day",
-        "Your current situation must be seen as one element of a much larger plan"
+       "Một người đàn ông quyền lực có thể đóng một vai trò nào đó trong ngày của bạn",
+         "Tình hình hiện tại của bạn phải được coi là một yếu tố của một kế hoạch lớn hơn nhiều"
       ],
       "id": "i"
     },
@@ -158,38 +158,38 @@ export default {
       "meanings": {
         "old": {
           "upright": [
-            "listening to your feelings and intuitions",
-            "exploring unconventional spirituality",
-            "keeping secrets",
-            "being receptive",
-            "reflecting instead of acting",
-            "observing others",
-            "preserving purity"
+           "lắng nghe cảm xúc và trực giác của bạn",
+             "khám phá tâm linh độc đáo",
+             "Giữ bí mật",
+             "dễ tiếp thu",
+             "phản ánh thay vì hành động",
+             "quan sát người khác",
+             "giữ gìn sự trong sạch"
           ],
           "reversed": [
-            "being aloof",
-            "obsessing on secrets and conspiracies",
-            "rejecting guidance from spirit or intuition",
-            "revealing all",
-            "ignoring gut feelings",
-            "refusing to become involved, even when involvement is appropriate"
+            "xa cách",
+             "ám ảnh về những bí mật và âm mưu",
+             "từ chối hướng dẫn từ tinh thần hoặc trực giác",
+             "tiết lộ tất cả",
+             "bỏ qua cảm xúc ruột thịt",
+             "từ chối tham gia, ngay cả khi can dự là thích hợp"
           ]
         },
         "new": {
           "upright": [
-            "unconscious",
-            "intuition",
-            "mystery",
-            "spirituality",
-            "higher power",
-            "inner voice"
+            "bất tỉnh",
+             "trực giác",
+             "huyền bí",
+             "tâm linh",
+             "quyền lực cao hơn",
+             "giọng nói bên trong"
           ],
           "reversed": [
-            "repressed intuition",
-            "hidden motives",
-            "superficiality",
-            "confusion",
-            "cognitive dissonance"
+            "trực giác bị kìm nén",
+             "động cơ ẩn",
+             "bề ngoài",
+             "sự hoang mang",
+             "bất đồng nhận thức"
           ]
         }
       },
@@ -198,17 +198,17 @@ export default {
       "archetype": "The Virgin/The Maiden",
       "elemental": "The Moon",
       "hebrewAlphabet": "Gimel/Camel/3",
-      "spiritual": "The feminine aspect of divinity, particularity when expressed through virginity, as with the Virgin Mary or Isis.",
-      "numerology": "2 (division, debate, duality)",
+      "spiritual": "Khía cạnh nữ tính của thần tính, đặc biệt khi được thể hiện qua sự trinh tiết, như với Đức Trinh Nữ Maria hay Isis.",
+      "numerology": "2 (phân chia, tranh luận, đối ngẫu) ",
       "questions": [
-        "What might a rebel against tradition do?",
-        "What isn't being said or revealed?",
-        "What could be achieved by observing and reflecting?"
+        "Kẻ nổi loạn chống lại truyền thống có thể làm gì?",
+         "Điều gì không được nói hoặc tiết lộ?",
+         "Điều gì có thể đạt được bằng cách quan sát và phản ánh?"
       ],
       "fortuneTelling": [
-        "A mysterious woman arrives",
-        "A sexual secret may surface",
-        "Someone knows more than he or she will reveal"
+        "Một người phụ nữ bí ẩn đến",
+         "Bí mật tình dục có thể nổi lên",
+         "Ai đó biết nhiều hơn người đó sẽ tiết lộ"
       ],
       "id": "ii"
     },
@@ -227,42 +227,42 @@ export default {
       "meanings": {
         "old": {
           "upright": [
-            "nurturing yourself and others",
-            "bearing fruit",
-            "celebrating your body",
-            "bearing (literal or figurative) children",
-            "reveling in luxury",
-            "mothering those around you in positive ways",
-            "enjoying your sexuality",
-            "getting things done"
+            "nuôi dưỡng bản thân và những người khác",
+             "đơm hoa kết trái",
+             "tôn vinh cơ thể của bạn",
+             "mang con (nghĩa đen hoặc nghĩa bóng)",
+             "tận hưởng sự sang trọng",
+             "chăm sóc những người xung quanh bạn theo những cách tích cực",
+             "tận hưởng tình dục của bạn",
+             "hoàn thành công việc"
           ],
           "reversed": [
-            "overindulging",
-            "being greedy",
-            "smothering someone with attention",
-            "debilitating someone by being overprotective",
-            "inhibiting productivity by obsessing on productivity",
-            "being overcome by addictive behavior"
+            "quá mức",
+             "tham lam",
+             "làm ai đó chú ý",
+             "làm suy nhược ai đó bằng cách bảo vệ quá mức",
+             "kìm hãm năng suất bằng cách ám ảnh về năng suất",
+             "bị vượt qua bởi hành vi gây nghiện"
           ]
         },
         "new": {
           "upright": [
-            "divine feminine",
-            "sensuality",
-            "fertility",
-            "nurturing",
-            "creativity",
-            "beauty",
-            "abundance",
-            "nature"
+            "nữ tính thần thánh",
+             "gợi cảm",
+             "khả năng sinh sản",
+             "nuôi dưỡng",
+             "sáng tạo",
+             "sắc đẹp, vẻ đẹp",
+             "phong phú",
+             "thiên nhiên"
           ],
           "reversed": [
-            "insecurity",
-            "overbearing",
-            "negligence",
-            "smothering",
-            "lack of growth",
-            "lack of progress"
+            "bất an",
+             "hống hách",
+             "thiếu trách nhiệm",
+             "chết tiệt",
+             "thiếu tăng trưởng",
+             "Thiếu tiến bộ"
           ]
         }
       },
@@ -271,17 +271,17 @@ export default {
       "archetype": "The Mother",
       "elemental": "Venus",
       "hebrewAlphabet": "Daleth/Door/4",
-      "spiritual": "Gaia, Mother Earth, Ishtar, DemeterĂ‘mature, reproductive female divinity in every form. Also Aphrodite and Turan. ",
-      "numerology": "3 (expression, productivity, output)",
+      "spiritual": "Gaia, Mother Earth, Ishtar, DemeterĂ'mature, thần tính sinh sản của phụ nữ dưới mọi hình thức. Ngoài ra Aphrodite và Turan.",
+      "numerology": "3 (biểu thức, năng suất, sản lượng) ",
       "questions": [
-        "What would a concerned and capable mother do?",
-        "What can I do that would emphasize growth?",
-        "How can I celebrate my own sensuality and sexuality?"
+        "Một người mẹ quan tâm và có năng lực sẽ làm gì?",
+         "Tôi có thể làm gì để nhấn mạnh sự tăng trưởng?",
+         "Làm sao tôi có thể tán dương sự gợi cảm và tình dục của chính mình?"
       ],
       "fortuneTelling": [
-        "Pregnancy is in the cards",
-        "An opportunity to be involved in luxurious sexuality is coming",
-        "Beware a tendency toward addiction"
+        "Mang thai nằm trong thẻ",
+         "Một cơ hội để tham gia vào tình dục xa xỉ đang đến",
+         "Hãy coi chừng xu hướng nghiện ngập"
       ],
       "id": "iii"
     },

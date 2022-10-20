@@ -7,52 +7,52 @@ export default {
       "suit": "Trump",
       "img": "m00.jpg",
       "keywords": [
-        "s? t? do",
-         "s? tin t�?ng",
-         "thi?u kinh nghi?m",
-         "v� t?i"
+        "sự tự do",
+         "sự tin tưởng",
+         "thiếu kinh nghiệm",
+         "vô tội"
       ],
       "meanings": {
         "old": {
           "upright": [
-            "gi?i ph�ng b?n th�n kh?i gi?i h?n",
-             "th? hi?n ni?m vui v� s?c tr?",
-             "c?i m?",
-             "c� m?t b�?c nh?y v?t c?a ni?m tin",
-             "h?a m?nh v?i b?n n�ng c?a b?n",
-             "h�o h?c ho?c t? m?",
-             "kh�m ph� ti?m n�ng c?a b?n",
-             "��n nh?n s? �?i m?i v� thay �?i"
+            "giải phóng bản thân khỏi giới hạn",
+             "thể hiện niềm vui và sức trẻ",
+             "cởi mở",
+             "có một bước nhảy vọt của niềm tin",
+             "hòa mình với bản năng của bạn",
+             "háo hức hoặc tò mò",
+             "khám phá tiềm năng của bạn",
+             "đón nhận sự đổi mới và thay đổi"
           ],
           "reversed": [
-            "c? tin v� ng�y th�",
-             "ch?p nh?n r?i ro kh�ng c?n thi?t",
-             "kh�ng nghi�m t�c khi ��?c y�u c?u",
-             "ng? ng?n ho?c m?t t?p trung",
-             "thi?u kinh nghi?m",
-             "kh�ng t�n tr?ng nh?ng truy?n th?ng v� gi?i h?n ��?c thi?t l?p t?t",
-             "c� x? kh�ng ��ng m?c"
+            "cả tin và ngây thơ",
+             "chấp nhận rủi ro không cần thiết",
+             "không nghiêm túc khi được yêu cầu",
+             "ngớ ngẩn hoặc mất tập trung",
+             "thiếu kinh nghiệm",
+             "không tôn trọng những truyền thống và giới hạn được thiết lập tốt",
+             "cư xử không đúng mực"
           ]
         },
         "new": {
           "upright": [
-            "s? kh?i �?u",
-             "s? t? do",
-             "V� t?i",
-             "t�nh nguy�n b?n",
-             "cu?c phi�u l�u",
-             "ch? ngh?a duy t�m",
-             "t�nh t? ph�t"
+            "sự khởi đầu",
+             "sự tự do",
+             "Vô tội",
+             "tính nguyên bản",
+             "cuộc phiêu lưu",
+             "chủ nghĩa duy tâm",
+             "tính tự phát"
           ],
           "reversed": [
-            "li?u l?nh",
-             "c?u th?",
-             "ph�n t�m",
-             "ng�y th�",
-             "kh? d?i",
-             "c? tin",
-             "c?",
-             "ch�n ng?t"
+            "liều lĩnh",
+             "cẩu thả",
+             "phân tâm",
+             "ngây thơ",
+             "khờ dại",
+             "cả tin",
+             "cũ",
+             "chán ngắt"
           ]
         }
       },
@@ -61,17 +61,17 @@ export default {
       "archetype": "The Divine Madman",
       "elemental": "Air",
       "hebrewAlphabet": "Aleph/Ox/1",
-      "spiritual": "Adam tr�?c khi sa ng?. Ch�a Kit� nh� m?t k? �i�n cu?ng lang thang. V? th?n ��?c bao b?c trong x�c th?t con ng�?i. Ch�a Th�nh Th?n.",
+      "spiritual": "Adam trước khi sa ngã. Chúa Kitô như một kẻ điên cuồng lang thang. Vị thần được bao bọc trong xác thịt con người. Chúa Thánh Thần.",
       "numerology": "0 (off the scale; pure potential)",
       "questions": [
-        "T�i s? l�m g? n?u t�i c?m th?y t? do �? c� m?t b�?c nh?y v?t?",
-         "T�i s?n s�ng �? d? b? t?n th��ng v� c?i m? �?n m?c n�o?",
-         "Nh?ng kinh nghi?m trong qu� kh? c� th? gi�p �ch nh� th? n�o trong t?nh hu?ng m?i n�y?"
+        "Tôi sẽ làm gì nếu tôi cảm thấy tự do để có một bước nhảy vọt?",
+         "Tôi sẵn sàng để dễ bị tổn thương và cởi mở đến mức nào?",
+         "Những kinh nghiệm trong quá khứ có thể giúp ích như thế nào trong tình huống mới này?"
       ],
       "fortuneTelling": [
-        "Theo d?i c�c d? �n m?i v� kh?i �?u m?i",
-         "H?y chu?n b? �? th?c hi?n �i?u g? �� d?a tr�n ni?m tin",
-         "M?t c�i g? �� m?i �?n theo c�ch c?a b?n; h?y ti?p t?c"
+        "Theo dõi các dự án mới và khởi đầu mới",
+         "Hãy chuẩn bị để thực hiện điều gì đó dựa trên niềm tin",
+         "Một cái gì đó mới đến theo cách của bạn; hãy tiếp tục"
       ],
       "id": "0"
     },
@@ -271,7 +271,7 @@ export default {
       "archetype": "The Mother",
       "elemental": "Venus",
       "hebrewAlphabet": "Daleth/Door/4",
-      "spiritual": "Gaia, Mother Earth, Ishtar, DemeterÑmature, reproductive female divinity in every form. Also Aphrodite and Turan. ",
+      "spiritual": "Gaia, Mother Earth, Ishtar, DemeterĂ‘mature, reproductive female divinity in every form. Also Aphrodite and Turan. ",
       "numerology": "3 (expression, productivity, output)",
       "questions": [
         "What would a concerned and capable mother do?",
@@ -2167,7 +2167,7 @@ export default {
             "separation",
             "domestic conflict",
             "disharmony",
-            "isolation​"
+            "isolationâ€‹"
           ]
         }
       },
@@ -4587,7 +4587,7 @@ export default {
         "When is greediness or stinginess a good trait to have? When might generosity work against you?"
       ],
       "fortuneTelling": [
-        "A rainy day is coming—it's time to save"
+        "A rainy day is comingâ€”it's time to save"
       ],
       "id": "p4"
     },

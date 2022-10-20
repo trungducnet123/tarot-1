@@ -13,7 +13,7 @@
                         v-bind:size="size"
                         v-on:reverse="reverse"
                     ></tarot-card>
-                    <div class="meanings__reverse-instruction" v-if="card">nhấp vào thẻ để đảo ngược</div>
+                    <div class="meanings__reverse-instruction" v-if="card">nhấp để dảo ngược</div>
                 </div>
 
                 <div class="search-instructions" v-if="!card">

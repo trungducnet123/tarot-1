@@ -57,7 +57,7 @@ export default {
         }
       },
       "searchKey": "0 0 The Fool",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Divine Madman",
       "elemental": "Air",
       "hebrewAlphabet": "Aleph/Ox/1",
@@ -126,7 +126,7 @@ export default {
         }
       },
       "searchKey": "I 1 The Magician",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Ego/The Self",
       "elemental": "The Sun/Mercury",
       "hebrewAlphabet": "Beth/House/2",
@@ -194,7 +194,7 @@ export default {
         }
       },
       "searchKey": "II 2 The High Priestess",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Virgin/The Maiden",
       "elemental": "The Moon",
       "hebrewAlphabet": "Gimel/Camel/3",
@@ -267,7 +267,7 @@ export default {
         }
       },
       "searchKey": "III 3 The Empress",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Mother",
       "elemental": "Venus",
       "hebrewAlphabet": "Daleth/Door/4",
@@ -337,7 +337,7 @@ export default {
         }
       },
       "searchKey": "IV 4 The Emperor",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Father",
       "elemental": "Mars/Aries",
       "hebrewAlphabet": "He[as]/Window/5, or in some decks, Tzaddi/Fish hook/90",
@@ -407,7 +407,7 @@ export default {
         }
       },
       "searchKey": "V 5 The Hierophant",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Guardian/The Church/Faith",
       "elemental": "Taurus/Earth",
       "hebrewAlphabet": "Vau/Nail or Spike/6",
@@ -477,7 +477,7 @@ export default {
         }
       },
       "searchKey": "VI 6 The Lovers",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Lover/Sexual Awakening",
       "elemental": "Gemini",
       "hebrewAlphabet": "Zain/Sword/7",
@@ -545,7 +545,7 @@ export default {
         }
       },
       "searchKey": "VII 7 The Chariot",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Victorious Hero",
       "elemental": "Cancer",
       "hebrewAlphabet": "Cheth/Fence/8",
@@ -611,7 +611,7 @@ export default {
         }
       },
       "searchKey": "VIII 8 Strength",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Law",
       "elemental": "Libra or Leo",
       "hebrewAlphabet": "Lamed/Outstretched Arms/30 or Theth/Snake/9",
@@ -678,7 +678,7 @@ export default {
         }
       },
       "searchKey": "IX 9 The Hermit",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Holy Man",
       "elemental": "Virgo",
       "hebrewAlphabet": "Yod/Hand/10",
@@ -746,7 +746,7 @@ export default {
         }
       },
       "searchKey": "X 10 Wheel of Fortune",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Fates/Destiny",
       "elemental": "Jupiter",
       "hebrewAlphabet": "Koph/Palm/20",
@@ -817,7 +817,7 @@ export default {
         }
       },
       "searchKey": "XI 11 Justice",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Id",
       "elemental": "Leo or Libra",
       "hebrewAlphabet": "Theth/Snake/9 or Lamed/Outstretched Arms/30",
@@ -885,7 +885,7 @@ export default {
         }
       },
       "searchKey": "XII 12 The Hanged Man",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Traitor",
       "elemental": "Water",
       "hebrewAlphabet": "Mem/Water/40",
@@ -952,7 +952,7 @@ export default {
         }
       },
       "searchKey": "XIII 13 Death",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "Death",
       "elemental": "Scorpio",
       "hebrewAlphabet": "Nun/Fish/50",
@@ -1025,7 +1025,7 @@ export default {
         }
       },
       "searchKey": "XIV 14 Temperance",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Mediator",
       "elemental": "Sagittarius",
       "hebrewAlphabet": "Samekh/Foundation/60",
@@ -1094,7 +1094,7 @@ export default {
         }
       },
       "searchKey": "XV 15 The Devil",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Shadow, The Other",
       "elemental": "Capricorn",
       "hebrewAlphabet": "Ayin/Eye/70",
@@ -1160,7 +1160,7 @@ export default {
         }
       },
       "searchKey": "XVI 16 The Tower",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Shattered Ego",
       "elemental": "Mars",
       "hebrewAlphabet": "Pe[as]/Open Mouth/80",
@@ -1232,7 +1232,7 @@ export default {
         }
       },
       "searchKey": "XVII 17 The Star",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Heavenly Guide",
       "elemental": "Aquarius",
       "hebrewAlphabet": "Tzaddi/Fishhook/90 or, in some decks, He[as]/Window/5",
@@ -1302,7 +1302,7 @@ export default {
         }
       },
       "searchKey": "XVIII 18 The Moon",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Holy Feminine/The Crone",
       "elemental": "Pisces",
       "hebrewAlphabet": "Koph/Back of the Head/100",
@@ -1370,7 +1370,7 @@ export default {
         }
       },
       "searchKey": "XIX 19 The Sun",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "The Holy Masculine",
       "elemental": "The Sun",
       "hebrewAlphabet": "Resh/Head/200",
@@ -1436,7 +1436,7 @@ export default {
         }
       },
       "searchKey": "XX 20 Judgement",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "Resurrection",
       "elemental": "Fire",
       "hebrewAlphabet": "Sin/Tooth/300",
@@ -1502,7 +1502,7 @@ export default {
         }
       },
       "searchKey": "XXI 21 The World",
-      "isMajorArcana": true,
+      "isMajorArcana":  false,
       "archetype": "Enlightenment",
       "elemental": "Saturn",
       "hebrewAlphabet": "Tau/Cross/400",
@@ -1571,7 +1571,7 @@ export default {
         }
       },
       "searchKey": "1 Ace of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I listen to the counsel of my heart.\"",
       "astrology": "Cancer, Scorpio, Pisces",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
@@ -1642,7 +1642,7 @@ export default {
         }
       },
       "searchKey": "2 Two of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am attuned to what my heart truly desires.\"",
       "astrology": "Venus in Cancer",
       "numerology": "2 (The Other: duality, division, debate)",
@@ -1707,7 +1707,7 @@ export default {
         }
       },
       "searchKey": "3 Three of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I allow my actions to reflect my true emotions.\"",
       "astrology": "Mercury in Cancer",
       "numerology": "3 (The Result: expression, productivity, output)",
@@ -1773,7 +1773,7 @@ export default {
         }
       },
       "searchKey": "4 Four of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I appreciate what I've been given.\"",
       "astrology": "Moon in Cancer",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
@@ -1842,7 +1842,7 @@ export default {
         }
       },
       "searchKey": "5 Five of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I learn from my losses and move on.\"",
       "astrology": "Mars in Scorpio",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
@@ -1908,7 +1908,7 @@ export default {
         }
       },
       "searchKey": "6 Six of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I freely give myself to others, expecting nothing in return.\"",
       "astrology": "Sun in Scorpio",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
@@ -1974,7 +1974,7 @@ export default {
         }
       },
       "searchKey": "7 Seven of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I use inner vision as a tool for growth.\"",
       "astrology": "Venus in Scorpio",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
@@ -2043,7 +2043,7 @@ export default {
         }
       },
       "searchKey": "8 Eight of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am always open to opportunities for growth.\"",
       "astrology": "Saturn in Pisces",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
@@ -2111,7 +2111,7 @@ export default {
         }
       },
       "searchKey": "9 Nine of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I have everything I need to be happy.\"",
       "astrology": "Jupiter in Pisces",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
@@ -2172,7 +2172,7 @@ export default {
         }
       },
       "searchKey": "10 Ten of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I take time to appreciate what I've been given.\"",
       "astrology": "Mars in Pisces",
       "numerology": "10 (The End: finality, completion, exhaustion)",
@@ -2239,7 +2239,7 @@ export default {
         }
       },
       "searchKey": "11 Page of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am ready to embrace love and Spirit.\"",
       "elemental": "Earth of Water.",
       "questions": [
@@ -2304,7 +2304,7 @@ export default {
         }
       },
       "searchKey": "12 Knight of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I translate my passions into actions.\"",
       "elemental": "Air of Water.",
       "questions": [
@@ -2369,7 +2369,7 @@ export default {
         }
       },
       "searchKey": "13 Queen of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I choose to be enabled, not disabled, by my strong emotions.\"",
       "elemental": "Water of Water.",
       "questions": [
@@ -2432,7 +2432,7 @@ export default {
         }
       },
       "searchKey": "14 King of Cups",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I strive to be stable and fair-minded.\"",
       "elemental": "Fire of Water.",
       "questions": [
@@ -2499,7 +2499,7 @@ export default {
         }
       },
       "searchKey": "1 Ace of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I take the time to think things through.\"",
       "astrology": "Libra, Aquarius, Gemini",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
@@ -2563,7 +2563,7 @@ export default {
         }
       },
       "searchKey": "2 Two of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I strive to see all sides of every issue.\"",
       "astrology": "Moon in Libra",
       "numerology": "2 (The Other: duality, division, debate)",
@@ -2630,7 +2630,7 @@ export default {
         }
       },
       "searchKey": "3 Three of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I learn from failures and setbacks.\"",
       "astrology": "Saturn in Libra",
       "numerology": "3 (The Result: expression, productivity, output)",
@@ -2694,7 +2694,7 @@ export default {
         }
       },
       "searchKey": "4 Four of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I think before taking action.\"",
       "astrology": "Jupiter in Libra",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
@@ -2765,7 +2765,7 @@ export default {
         }
       },
       "searchKey": "5 Five of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"Even as I care for myself, I am mindful of the needs of others.\"",
       "astrology": "Venus in Aquarius",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
@@ -2828,7 +2828,7 @@ export default {
         }
       },
       "searchKey": "6 Six of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I keep an open mind.\"",
       "astrology": "Mercury in Aquarius",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
@@ -2892,7 +2892,7 @@ export default {
         }
       },
       "searchKey": "7 Seven of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I hold myself to the highest ethical standards.\"",
       "astrology": "Moon in Aquarius",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
@@ -2963,7 +2963,7 @@ export default {
         }
       },
       "searchKey": "8 Eight of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I know my own limits.\"",
       "astrology": "Jupiter in Gemini",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
@@ -3033,7 +3033,7 @@ export default {
         }
       },
       "searchKey": "9 Nine of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I do not worry about what I cannot control.\"",
       "astrology": "Mars in Gemini",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
@@ -3102,7 +3102,7 @@ export default {
         }
       },
       "searchKey": "10 Ten of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"When my limits are exceeded, I take action on my own behalf.\"",
       "astrology": "Sun in Gemini",
       "numerology": "10 (The End: finality, completion, exhaustion)",
@@ -3172,7 +3172,7 @@ export default {
         }
       },
       "searchKey": "11 Page of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am ready to make good decisions.\"",
       "elemental": "Earth of Air.",
       "questions": [
@@ -3245,7 +3245,7 @@ export default {
         }
       },
       "searchKey": "12 Knight of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I temper my insights with tact.\"",
       "elemental": "Air of Air.",
       "questions": [
@@ -3319,7 +3319,7 @@ export default {
         }
       },
       "searchKey": "13 Queen of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I make the truth easier to hear.\"",
       "elemental": "Water of Air.",
       "questions": [
@@ -3388,7 +3388,7 @@ export default {
         }
       },
       "searchKey": "14 King of Swords",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"My word is my bond.\"",
       "elemental": "Fire of Air.",
       "questions": [
@@ -3454,7 +3454,7 @@ export default {
         }
       },
       "searchKey": "1 Ace of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I jump at the opportunity to pursue my heart's desire.\"",
       "astrology": "Aries, Leo, Sagittarius",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
@@ -3518,7 +3518,7 @@ export default {
         }
       },
       "searchKey": "2 Two of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"With my goals in mind, I make confident choices.\"",
       "astrology": "Mars in Aries",
       "numerology": "2 (The Other: division, debate, duality)",
@@ -3583,7 +3583,7 @@ export default {
         }
       },
       "searchKey": "3 Three of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I take the steps necessary to put my plans in action.\"",
       "astrology": "Sun in Aries",
       "numerology": "3 (The Result: expression, productivity, output)",
@@ -3650,7 +3650,7 @@ export default {
         }
       },
       "searchKey": "4 Four of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"My contributions are worthy of celebration.\"",
       "astrology": "Venus in Aries",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
@@ -3716,7 +3716,7 @@ export default {
         }
       },
       "searchKey": "5 Five of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I can express dissent in constructive ways.\"",
       "astrology": "Saturn in Leo",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
@@ -3784,7 +3784,7 @@ export default {
         }
       },
       "searchKey": "6 Six of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I value sincere praise.\"",
       "astrology": "Jupiter in Leo",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
@@ -3845,7 +3845,7 @@ export default {
         }
       },
       "searchKey": "7 Seven of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am willing to take a stand for what I believe in.\"",
       "astrology": "Mars in Leo",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
@@ -3913,7 +3913,7 @@ export default {
         }
       },
       "searchKey": "8 Eight of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I adapt quickly to change.\"",
       "astrology": "Mercury in Sagittarius",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
@@ -3982,7 +3982,7 @@ export default {
         }
       },
       "searchKey": "9 Nine of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"When the going gets tough, I stay the course.\"",
       "astrology": "Moon in Sagittarius",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
@@ -4045,7 +4045,7 @@ export default {
         }
       },
       "searchKey": "10 Ten of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I respect my own limits.\"",
       "astrology": "Saturn in Sagittarius",
       "numerology": "10 (The End: finality, completion, exhaustion)",
@@ -4113,7 +4113,7 @@ export default {
         }
       },
       "searchKey": "11 Page of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I can do this.\"",
       "elemental": "Earth of Fire.",
       "questions": [
@@ -4180,7 +4180,7 @@ export default {
         }
       },
       "searchKey": "12 Knight of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I can lead the way to success.\"",
       "elemental": "Air of Fire.",
       "questions": [
@@ -4244,7 +4244,7 @@ export default {
         }
       },
       "searchKey": "13 Queen of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I use my influence to promote unity.\"",
       "elemental": "Water of Fire.",
       "questions": [
@@ -4307,7 +4307,7 @@ export default {
         }
       },
       "searchKey": "14 King of Wands",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I use my authority and experience to get things done faster.\"",
       "elemental": "Fire of Fire",
       "questions": [
@@ -4371,7 +4371,7 @@ export default {
         }
       },
       "searchKey": "1 Ace of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am open to and thankful for my blessings.\"",
       "astrology": "Capricorn, Taurus, Virgo",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
@@ -4436,7 +4436,7 @@ export default {
         }
       },
       "searchKey": "2 Two of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"Before taking action, I consider costs.\"",
       "astrology": "Jupiter in Capricorn",
       "numerology": "2 (The Other: duality, division, debate)",
@@ -4504,7 +4504,7 @@ export default {
         }
       },
       "searchKey": "3 Three of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"My work produces results.\"",
       "astrology": "Mars in Capricorn",
       "numerology": "3 (The Result: expression, productivity, output)",
@@ -4577,7 +4577,7 @@ export default {
         }
       },
       "searchKey": "4 Four of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I use my resources wisely.\"",
       "astrology": "Sun in Capricorn",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
@@ -4645,7 +4645,7 @@ export default {
         }
       },
       "searchKey": "5 Five of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I have faith that what I need will appear.\"",
       "astrology": "Mercury in Taurus",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
@@ -4713,7 +4713,7 @@ export default {
         }
       },
       "searchKey": "6 Six of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"Knowing I will receive more, I share my resources freely.\"",
       "astrology": "Moon in Taurus",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
@@ -4783,7 +4783,7 @@ export default {
         }
       },
       "searchKey": "7 Seven of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"To stay on target, I measure my progress.\"",
       "astrology": "Saturn in Taurus",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
@@ -4857,7 +4857,7 @@ export default {
         }
       },
       "searchKey": "8 Eight of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I give myself wholeheartedly to the task of the moment.\"",
       "astrology": "Sun in Virgo",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
@@ -4922,7 +4922,7 @@ export default {
         }
       },
       "searchKey": "9 Nine of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I know enough to be confident in my decisions.\"",
       "astrology": "Venus in Virgo",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
@@ -4992,7 +4992,7 @@ export default {
         }
       },
       "searchKey": "10 Ten of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I keep physical and financial matters in perspective.\"",
       "astrology": "Mercury in Virgo",
       "numerology": "10 (The End: finality, completion, exhaustion)",
@@ -5066,7 +5066,7 @@ export default {
         }
       },
       "searchKey": "11 Page of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I am physically and financially responsible.\"",
       "elemental": "Earth of Earth.",
       "questions": [
@@ -5139,7 +5139,7 @@ export default {
         }
       },
       "searchKey": "12 Knight of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I temper my actions with cautious optimism.\"",
       "elemental": "Air of Earth.",
       "questions": [
@@ -5212,7 +5212,7 @@ export default {
         }
       },
       "searchKey": "13 Queen of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I relish the best this world has to offer.\"",
       "elemental": "Water of Earth.",
       "questions": [
@@ -5285,7 +5285,7 @@ export default {
         }
       },
       "searchKey": "14 King of Pentacles",
-      "isMajorArcana": false,
+      "isMajorArcana":  true,
       "affirmation": "\"I embody confidence and fairness.\"",
       "elemental": "Fire of Earth.",
       "questions": [

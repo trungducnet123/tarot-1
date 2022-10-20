@@ -103,7 +103,7 @@ spreads.push(simple3CardBalancedGenerator('Tôi nghĩ gì', 'Tôi cảm thấy g
 
 spreads.push({
     id: slugify(`single card reading`),
-    name: `Draw a single card`,
+    name: `Chọn 1 lá Tarot`,
     cards: [
         {
             number: 1,

@@ -57,7 +57,7 @@ export default {
         }
       },
       "searchKey": "0 0 The Fool",
-      "isMajorArcana": true,
+      "isMajorArcana": false,
       "archetype": "The Divine Madman",
       "elemental": "Air",
       "hebrewAlphabet": "Aleph/Ox/1",

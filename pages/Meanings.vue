@@ -2,7 +2,7 @@
     <div class="meanings">
         <div class="meanings__page">
             <div class="meanings__header">
-                <input type="text" class="search" v-model="searchText" v-on:input="searchTextChanged" placeholder="search...">
+                <input type="text" class="search" v-model="searchText" v-on:input="searchTextChanged" placeholder="tìm kiếm...">
             </div>
             
             <div class="meanings__inner">
@@ -13,11 +13,11 @@
                         v-bind:size="size"
                         v-on:reverse="reverse"
                     ></tarot-card>
-                    <div class="meanings__reverse-instruction" v-if="card">click card to reverse</div>
+                    <div class="meanings__reverse-instruction" v-if="card">nhấp vào thẻ để đảo ngược</div>
                 </div>
 
                 <div class="search-instructions" v-if="!card">
-                    <p>start by typing the name of your card in the search bar above.</p>     
+                    <p>bắt đầu bằng cách nhập tên thẻ của bạn vào thanh tìm kiếm ở trên.</p>     
                 </div>
 
                 <div class="card-details" v-if="card">
@@ -34,34 +34,34 @@
         </div>
         <div class="meanings__page meanings__page--information" v-if="card">
             <div class="information" v-if="card.element">
-                <div class="information__header">Elemental</div>
+                <div class="information__header">Nguyên tố</div>
                 <div class="information__text">{{ card.element }}</div>
             </div> 
             <div class="information" v-if="card.archetype">
-                <div class="information__header">Archetype</div>
+                <div class="information__header">Nguyên mẫu</div>
                 <div class="information__text">{{ card.archetype }}</div>
             </div> 
             <div class="information" v-if="card.affirmation">
-                <div class="information__header">Affirmation</div>
+                <div class="information__header">Khẳng định</div>
                 <div class="information__text">{{ card.affirmation }}</div>
             </div> 
             <div class="information" v-if="card.hebrewAlphabet">
-                <div class="information__header">Hebrew Alphabet</div>
+                <div class="information__header">Bảng chữ cái Hebrew</div>
                 <div class="information__text">{{ card.hebrewAlphabet }}</div>
             </div> 
             <div class="information" v-if="card.numerology">
-                <div class="information__header">Numerology</div>
+                <div class="information__header">Số học</div>
                 <div class="information__text">{{ card.numerology }}</div>
             </div> 
             <div class="information" v-if="card.questions">
-                <div class="information__header">Questions</div>
+                <div class="information__header">Câu hỏi</div>
                 <div class="information__list">
                     <div class="information__text information__text--question" v-for="question in card.questions">{{ question }}</div>
                 </div>
             </div> 
             <div class="spacer"></div>
             <div class="information" v-if="card">
-                <div class="information__header">Links</div>
+                <div class="information__header">Liên kết</div>
                 <div class="information__list">
                     <a v-bind:href="labyrinthosLink" class="information__text information__text--link" target="_blank">{{ cleanURL(labyrinthosLink) }}</a>
                     <a v-bind:href="biddyLink" class="information__text information__text--link" target="_blank">{{ cleanURL(biddyLink) }}</a>

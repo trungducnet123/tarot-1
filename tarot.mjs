@@ -1505,14 +1505,14 @@ export default {
       "spiritual": "The ascended Christ. The Buddha attaining enlightenment. The alpha and the omega. The completion of the alchemist's great work.",
       "numerology": "21 = 2 + 1 = 3 (expression, result)",
       "questions": [
-        "For me, what would having it all mean?",
-        "How aware am I of my own connectedness to the world around me?",
-        "What keeps me from having it all right now, today?"
+       "Đối với tôi, tất cả sẽ có ý nghĩa gì?",
+       "Tôi nhận thức được mức độ kết nối của bản thân với thế giới xung quanh như thế nào?",
+       "Điều gì khiến tôi không có tất cả ngay bây giờ, ngày hôm nay?"
       ],
-      "fortuneTelling": [
-        "Winning the lottery",
-        "Getting your heart's desire",
-        "Having everything you ever imagined having"
+       "fortuneTelling": [
+       "Trúng xổ số",
+       "Có được ước muốn từ trái tim của bạn",
+       "Có mọi thứ bạn từng tưởng tượng có"
       ],
       "id": "xxi"
     },
@@ -1523,46 +1523,45 @@ export default {
       "suit": "Cups",
       "img": "c01.jpg",
       "keywords": [
-        "intuition",
-        "spirituality",
-        "affection",
-        "motivation"
+       "trực giác",
+       "tâm linh",
+       "sự yêu mến",
+       "động lực"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "trusting your feelings",
-            "opening yourself to spirit",
-            "accepting and returning affection",
-            "getting in touch with what motivates you",
-            "taking advantage of an opportunity to express love to others",
-            "listening to the still, small voice"
+     "meanings": {
+       "old": {
+         "upright": [
+           "tin tưởng vào cảm xúc của bạn",
+           "mở lòng với tinh thần",
+           "chấp nhận và đáp lại tình cảm",
+           "liên hệ với những gì thúc đẩy bạn",
+           "tận dụng cơ hội để bày tỏ tình yêu với người khác",
+           "lắng nghe động tĩnh, giọng nói nhỏ"
           ],
-          "reversed": [
-            "hiding your feelings",
-            "spurning an opportunity to love or be loved",
-            "numbing yourself to spiritual yearnings",
-            "rejecting the counsel of your heart",
-            "becoming a puppet of your own emotions",
-            "indulging in hysteria or obsession"
-          ]
-        },
-        "new": {
-          "upright": [
-            "love",
-            "new feelings",
-            "emotional awakening",
-            "creativity",
-            "spirituality",
-            "intuition"
+         "reversed": [
+           "che giấu cảm xúc của bạn",
+           "từ bỏ cơ hội để yêu hoặc được yêu",
+           "làm tê liệt bản thân với những khao khát thiêng liêng",
+           "từ chối lời khuyên của trái tim bạn",
+           "trở thành một con rối của cảm xúc của chính bạn",
+           "say mê cuồng loạn hoặc ám ảnh"
+          ]},
+       "new": {
+         "upright": [
+           "yêu và quý",
+           "cảm giác mới",
+           "đánh thức cảm xúc",
+           "sáng tạo",
+           "tâm linh",
+           "trực giác"
           ],
-          "reversed": [
-            "coldness",
-            "emptiness",
-            "emotional loss",
-            "blocked creativity",
-            "feeling unloved",
-            "gloominess"
+         "reversed": [
+           "lạnh lùng",
+           "trống rỗng",
+           "mất mát tình cảm",
+           "sự sáng tạo bị chặn",
+           "cảm thấy không được yêu thương",
+           "u ám"
           ]
         }
       },
@@ -1572,14 +1571,14 @@ export default {
       "astrology": "Cancer, Scorpio, Pisces",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
       "questions": [
-        "What am I feeling right now?",
-        "How would I go about opening myself to spiritual guidance?",
-        "What motivates me the most - pleasure or pain? Why?"
+       "Tôi đang cảm thấy gì bây giờ?",
+       "Làm thế nào tôi có thể tiếp cận với sự hướng dẫn tâm linh?",
+       "Điều gì thúc đẩy tôi nhiều nhất - khoái cảm hay đau đớn? Tại sao?"
       ],
-      "fortuneTelling": [
-        "Romance is in the cards",
-        "A new relationship or marriage is just around the corner",
-        "Prayers are answered"
+       "fortuneTelling": [
+       "Sự lãng mạn nằm trong những lá bài",
+       "Một mối quan hệ hoặc hôn nhân mới sắp đến gần",
+       "Những lời cầu nguyện được đáp lại"
       ],
       "id": "c1"
     },
@@ -1589,51 +1588,51 @@ export default {
       "arcana": "Minor Arcana",
       "suit": "Cups",
       "img": "c02.jpg",
-      "keywords": [
-        "union",
-        "attraction",
-        "combination",
-        "affection"
+       "keywords": [
+       "liên hiệp",
+       "sức hút",
+       "sự kết hợp",
+       "sự yêu mến"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "being drawn to someone",
-            "longing for someone or something",
-            "acting on your desires",
-            "discovering a feeling is mutual",
-            "doing what makes you feel good",
-            "merging",
-            "healing broken ties",
-            "admitting two people feel differently about each other and moving on"
+     "meanings": {
+       "old": {
+         "upright": [
+           "bị thu hút bởi ai đó",
+           "khao khát một ai đó hoặc một cái gì đó",
+           "hành động theo mong muốn của bạn",
+           "khám phá một cảm giác là lẫn nhau",
+           "làm những gì khiến bạn cảm thấy thoải mái",
+           "hợp nhất",
+           "hàn gắn mối quan hệ rạn nứt",
+           "thừa nhận hai người cảm thấy khác nhau về nhau và tiếp tục"
           ],
-          "reversed": [
-            "burning bridges",
-            "becoming caught up in unhealthy codependency",
-            "shutting out anyone but your chosen few",
-            "obsessing on someone who does not return your affections",
-            "despairing over finding \"the one\"",
-            "deceiving yourself about your true orientation"
+         "reversed": [
+           "đốt cầu",
+           "bị cuốn vào sự phụ thuộc không lành mạnh",
+           "ngăn chặn bất kỳ ai trừ một số bạn đã chọn",
+           "ám ảnh về một người không đáp lại tình cảm của bạn",
+           "tuyệt vọng khi tìm thấy \" cái \"",
+           "tự lừa dối bản thân về định hướng thực sự của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "unity",
-            "partnership",
-            "attraction",
-            "connection",
-            "close bonds",
-            "joining forces",
-            "mutual respect"
+       "new": {
+         "upright": [
+           "đoàn kết",
+           "quan hệ đối tác",
+           "sức hút",
+           "sự liên quan",
+           "đóng trái phiếu",
+           "Liên kết lực lượng",
+           "sự tôn trọng lẫn nhau"
           ],
-          "reversed": [
-            "separation",
-            "rejection",
-            "division",
-            "imbalance",
-            "tension",
-            "bad communication",
-            "withdrawal"
+         "reversed": [
+           "tách biệt",
+           "sự từ chối",
+           "phân công",
+           "mất cân bằng",
+           "căng thẳng",
+           "giao tiếp kém",
+           "rút tiền"
           ]
         }
       },
@@ -1643,13 +1642,13 @@ export default {
       "astrology": "Venus in Cancer",
       "numerology": "2 (The Other: duality, division, debate)",
       "questions": [
-        "How can I make sure that what I'm feeling is mutual?",
-        "When was the last time I felt \"in love\" with someone or something?",
-        "What do you need in order to feel emotionally stable?"
+       "Làm thế nào tôi có thể chắc chắn rằng những gì tôi đang cảm thấy là của nhau?",
+       "Lần cuối cùng tôi cảm thấy \" yêu \"với ai đó hoặc điều gì đó là khi nào?",
+       "Bạn cần gì để cảm thấy ổn định về mặt cảm xúc?"
       ],
-      "fortuneTelling": [
-        "Someone has a secret crush on you",
-        "Relationships should be mutual; get rid of a leech"
+       "fortuneTelling": [
+       "Ai đó đã yêu thầm bạn",
+       "Các mối quan hệ nên được lẫn nhau; hãy thoát khỏi một con đỉa"
       ],
       "id": "c2"
     },
@@ -1660,45 +1659,45 @@ export default {
       "suit": "Cups",
       "img": "c03.jpg",
       "keywords": [
-        "celebration",
-        "expression",
-        "community",
-        "friendliness"
+       "lễ kỷ niệm",
+       "biểu hiện",
+       "cộng đồng",
+       "thân thiện"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "celebrating your feelings or connections with others",
-            "expressing joy through song, dance, or physical affection",
-            "working together with others who share your feelings",
-            "performing acts of service as a way of saying, \"i love you\"",
-            "embracing unconventional romantic arrangements"
+     "meanings": {
+       "old": {
+         "upright": [
+           "kỷ niệm tình cảm hoặc mối quan hệ của bạn với những người khác",
+           "thể hiện niềm vui qua bài hát, điệu nhảy hoặc tình cảm thể xác",
+           "cùng làm việc với những người có chung cảm xúc với bạn",
+           "thực hiện các hành động phục vụ như một cách để nói, \" tôi yêu bạn \"",
+           "đón nhận những sắp đặt lãng mạn độc đáo"
           ],
-          "reversed": [
-            "mistaking giddiness for true affection",
-            "being dominated by manic emotions",
-            "expecting everyone to always feel the same way you do",
-            "demanding unreasonable support from friends or family",
-            "partying to a dangerous or unhealthy extent"
+         "reversed": [
+           "nhầm sự ham chơi với tình cảm thực sự",
+           "bị chi phối bởi cảm xúc hưng cảm",
+           "mong mọi người luôn cảm thấy giống như bạn",
+           "đòi hỏi sự hỗ trợ không hợp lý từ bạn bè hoặc gia đình",
+           "tiệc tùng ở mức độ nguy hiểm hoặc không lành mạnh"
           ]
         },
-        "new": {
-          "upright": [
-            "friendship",
-            "community",
-            "gatherings",
-            "celebrations",
-            "group events",
-            "social events"
+       "new": {
+         "upright": [
+           "hữu nghị",
+           "cộng đồng",
+           "tụ họp",
+           "lễ kỷ niệm",
+           "sự kiện nhóm",
+           "sự kiện xã hội"
           ],
-          "reversed": [
-            "gossip",
-            "scandal",
-            "excess",
-            "isolation",
-            "loneliness",
-            "solitude",
-            "imbalanced social life"
+         "reversed": [
+           "ngồi lê đôi mách",
+           "vụ bê bối",
+           "thặng dư",
+           "sự cách ly",
+           "sự cô đơn",
+           "cô đơn",
+           "đời sống xã hội mất cân bằng"
           ]
         }
       },
@@ -1708,12 +1707,12 @@ export default {
       "astrology": "Mercury in Cancer",
       "numerology": "3 (The Result: expression, productivity, output)",
       "questions": [
-        "What's worth celebrating in my life?",
-        "How can I demonstrate my feelings in appropriate ways?",
-        "What can I do to show my partner how I really feel?"
+       "Điều gì đáng để kỷ niệm trong cuộc đời tôi?",
+       "Làm thế nào tôi có thể thể hiện cảm xúc của mình theo những cách thích hợp?",
+       "Tôi có thể làm gì để cho đối tác thấy tôi thực sự cảm thấy thế nào?"
       ],
-      "fortuneTelling": [
-        "Unconventional romance is coming your way: a love affair with someone you've always dismissed"
+       "fortuneTelling": [
+       "Sự lãng mạn bất thường đang đến theo cách của bạn: mối tình với người mà bạn luôn gạt bỏ"
       ],
       "id": "c3"
     },
@@ -1724,47 +1723,47 @@ export default {
       "suit": "Cups",
       "img": "c04.jpg",
       "keywords": [
-        "boredom",
-        "listlessness",
-        "lethargy",
-        "stability",
-        "ingratitude"
+       "buồn chán",
+       "bơ phờ",
+       "lờ đờ",
+       "sự ổn định",
+       "sự khôn ngoan"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "maintaining your emotional stability",
-            "refusing to give in to overwhelming emotions",
-            "appreciating what you have and refusing to take it for granted",
-            "seeing the value of long-term commitments"
+     "meanings": {
+       "old": {
+         "upright": [
+           "duy trì sự ổn định cảm xúc của bạn",
+           "không chịu đầu hàng trước những cảm xúc tràn trề",
+           "đánh giá cao những gì bạn có và từ chối coi nó là điều hiển nhiên",
+           "thấy giá trị của các cam kết dài hạn"
           ],
-          "reversed": [
-            "being bored",
-            "daydreaming at the expense of your work",
-            "refusing to be engaged by opportunity",
-            "taking people and relationships for granted",
-            "ignoring romantic or spiritual opportunities",
-            "spurning inspiration",
-            "feeling everything should stay \"just like it is\""
+         "reversed": [
+           "đang chán",
+           "mơ mộng với công việc của bạn",
+           "từ chối tham gia theo cơ hội",
+           "coi mọi người và các mối quan hệ là điều hiển nhiên",
+           "bỏ qua những cơ hội lãng mạn hoặc tinh thần",
+           "khơi nguồn cảm hứng",
+           "cảm thấy mọi thứ nên ở lại \" giống như nó là \""
           ]
         },
-        "new": {
-          "upright": [
-            "apathy",
-            "contemplation",
-            "feeling disconnected",
-            "melancholy",
-            "boredom",
-            "indifference",
-            "discontent"
+       "new": {
+         "upright": [
+           "thờ ơ",
+           "chiêm ngưỡng",
+           "cảm thấy mất kết nối",
+           "sầu muộn",
+           "buồn chán",
+           "thờ ơ",
+           "bất mãn"
           ],
-          "reversed": [
-            "clarity",
-            "awareness",
-            "acceptance",
-            "choosing happiness",
-            "depression",
-            "negativity"
+         "reversed": [
+           "trong trẻo",
+           "nhận thức",
+           "chấp thuận",
+           "lựa chọn hạnh phúc",
+           "Phiền muộn",
+           "tiêu cực"
           ]
         }
       },
@@ -1774,13 +1773,13 @@ export default {
       "astrology": "Moon in Cancer",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
       "questions": [
-        "How can I use this \"downtime\" to my best advantage?",
-        "How can I show my partner that I don't take him or her for granted?",
-        "To what extent is my mood blinding me to new opportunities?"
+       "Làm cách nào tôi có thể sử dụng \" thời gian chết \"này để tạo lợi thế tốt nhất cho mình?",
+       "Làm thế nào tôi có thể cho đối tác của mình thấy rằng tôi không coi anh ấy hoặc cô ấy là điều hiển nhiên?",
+       "Tâm trạng của tôi đang làm tôi mù quáng trước những cơ hội mới ở mức độ nào?"
       ],
-      "fortuneTelling": [
-        "A lover is getting restless",
-        "Find out what he or she needs, or new opportunities may lure your partner away"
+       "fortuneTelling": [
+       "Một người yêu đang trở nên bồn chồn",
+       "Tìm hiểu những gì anh ấy hoặc cô ấy cần, hoặc những cơ hội mới có thể thu hút đối tác của bạn"
       ],
       "id": "c4"
     },
@@ -1791,49 +1790,49 @@ export default {
       "suit": "Cups",
       "img": "c05.jpg",
       "keywords": [
-        "loss",
-        "despair",
-        "re-evaluation",
-        "regret",
-        "uncertainty",
-        "repentance"
+       "sự mất mát",
+       "tuyệt vọng",
+       "đánh giá lại",
+       "hối tiếc",
+       "tính không chắc chắn",
+       "ăn năn"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "acknowledging loss and moving on",
-            "focusing on how the glass remains \"half-full\"",
-            "finding the silver lining in a dark cloud",
-            "recognizing that loss is a natural part of life",
-            "embracing healthy grief",
-            "learning lessons from harsh consequences"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thừa nhận mất mát và tiếp tục",
+           "tập trung vào cách kính vẫn còn \" nửa đầy \"",
+           "tìm thấy lớp lót bạc trong một đám mây đen",
+           "nhận ra rằng mất mát là một phần tự nhiên của cuộc sống",
+           "ôm lấy nỗi đau lành",
+           "rút ra bài học từ những hậu quả khắc nghiệt"
           ],
-          "reversed": [
-            "wallowing in unhealthy grief or self-pity",
-            "refusing to move on and let go",
-            "clinging to the past",
-            "obsessing on past lives and past loves",
-            "failing to live in the present",
-            "beating yourself up over past mistakes",
-            "allowing fear of failure to limit your efforts"
+         "reversed": [
+           "chìm đắm trong đau buồn không lành mạnh hoặc tự thương hại",
+           "từ chối tiến lên và buông bỏ",
+           "bám vào quá khứ",
+           "ám ảnh về tiền kiếp và tình yêu trong quá khứ",
+           "không thể sống trong hiện tại",
+           "đánh bại bản thân vì những sai lầm trong quá khứ",
+           "để nỗi sợ thất bại hạn chế nỗ lực của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "loss",
-            "grief",
-            "disappointment",
-            "sadness",
-            "mourning",
-            "discontent",
-            "feeling let down"
+       "new": {
+         "upright": [
+           "sự mất mát",
+           "nỗi buồn",
+           "thất vọng",
+           "sự sầu não",
+           "tang chế",
+           "bất mãn",
+           "cảm thấy thất vọng"
           ],
-          "reversed": [
-            "acceptance",
-            "moving on",
-            "finding peace",
-            "contentment",
-            "seeing positives"
+         "reversed": [
+           "chấp thuận",
+           "tiếp tục",
+           "tìm kiếm bình yên",
+           "mãn nguyện",
+           "thấy tích cực"
           ]
         }
       },
@@ -1843,14 +1842,14 @@ export default {
       "astrology": "Mars in Scorpio",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
       "questions": [
-        "How do I tend to deal with loss?",
-        "What life lesson might I be learning now?",
-        "How can I shift my attention from the past to the future?"
+       "Làm thế nào để tôi có xu hướng đối phó với mất mát?",
+       "Tôi có thể học được bài học cuộc sống nào bây giờ?",
+       "Làm thế nào tôi có thể chuyển sự chú ý của mình từ quá khứ sang tương lai?"
       ],
-      "fortuneTelling": [
-        "A breakup looms",
-        "Don't cry over spilt milk",
-        "Take your lumps and get back in the saddle"
+       "fortuneTelling": [
+       "Một cuộc chia tay lấp ló",
+       "Đừng khóc vì sữa bị đổ",
+       "Lấy cục u của bạn và trở lại yên xe"
       ],
       "id": "c5"
     },
@@ -1861,45 +1860,45 @@ export default {
       "suit": "Cups",
       "img": "c06.jpg",
       "keywords": [
-        "charity",
-        "sharing",
-        "sacrifice",
-        "cooperation",
-        "fairness"
+       "từ thiện",
+       "chia sẻ",
+       "hy sinh",
+       "sự hợp tác",
+       "công bằng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "donating your time and talents to others",
-            "taking satisfaction in knowing how your efforts will aid others",
-            "creating a \"win-win\" scenario",
-            "giving even when you know repayment is not possible",
-            "being motivated to do a good deed"
+     "meanings": {
+       "old": {
+         "upright": [
+           "cống hiến thời gian và tài năng của bạn cho người khác",
+           "lấy shài lòng khi biết nỗ lực của bạn sẽ hỗ trợ người khác như thế nào",
+           "tạo một \" win-win \"kịch bản",
+           "cho ngay cả khi bạn biết là không thể hoàn trả",
+           "được thúc đẩy để làm một việc tốt"
           ],
-          "reversed": [
-            "linking your sense of self-worth to the appraisals of others",
-            "striving to appear more needy than you really are",
-            "taking undeserved or unmerited charity",
-            "bragging about your charitable efforts",
-            "profiteering in times of distress",
-            "refusing to share a burden"
+         "reversed": [
+           "liên kết ý thức về giá trị bản thân với đánh giá của người khác",
+           "phấn đấu để tỏ ra thiếu thốn hơn bạn thực sự",
+           "làm từ thiện không đáng có hoặc không xứng đáng",
+           "khoe khoang về những nỗ lực từ thiện của bạn",
+           "trục lợi trong lúc túng quẫn",
+           "từ chối chia sẻ gánh nặng"
           ]
         },
-        "new": {
-          "upright": [
-            "nostalgia",
-            "memories",
-            "familiarity",
-            "healing",
-            "comfort",
-            "sentimentality",
-            "pleasure"
+       "new": {
+         "upright": [
+           "Hoài cổ",
+           "ký ức",
+           "quen thuộc",
+           "đang lành lại",
+           "an ủi",
+           "tình cảm",
+           "vui lòng"
           ],
-          "reversed": [
-            "stuck in past",
-            "moving forward",
-            "leaving home",
-            "independence"
+         "reversed": [
+           "kẹt trong quá khứ",
+           "tiến về phía trước",
+           "rời khỏi nhà",
+           "Sự độc lập"
           ]
         }
       },
@@ -1909,13 +1908,13 @@ export default {
       "astrology": "Sun in Scorpio",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
       "questions": [
-        "What gifts do I possess? How freely do I give them?",
-        "How can I practice unconditional giving?",
-        "How would things change if I became a more charitable person?"
+       "Tôi sở hữu những món quà nào? Tôi có thể tặng chúng một cách tự do như thế nào?",
+       "Làm thế nào tôi có thể thực hành cho đi vô điều kiện?",
+       "Mọi thứ sẽ thay đổi như thế nào nếu tôi trở thành một người từ thiện hơn?"
       ],
-      "fortuneTelling": [
-        "A stingy spirit is strangling your enjoyment of life",
-        "Loosen up and think of others for once, why don't you?"
+       "fortuneTelling": [
+       "Tinh thần keo kiệt đang bóp nghẹt sự tận hưởng cuộc sống của bạn",
+       "Thả lỏng và nghĩ đến người khác một lần, tại sao bạn không?"
       ],
       "id": "c6"
     },
@@ -1925,47 +1924,47 @@ export default {
       "arcana": "Minor Arcana",
       "suit": "Cups",
       "img": "c07.jpg",
-      "keywords": [
-        "imagination",
-        "dreams",
-        "illusions",
-        "goals"
+       "keywords": [
+       "trí tưởng tượng",
+       "những giấc mơ",
+       "ảo tưởng",
+       "bàn thắng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "motivating yourself with images of future success",
-            "using visualization to encourage progress",
-            "taking an imaginative or creative approach to problem solving",
-            "making dreams come true",
-            "gleaning insight from personal visions"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thúc đẩy bản thân bằng những hình ảnh về thành công trong tương lai",
+           "sử dụng hình ảnh hóa để khuyến khích sự tiến bộ",
+           "thực hiện một cách tiếp cận giàu trí tưởng tượng hoặc sáng tạo để giải quyết vấn đề",
+           "biến ước mơ thành hiện thực",
+           "thu thập cái nhìn sâu sắc từ tầm nhìn cá nhân"
           ],
-          "reversed": [
-            "obsessing on imaginary fears or uncertain consequences",
-            "giving in to emotional or political terrorism",
-            "spending more time dreaming than working",
-            "failing to envision the possible repercussions of your choices",
-            "being controlled by fear"
+         "reversed": [
+           "ám ảnh về những nỗi sợ tưởng tượng hoặc những hậu quả không chắc chắn",
+           "nhượng bộ chủ nghĩa khủng bố tình cảm hoặc chính trị",
+           "dành nhiều thời gian để mơ hơn là làm việc",
+           "không hình dung được những hậu quả có thể xảy ra đối với những lựa chọn của bạn",
+           "bị điều khiển bởi sự sợ hãi"
           ]
         },
-        "new": {
-          "upright": [
-            "choices",
-            "searching for purpose",
-            "illusion",
-            "fantasy",
-            "daydreaming",
-            "wishful thinking",
-            "indecision"
+       "new": {
+         "upright": [
+           "lựa chọn",
+           "tìm kiếm mục đích",
+           "ảo giác",
+           "tưởng tượng",
+           "mơ mộng",
+           "suy nghĩ viển vông",
+           "do dự"
           ],
-          "reversed": [
-            "lack of purpose",
-            "disarray",
-            "confusion",
-            "diversion",
-            "distractions",
-            "clarity",
-            "making choices"
+         "reversed": [
+           "thiếu mục đích",
+           "lộn xộn",
+           "sự hoang mang",
+           "chuyển hướng",
+           "phiền nhiễu",
+           "trong trẻo",
+           "lựa chọn"
           ]
         }
       },
@@ -1974,14 +1973,14 @@ export default {
       "affirmation": "\"I use inner vision as a tool for growth.\"",
       "astrology": "Venus in Scorpio",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
-      "questions": [
-        "What do you want most? What do you fear most? How are these related?",
-        "How is your imagination working for you? Against you?",
-        "How might a clearer personal vision help you choose a single cup from the many available?"
+       "questions": [
+       "Bạn muốn điều gì nhất? Bạn sợ điều gì nhất? Những điều này có liên quan như thế nào?",
+       "Trí tưởng tượng của bạn có tác dụng với bạn như thế nào? Chống lại bạn?",
+       "Làm thế nào để tầm nhìn cá nhân rõ ràng hơn có thể giúp bạn chọn một cốc duy nhất trong số nhiều cốc có sẵn?"
       ],
-      "fortuneTelling": [
-        "You're being fed a line",
-        "Rather than be dazzled by fancy words and promises, demand something real"
+       "fortuneTelling": [
+       "Bạn đang được cho ăn một dòng",
+       "Thay vì bị lóa mắt bởi những lời nói và lời hứa hoa mỹ, hãy yêu cầu một cái gì đó thực sự"
       ],
       "id": "c7"
     },
@@ -1992,49 +1991,48 @@ export default {
       "suit": "Cups",
       "img": "c08.jpg",
       "keywords": [
-        "longing",
-        "dissatisfaction",
-        "quest",
-        "departure",
-        "withdrawal"
+       "khao khát",
+       "không hài lòng",
+       "nhiệm vụ",
+       "sự khởi hành",
+       "rút tiền"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "wanting something better",
-            "blazing your own trail",
-            "realizing there must be more to life",
-            "leaving an unhealthy situation behind",
-            "starting your own business",
-            "going on a retreat",
-            "seeking the \"still, small voice\""
+     "meanings": {
+       "old": {
+         "upright": [
+           "muốn một cái gì đó tốt hơn",
+           "đốt cháy con đường của riêng bạn",
+           "nhận ra rằng phải có nhiều thứ hơn cho cuộc sống",
+           "để lại một tình trạng không lành mạnh",
+           "bắt đầu kinh doanh của riêng bạn",
+           "đang nhập thất",
+           "tìm kiếm \"tĩnh lặng, giọng nói nhỏ\""
           ],
-          "reversed": [
-            "being implacable",
-            "finding fault",
-            "nitpicking",
-            "refusing to settle down",
-            "running away from problems or confrontations",
-            "saying, \"it's my way or the highway!\"",
-            "harping on past mistakes and disappointments",
-            "threatening to quit as a strategy to get your way"
+         "reversed": [
+           "không thể thay thế",
+           "tìm lỗi",
+           "xoi mói",
+           "từ chối ổn định",
+           "chạy trốn khỏi các vấn đề hoặc đối đầu",
+           "\"đó là đường của tôi hoặc đường cao tốc!\"",
+           "khắc phục những sai lầm và thất vọng trong quá khứ",
+           "đe dọa bỏ thuốc lá như một chiến lược để đi theo con đường của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "abandonment",
-            "walking away",
-            "letting go",
-            "searching for truth",
-            "leaving behind"
+       "new": {
+         "upright": [
+           "sự bỏ rơi",
+           "đi chỗ khác","buông tay",
+           "tìm kiếm sự thật",
+           "để lại đằng sau"
           ],
-          "reversed": [
-            "stagnation",
-            "monotony",
-            "accepting less",
-            "avoidance",
-            "fear of change",
-            "staying in bad situation"
+         "reversed": [
+           "trì trệ",
+           "đơn điệu",
+           "chấp nhận ít hơn",
+           "tránh",
+           "sợ thay đổi",
+           "ở trong tình huống xấu"
           ]
         }
       },
@@ -2044,13 +2042,13 @@ export default {
       "astrology": "Saturn in Pisces",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
       "questions": [
-        "What do I need to leave behind once and for all?",
-        "If I left in search of \"more,\" what would I be looking for, exactly?",
-        "How might a retreat enhance my perspective?"
+       "Tôi cần để lại gì sau một lần và mãi mãi?",
+       "Nếu tôi tìm kiếm thêm \"chính xác thì tôi sẽ tìm kiếm cái gì?\"",
+       "Làm thế nào để một cuộc rút lui có thể nâng cao quan điểm của tôi?"
       ],
-      "fortuneTelling": [
-        "Someone's \"stepping out\" on you, now or in the near future",
-        "Maybe it's time to quit talking about the problem and just move on"
+       "fortuneTelling": [
+       "Ai đó đang \"bước ra\"với bạn, bây giờ hoặc trong tương lai gần",
+       "Có lẽ đã đến lúc thôi nói về vấn đề và chỉ cần tiếp tục"
       ],
       "id": "c8"
     },
@@ -2061,48 +2059,48 @@ export default {
       "suit": "Cups",
       "img": "c09.jpg",
       "keywords": [
-        "satisfaction",
-        "sensuality",
-        "luxury",
-        "pleasure"
+       "sự thỏa mãn",
+       "gợi cảm",
+       "sang trọng",
+       "vui lòng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "being delighted with your own achievements",
-            "recognizing your own talents and abilities",
-            "reveling in the good things life has to offer",
-            "indulging yourself",
-            "relaxing and unwinding",
-            "having everything you need in order to feel complete"
+     "meanings": {
+       "old": {
+         "upright": [
+           "vui mừng với thành quả của riêng bạn",
+           "nhận ra tài năng và khả năng của chính bạn",
+           "tận hưởng những điều tốt đẹp mà cuộc sống mang lại",
+           "tự thưởng thức bản thân",
+           "thư giãn và thư giãn",
+           "có mọi thứ bạn cần để cảm thấy trọn vẹn"
           ],
-          "reversed": [
-            "being smug",
-            "satisfying yourself at the expense of others",
-            "being selfish",
-            "over-indulging",
-            "avoiding work that needs to be done",
-            "claiming achievements or skills you do not possess",
-            "never being satisfied, no matter how much you have"
+         "reversed": [
+           "tự mãn",
+           "thỏa mãn bản thân với chi phí của người khác",
+           "ích kỷ",
+           "quá ham mê",
+           "tránh công việc cần phải làm",
+           "yêu cầu những thành tựu hoặc kỹ năng bạn không có",
+           "không bao giờ hài lòng, cho dù bạn có bao nhiêu"
           ]
         },
-        "new": {
-          "upright": [
-            "wishes coming true",
-            "contentment",
-            "satisfaction",
-            "success",
-            "achievements",
-            "recognition",
-            "pleasure"
+       "new": {
+         "upright": [
+           "điều ước trở thành sự thật",
+           "mãn nguyện",
+           "sự thỏa mãn",
+           "thành công",
+           "thành tựu",
+           "sự công nhận",
+           "vui lòng"
           ],
-          "reversed": [
-            "unhappiness",
-            "lack of fulfilment",
-            "disappointment",
-            "underachievement",
-            "arrogance",
-            "snobbery"
+         "reversed": [
+           "bất hạnh",
+           "thiếu sự hoàn thành",
+           "thất vọng",
+           "underachievement",
+           "kiêu căng",
+           "hợm hĩnh"
           ]
         }
       },
@@ -2112,12 +2110,12 @@ export default {
       "astrology": "Jupiter in Pisces",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
       "questions": [
-        "What is true happiness?",
-        "If I could have anything, what would I have?",
-        "What is my attitude toward luxury? Do I deserve it?"
+       "Hạnh phúc thực sự là gì?",
+       "Nếu tôi có thể có bất cứ điều gì, tôi sẽ có gì?",
+       "Thái độ của tôi đối với sự xa hoa là gì? Tôi có xứng đáng với nó không?"
       ],
-      "fortuneTelling": [
-        "Whatever you want, you'll get it"
+       "fortuneTelling": [
+       "Bất cứ điều gì bạn muốn, bạn sẽ có được nó"
       ],
       "id": "c9"
     },
@@ -2128,42 +2126,42 @@ export default {
       "suit": "Cups",
       "img": "c10.jpg",
       "keywords": [
-        "joy",
-        "fulfillment",
-        "overwhelming emotion",
-        "giddiness"
+       "vui sướng",
+       "sự hoàn thành",
+       "cảm xúc tràn trề",
+       "ham chơi"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "having more than you ever dreamed",
-            "being deeply thankful for all you've been given",
-            "recognizing the hand of god in the gifts the universe brings your way",
-            "experiencing transcendent joy",
-            "achieving domestic bliss"
+     "meanings": {
+       "old": {
+         "upright": [
+           "có nhiều hơn những gì bạn từng mơ",
+           "biết ơn sâu sắc vì tất cả những gì bạn đã được cho",
+           "nhận ra bàn tay của chúa trong những món quà mà vũ trụ mang lại theo cách của bạn",
+           "trải nghiệm niềm vui siêu việt",
+           "đạt được hạnh phúc trong nước"
           ],
-          "reversed": [
-            "comparing your achievements or relationships to unrealistic fantasy standards",
-            "experiencing emotions so intense they blunt your ability to cope with reality",
-            "feeling overwhelmed",
-            "envying the achievements and happiness of others"
+         "reversed": [
+           "so sánh thành tích hoặc mối quan hệ của bạn với các tiêu chuẩn tưởng tượng phi thực tế",
+           "trải qua những cảm xúc mãnh liệt đến mức làm giảm khả năng đương đầu với thực tế của bạn",
+           "cảm thấy choáng ngợp",
+           "ghen tị với những thành tựu và hạnh phúc của người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "happiness",
-            "homecomings",
-            "fulfillment",
-            "emotional stability",
-            "security",
-            "domestic harmony"
+       "new": {
+         "upright": [
+           "niềm hạnh phúc",
+           "thiếu sót",
+           "sự hoàn thành",
+           "ổn định cảm xúc",
+           "Bảo vệ",
+           "hòa hợp trong nước"
           ],
-          "reversed": [
-            "unhappy home",
-            "separation",
-            "domestic conflict",
-            "disharmony",
-            "isolationâ€‹"
+         "reversed": [
+           "ngôi nhà không hạnh phúc",
+           "tách biệt",
+           "xung đột trong nước",
+           "bất hòa",
+           "cô lập"
           ]
         }
       },
@@ -2173,13 +2171,13 @@ export default {
       "astrology": "Mars in Pisces",
       "numerology": "10 (The End: finality, completion, exhaustion)",
       "questions": [
-        "Who gets to define what \"joy\" consists of?",
-        "What course of action is available when you feel overwhelmed?",
-        "How might vows or promises play a role in achieving a greater level of joy in your life?"
+       "Ai có thể định nghĩa \"niềm vui\"bao gồm những gì?",
+       "Hành động nào khả dụng khi bạn cảm thấy quá tải?",
+       "Lời thề hoặc lời hứa có thể đóng vai trò như thế nào trong việc đạt được mức độ vui vẻ lớn hơn trong cuộc sống của bạn?"
       ],
-      "fortuneTelling": [
-        "Marriage and family are in the cards",
-        "Expect a friendship to blossom into a romance"
+       "fortuneTelling": [
+       "Hôn nhân và gia đình nằm trong lá bài",
+       "Mong đợi một tình bạn nảy nở trongđến một mối tình lãng mạn"
       ],
       "id": "c10"
     },
@@ -2190,47 +2188,47 @@ export default {
       "suit": "Cups",
       "img": "c11.jpg",
       "keywords": [
-        "enthusiasm",
-        "first impressions",
-        "romanticism",
-        "superficiality"
+       "hăng hái",
+       "những ấn tượng đầu tiên",
+       "chủ nghĩa lãng mạn",
+       "bề ngoài"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "showing your emotions freely",
-            "throwing yourself into romance",
-            "nursing a secret crush",
-            "indulging in romantic fantasy",
-            "starting a new relationship",
-            "recalling your first love",
-            "experiencing love for the first time",
-            "converting to a new religion"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thể hiện cảm xúc của bạn một cách tự do",
+           "thả mình vào sự lãng mạn",
+           "nuôi dưỡng một tình yêu thầm kín",
+           "đắm chìm trong tưởng tượng lãng mạn",
+           "bắt đầu một mối quan hệ mới",
+           "nhớ lại mối tình đầu của bạn",
+           "lần đầu tiên trải qua tình yêu",
+           "chuyển đổi sang một tôn giáo mới"
           ],
-          "reversed": [
-            "mistaking a crush for true love",
-            "reading romantic intention into innocent action",
-            "frantically trying to impress others",
-            "indulging in overly-sweet sentimentality",
-            "pretending to more romantic or spiritual experience than you possess"
+         "reversed": [
+           "nhầm tình yêu với tình yêu đích thực",
+           "đọc ý định lãng mạn thành hành động vô tội",
+           "điên cuồng cố gắng gây ấn tượng với người khác",
+           "tận hưởng tình cảm quá ngọt ngào",
+           "giả vờ trải nghiệm lãng mạn hoặc tâm linh hơn những gì bạn có"
           ]
         },
-        "new": {
-          "upright": [
-            "idealism",
-            "sensitivity",
-            "dreamer",
-            "naivete",
-            "innocence",
-            "inner child",
-            "head in the clouds"
+       "new": {
+         "upright": [
+           "chủ nghĩa duy tâm",
+           "nhạy cảm",
+           "người mơ mộng",
+           "ngây thơ",
+           "Vô tội",
+           "đứa trẻ bên trong",
+           "trên mây"
           ],
-          "reversed": [
-            "emotional vulnerability",
-            "immaturity",
-            "neglecting inner child",
-            "escapism",
-            "insecurity"
+         "reversed": [
+           "tổn thương cảm xúc",
+           "chưa trưởng thành",
+           "bỏ mặc đứa trẻ bên trong",
+           "chủ nghĩa thoát ly",
+           "bất an"
           ]
         }
       },
@@ -2239,12 +2237,12 @@ export default {
       "affirmation": "\"I am ready to embrace love and Spirit.\"",
       "elemental": "Earth of Water.",
       "questions": [
-        "How worried are you that others will see you as foolish or inexperienced?",
-        "To what extent can you be honest about your lack of experience in love and faith?",
-        "How can you maintain enthusiasm over time?"
+       "Bạn lo lắng đến mức nào khi người khác sẽ thấy bạn là người ngu ngốc hoặc thiếu kinh nghiệm?",
+       "Bạn có thể thành thật về việc mình thiếu kinh nghiệm trong tình yêu và niềm tin ở mức độ nào?",
+       "Làm thế nào bạn có thể duy trì sự nhiệt tình theo thời gian?"
       ],
-      "fortuneTelling": [
-        "This card represents a young man or woman with a watery, dreamy demeanor, likely born a Libra, Scorpio, or Sagittarius, who wants to start a new relationship with you"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông hoặc phụ nữ trẻ với phong thái thủy chung, mơ mộng, có khả năng sinh ra là Libra, Scorpio, hoặc Sagittarius, những người muốn bắt đầu một mối quan hệ mới với bạn"
       ],
       "id": "cp"
     },
@@ -2255,47 +2253,47 @@ export default {
       "suit": "Cups",
       "img": "c12.jpg",
       "keywords": [
-        "fervor",
-        "zeal",
-        "moodiness",
-        "illumination"
+       "nhiệt thành",
+       "nhiệt thành",
+       "ủ rũ",
+       "sự chiếu sáng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "being deeply committed to a cause",
-            "giving in to strong emotions, from excitement to depression",
-            "acting on intuition alone",
-            "solving problems intuitively",
-            "believing in and basing decisions on ideals instead of realities",
-            "bringing intuition or passion to the table"
+     "meanings": {
+       "old": {
+         "upright": [
+           "cam kết sâu sắc cho một sự nghiệp",
+           "nhượng bộ những cảm xúc mạnh mẽ, từ phấn khích đến trầm cảm",
+           "chỉ hành động dựa trên trực giác",
+           "giải quyết vấn đề bằng trực giác",
+           "tin tưởng và đưa ra quyết định dựa trên lý tưởng thay vì thực tế",
+           "mang trực giác hoặc niềm đam mê vào bàn ăn"
           ],
-          "reversed": [
-            "becoming a fanatic",
-            "rejecting information that suggests your intuitions are misguided",
-            "allowing your emotions to control you",
-            "giving in to jealousy, confrontation, and peer pressure",
-            "hiding or ignoring intuitive insights"
+         "reversed": [
+           "trở thành một người cuồng tín",
+           "từ chối thông tin cho thấy trực giác của bạn là sai lầm",
+           "cho phép cảm xúc của bạn kiểm soát bạn",
+           "nhượng bộ trước sự ghen tị, đối đầu và áp lực từ bạn bè",
+           "ẩn hoặc bỏ qua thông tin chi tiết trực quan"
           ]
         },
-        "new": {
-          "upright": [
-            "idealist",
-            "charming",
-            "artistic",
-            "graceful",
-            "tactful",
-            "diplomatic",
-            "mediator",
-            "negotiator"
+       "new": {
+         "upright": [
+           "người theo chủ nghĩa lý tưởng",
+           "quyến rũ",
+           "thuộc về nghệ thuật",
+           "duyên dáng",
+           "khéo léo",
+           "ngoại giao",
+           "người hòa giải",
+           "người thương lượng"
           ],
-          "reversed": [
-            "disappointment",
-            "tantrums",
-            "moodiness",
-            "turmoil",
-            "avoiding conflict",
-            "vanity"
+         "reversed": [
+           "thất vọng",
+           "nổi cơn thịnh nộ",
+           "ủ rũ",
+           "hỗn loạn",
+           "tránh xung đột",
+           "tự phụ"
           ]
         }
       },
@@ -2304,12 +2302,12 @@ export default {
       "affirmation": "\"I translate my passions into actions.\"",
       "elemental": "Air of Water.",
       "questions": [
-        "How prone to emotional extremes are you?",
-        "What's the difference in driving passion and blind zeal?",
-        "How can you inspire others without inciting a riot?"
+       "Bạn có khuynh hướng cực đoan về cảm xúc như thế nào?",
+       "Sự khác biệt giữa đam mê lái xe và lòng nhiệt thành mù quáng là gì?",
+       "Làm thế nào bạn có thể truyền cảm hứng cho người khác mà không kích động bạo loạn?"
       ],
-      "fortuneTelling": [
-        "This card represents a man with an emotional, sensitive personality, likely born between October 13th and November 11th, who wants you to rally around his latest passionate cause"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông có tính cách dễ xúc động, nhạy cảm, có khả năng sinh từ ngày 13 tháng 10 đến ngày 11 tháng 11, người muốn bạn tập trung vào niềm đam mê mới nhất của anh ấy"
       ],
       "id": "cn"
     },
@@ -2320,47 +2318,47 @@ export default {
       "suit": "Cups",
       "img": "c13.jpg",
       "keywords": [
-        "insightfulness",
-        "spirituality",
-        "compassion",
-        "empathy",
-        "instinct"
+       "sâu sắc",
+       "tâm linh",
+       "thương hại",
+       "sự đồng cảm",
+       "bản năng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "allowing yourself to be moved by the plight of others",
-            "feeling strong emotions",
-            "possessing unusual sympathy or empathy",
-            "trusting your feelings to guide you",
-            "calling on psychic abilities",
-            "achieving unity with spirit"
+     "meanings": {
+       "old": {
+         "upright": [
+           "cho phép bản thân rung động trước hoàn cảnh của người khác",
+           "cảm thấy cảm xúc mạnh mẽ",
+           "sở hữu sự đồng cảm hoặc cảm thông khác thường",
+           "tin tưởng vào cảm xúc của bạn để hướng dẫn bạn",
+           "kêu gọi khả năng tâm linh",
+           "đạt được sự thống nhất với tinh thần"
           ],
-          "reversed": [
-            "becoming so caught up in matters of spirit, you become detached from the world",
-            "allowing empathy to disable you (instead of inspire action)",
-            "using psychic abilities to wield covert influence",
-            "wallowing in emotionalism, sentiment, or self-pity"
+         "reversed": [
+           "trở nên quá bị cuốn vào các vấn đềcủa tinh thần, bạn trở nên tách biệt khỏi thế giới",
+           "cho phép sự đồng cảm vô hiệu hóa bạn (thay vì truyền cảm hứng cho hành động)",
+           "sử dụng khả năng tâm linh để nắm giữ ảnh hưởng bí mật",
+           "chìm đắm trong chủ nghĩa cảm xúc, tình cảm hoặc sự tự thương hại"
           ]
         },
-        "new": {
-          "upright": [
-            "compassion",
-            "warmth",
-            "kindness",
-            "intuition",
-            "healer",
-            "counsellor",
-            "supportive"
+       "new": {
+         "upright": [
+           "thương hại",
+           "ấm áp",
+           "lòng tốt",
+           "trực giác",
+           "thầy thuốc",
+           "cố vấn",
+           "hỗ trợ"
           ],
-          "reversed": [
-            "insecurity",
-            "giving too much",
-            "overly-sensitive",
-            "needy",
-            "fragile",
-            "dependence",
-            "martyrdom"
+         "reversed": [
+           "bất an",
+           "cho quá nhiều",
+           "quá nhạy cảm",
+           "thiếu thốn",
+           "dễ vỡ",
+           "sự phụ thuộc",
+           "tử đạo"
           ]
         }
       },
@@ -2369,12 +2367,12 @@ export default {
       "affirmation": "\"I choose to be enabled, not disabled, by my strong emotions.\"",
       "elemental": "Water of Water.",
       "questions": [
-        "How do I handle strong emotions?",
-        "To what extent am I a victim of my own feelings?",
-        "How can I move from reflection to action?"
+       "Làm cách nào để xử lý cảm xúc mạnh?",
+       "Tôi là nạn nhân của cảm xúc của chính mình ở mức độ nào?",
+       "Làm thế nào tôi có thể chuyển từ suy tư sang hành động?"
       ],
-      "fortuneTelling": [
-        "This card represents a woman with an emotional, deeply spiritual nature, likely born between June 11th and July 11th, who uses emotional and spiritual appeals to sway others to her point of view"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người phụ nữ có bản chất tình cảm, tâm linh sâu sắc, có khả năng sinh từ ngày 11 tháng 6 đến ngày 11 tháng 7, người sử dụng sức hấp dẫn về tình cảm và tinh thần để thuyết phục người khác theo quan điểm của mình"
       ],
       "id": "cq"
     },
@@ -2385,45 +2383,45 @@ export default {
       "suit": "Cups",
       "img": "c14.jpg",
       "keywords": [
-        "wisdom",
-        "diplomacy",
-        "restraint",
-        "composure"
+       "sự khôn ngoan",
+       "ngoại giao",
+       "kiềm chế",
+       "điềm tĩnh"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "keeping a stiff upper lip",
-            "being brave and clear in the face of adverse circumstances",
-            "sharing experience as a way of comforting others",
-            "making fair and empathetic decisions",
-            "honoring the spirit, not just the letter, of the law"
+     "meanings": {
+       "old": {
+         "upright": [
+           "giữ môi trên cứng",
+           "dũng cảm và sáng suốt đối mặt với hoàn cảnh bất lợi",
+           "chia sẻ kinh nghiệm như một cách an ủi người khác",
+           "đưa ra quyết định công bằng và thấu cảm",
+           "tôn vinh tinh thần, không chỉ là chữ cái, của luật pháp"
           ],
-          "reversed": [
-            "allowing yourself to become rigid and unemotional",
-            "making unfair decisions based on a hidden agenda",
-            "making decisions without regard for their emotional impact on others",
-            "abusing spiritual authority",
-            "using emotional or spiritual leverage to exercise unhealthy control over others"
+         "reversed": [
+           "cho phép bản thân trở nên cứng nhắc và bất cần",
+           "đưa ra quyết định không công bằng dựa trên một chương trình làm việc ẩn",
+           "đưa ra quyết định mà không quan tâm đến tác động cảm xúc của họ đối với người khác",
+           "lạm dụng quyền lực thuộc linh",
+           "sử dụng đòn bẩy tình cảm hoặc tinh thần để thực hiện sự kiểm soát không lành mạnh đối với người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "wise",
-            "diplomatic",
-            "balance between head and heart",
-            "devoted",
-            "advisor",
-            "counsellor"
+       "new": {
+         "upright": [
+           "khôn ngoan",
+           "ngoại giao",
+           "cân bằng giữa đầu và tim",
+           "hết lòng",
+           "cố vấn",
+           "cố vấn"
           ],
-          "reversed": [
-            "overwhelmed",
-            "anxious",
-            "cold",
-            "repressed",
-            "withdrawn",
-            "manipulative",
-            "selfish"
+         "reversed": [
+           "choáng ngợp",
+           "lo lắng",
+           "lạnh",
+           "kìm nén",
+           "rút lui",
+           "thao túng",
+           "ích kỷ"
           ]
         }
       },
@@ -2432,15 +2430,13 @@ export default {
       "affirmation": "\"I strive to be stable and fair-minded.\"",
       "elemental": "Fire of Water.",
       "questions": [
-        "What wise person could be consulted for good advice?",
-        "How can I make sure I'm being as objective and fair as possible?",
-        "To what extent am I capable of keeping a \"stiff upper lip?\""
+       "Người khôn ngoan nào có thể được tư vấn để có lời khuyên tốt?",
+       "Làm cách nào để đảm bảo rằng tôi đang khách quan và công bằng nhất có thể?",
+       "Tôi có thể giữ được \"môi trên căng cứng ở mức độ nào?\""
       ],
-      "fortuneTelling": [
-        "This card represents an older man with a gentle, sensitive presence, likely born between February 9th and March 10th, who is known for his fairness and tolerance"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông lớn tuổi với vẻ ngoài dịu dàng, nhạy cảm, có khả năng sinh từ ngày 9 tháng 2 đến ngày 10 tháng 3, người được biết đến với sự công bằng và khoan dung"
       ],
-      "id": "ck"
-    },
     {
       "name": "Ace of Swords",
       "number": 1,
@@ -2448,49 +2444,49 @@ export default {
       "suit": "Swords",
       "img": "s01.jpg",
       "keywords": [
-        "logic",
-        "objectivity",
-        "intellect",
-        "choice"
+       "Hợp lý",
+       "tính khách quan",
+       "trí tuệ",
+       "sự lựa chọn"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "making objective decisions",
-            "applying logic",
-            "reasoning your way out of a difficult situation",
-            "solving puzzles",
-            "thinking things through",
-            "emphasizing the facts",
-            "clearing your mind",
-            "seeking clarity"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đưa ra quyết định khách quan",
+           "áp dụng logic",
+           "lý luận theo cách của bạn thoát khỏi một tình huống khó khăn",
+           "giải quyết câu đố",
+           "suy nghĩ thấu đáo",
+           "nhấn mạnh sự thật",
+           "giải tỏa tâm trí của bạn",
+           "tìm kiếm sự rõ ràng"
           ],
-          "reversed": [
-            "applying ruthless or twisted logic",
-            "gloating over your own superior intellect",
-            "using quick thinking to deceive or confuse others",
-            "confusing snap judgments with quick thinking",
-            "making decisions without thinking through consequences"
+         "reversed": [
+           "áp dụng logic tàn nhẫn hoặc xoắn",
+           "hả hê trước trí tuệ siêu việt của chính mình",
+           "sử dụng tư duy nhanh để đánh lừa hoặc gây nhầm lẫn cho người khác",
+           "phán đoán nhanh khó hiểu với tư duy nhanh",
+           "đưa ra quyết định mà không cần suy nghĩ về hậu quả"
           ]
         },
-        "new": {
-          "upright": [
-            "clarity",
-            "breakthrough",
-            "new idea",
-            "concentration",
-            "vision",
-            "force",
-            "focus",
-            "truth"
+       "new": {
+         "upright": [
+           "trong trẻo",
+           "đột phá",
+           "ý tưởng mới",
+           "nồng độ",
+           "tầm nhìn",
+           "lực lượng",
+           "tiêu điểm",
+           "sự thật"
           ],
-          "reversed": [
-            "confusion",
-            "miscommunication",
-            "hostility",
-            "arguments",
-            "destruction",
-            "brutality"
+         "reversed": [
+           "sự hoang mang",
+           "hiểu lầm",
+           "thù địch",
+           "tranh luận",
+           "sự phá hủy",
+           "tàn bạo"
           ]
         }
       },
@@ -2500,13 +2496,13 @@ export default {
       "astrology": "Libra, Aquarius, Gemini",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
       "questions": [
-        "If I made my decision purely based on reason and logic, what would my decision be?",
-        "What do I think about my own problem-solving ability?",
-        "Who can supply me with the pure and simple facts?"
+       "Nếu tôi đưa ra quyết định hoàn toàn dựa trên lý trí và logic, thì quyết định của tôi sẽ là gì?",
+       "Tôi nghĩ gì về khả năng giải quyết vấn đề của chính mình?",
+       "Ai có thể cung cấp cho tôi những sự thật tinh khiết và đơn giản?"
       ],
-      "fortuneTelling": [
-        "The time to make a choice is now",
-        "Stop wavering and do what you know is best"
+       "fortuneTelling": [
+       "Đã đến lúc phải lựa chọn",
+       "Đừng dao động và làm những gì bạn biết là tốt nhất"
       ],
       "id": "s1"
     },
@@ -2517,44 +2513,44 @@ export default {
       "suit": "Swords",
       "img": "s02.jpg",
       "keywords": [
-        "denial",
-        "debate",
-        "impasse",
-        "truce"
+       "từ chối",
+       "tranh luận",
+       "bế tắc",
+       "đình chiến"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "refusing to make a decision without getting the facts",
-            "exploring both sides of an argument",
-            "arguing passionately for what you believe in",
-            "weighing the issues",
-            "encouraging the open exchange of ideas",
-            "discussing political or religious issues without getting \"hot under the collar\""
+     "meanings": {
+       "old": {
+         "upright": [
+           "từ chối đưa ra quyết định mà không nắm được sự thật",
+           "khám phá cả hai mặt của một cuộc tranh luận",
+           "tranh luận sôi nổi vì những gì bạn tin tưởng",
+           "cân nhắc các vấn đề",
+           "khuyến khích trao đổi ý tưởng cởi mở",
+           "thảo luận về các vấn đề chính trị hoặc tôn giáo mà không bị \" nóng lên \""
           ],
-          "reversed": [
-            "rejecting evidence that conflicts with dearly-held beliefs",
-            "arguing with others just for the sake of doing so",
-            "nit-picking",
-            "putting off a decision because you're afraid to face the consequences",
-            "preventing others from getting the information they need to make good decisions"
+         "reversed": [
+           "bác bỏ bằng chứng mâu thuẫn với niềm tin thân thiết",
+           "tranh luận với người khác chỉ vì lợi ích của việc đó",
+           "chọn nit",
+           "trì hoãn quyết định vì bạn sợ phải đối mặt với hậu quả",
+           "ngăn người khác nhận được thông tin họ cần để đưa ra quyết định đúng đắn"
           ]
         },
-        "new": {
-          "upright": [
-            "stalemate",
-            "difficult choices",
-            "stuck in the middle",
-            "denial",
-            "hidden information"
+       "new": {
+         "upright": [
+           "bế tắc",
+           "lựa chọn khó khăn",
+           "mắc kẹt ở giữa",
+           "từ chối",
+           "thông tin ẩn"
           ],
-          "reversed": [
-            "indecision",
-            "hesitancy",
-            "anxiety",
-            "too much information",
-            "no right choice",
-            "truth revealed"
+         "reversed": [
+           "do dự",
+           "sự do dự",
+           "sự lo ngại",
+           "quá nhiều thông tin",
+           "không có lựa chọn đúng",
+           "sự thật được tiết lộ"
           ]
         }
       },
@@ -2564,13 +2560,13 @@ export default {
       "astrology": "Moon in Libra",
       "numerology": "2 (The Other: duality, division, debate)",
       "questions": [
-        "What information do I need to get past this impasse?",
-        "How can I get past being defensive and see the facts?",
-        "What viewpoints, other than my own, play a role in this situation?"
+       "Tôi cần thông tin gì để vượt qua sự bế tắc này?",
+       "Làm thế nào tôi có thể vượt qua sự phòng thủ và nhìn thấy sự thật?",
+       "Quan điểm nào, ngoài quan điểm của tôi, đóng vai trò nào trong tình huống này?"
       ],
-      "fortuneTelling": [
-        "Sometimes, the only way to win is to refuse to fight",
-        "You're stuck for now; let time pass before taking action"
+       "fortuneTelling": [
+       "Đôi khi, cách duy nhất để chiến thắng là từ chối chiến đấu",
+       "Bây giờ bạn đang bị mắc kẹt; hãy để thời gian trôi qua trước khi hành động"
       ],
       "id": "s2"
     },
@@ -2581,47 +2577,47 @@ export default {
       "suit": "Swords",
       "img": "s03.jpg",
       "keywords": [
-        "variance",
-        "difference",
-        "dissatisfaction",
-        "heartache",
-        "rejection"
+       "phương sai",
+       "Sự khác biệt",
+       "không hài lòng",
+       "đau lòng",
+       "sự từ chối"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "being brave enough to see things as they really are",
-            "exercising your critical eye",
-            "being your own best critic",
-            "acknowledging that things don't always turn out as planned",
-            "moving past heartbreak to embrace a painful truth"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đủ can đảm để nhìn mọi thứ như thực tế",
+           "rèn luyện con mắt quan trọng của bạn",
+           "là nhà phê bình tốt nhất của riêng bạn",
+           "thừa nhận rằng mọi thứ không phải lúc nào cũng diễn ra như kế hoạch",
+           "vượt qua nỗi đau trong quá khứ để ôm lấy một sự thật đau đớn"
           ],
-          "reversed": [
-            "wallowing in despair",
-            "allowing yourself to be completely crushed by the thoughts, words, or deeds of another",
-            "judging yourself too harshly",
-            "holding yourself to an unrealistic standard of excellence",
-            "wearing your heart on your sleeve while carrying a chip on your shoulder"
+         "reversed": [
+           "đắm chìm trong tuyệt vọng",
+           "cho phép bản thân hoàn toàn bị nghiền nát bởi những suy nghĩ, lời nói hoặc hành động của người khác",
+           "đánh giá bản thân quá khắt khe",
+           "giữ mình theo một tiêu chuẩn không thực tế về sự xuất sắc",
+           "đeo trái tim của bạn trên tay áo của bạn trong khi mang một con chip trên vai của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "heartbreak",
-            "separation",
-            "sadness",
-            "grief",
-            "sorrow",
-            "upset",
-            "loss",
-            "trauma",
-            "tears"
+       "new": {
+         "upright": [
+           "đau lòng",
+           "tách biệt",
+           "sự sầu nảo",
+           "nỗi buồn",
+           "nỗi buồn",
+           "khó chịu",
+           "sự mất mát",
+           "tổn thương",
+           "những giọt nước mắt"
           ],
-          "reversed": [
-            "healing",
-            "forgiveness",
-            "recovery",
-            "reconciliation",
-            "repressing emotions"
+         "reversed": [
+           "đang lành lại",
+           "tha thứ",
+           "sự hồi phục",
+           "hòa giải",
+           "kìm nén cảm xúc"
           ]
         }
       },
@@ -2631,13 +2627,13 @@ export default {
       "astrology": "Saturn in Libra",
       "numerology": "3 (The Result: expression, productivity, output)",
       "questions": [
-        "How can I get past my depression?",
-        "To what extent are my emotions a matter of choice?",
-        "How can I learn from the mistakes of the past?"
+       "Làm thế nào tôi có thể vượt qua chứng trầm cảm của mình?",
+       "Cảm xúc của tôi là vấn đề lựa chọn ở mức độ nào?",
+       "Làm thế nào tôi có thể học hỏi từ những sai lầm của quá khứ?"
       ],
-      "fortuneTelling": [
-        "Breakups and infidelity abound",
-        "What hurts now, though, will turn out to be good for you later on"
+       "fortuneTelling": [
+       "Chia tay và ngoại tình rất nhiều",
+       "Tuy nhiên, những gì đau đớn bây giờ sẽ trở nên tốt cho bạn sau này"
       ],
       "id": "s3"
     },
@@ -2648,44 +2644,43 @@ export default {
       "suit": "Swords",
       "img": "s04.jpg",
       "keywords": [
-        "meditation",
-        "contemplation",
-        "perspective",
-        "mindset"
+       "thiền","chiêm ngưỡng",
+       "luật xa gần",
+       "tư duy"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "thinking over your plans before putting them into action",
-            "pausing to meditate or clear your mind",
-            "taking time to understand someone or something before criticizing it",
-            "resting",
-            "occupying your thoughts with a healthy distraction"
+     "meanings": {
+       "old": {
+         "upright": [
+           "suy nghĩ về kế hoạch của bạn trước khi thực hiện",
+           "tạm dừng để thiền định hoặc giải tỏa tâm trí của bạn",
+           "dành thời gian để hiểu ai đó hoặc điều gì đó trước khi chỉ trích nó",
+           "nghỉ ngơi",
+           "chiếm lĩnh suy nghĩ của bạn bằng một sự phân tâm lành mạnh"
           ],
-          "reversed": [
-            "failing to think things through",
-            "mistaking procrastination for thoughtfulness",
-            "adopting a point of view and refusing to reconsider your conclusions, even when presented with refuting evidence",
-            "allowing chaos and whimsy to dominate your thoughts"
+         "reversed": [
+           "không suy nghĩ thấu đáo",
+           "nhầm lẫn sự trì hoãn với sự chu đáo",
+           "chấp nhận một quan điểm và từ chối xem xét lại kết luận của bạn, ngay cả khi được đưa ra với bằng chứng bác bỏ",
+           "cho phép sự hỗn loạn và hay thay đổi chi phối suy nghĩ của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "rest",
-            "relaxation",
-            "peace",
-            "sanctuary",
-            "recuperation",
-            "self-protection",
-            "rejuvenation"
+       "new": {
+         "upright": [
+           "Lên đỉnh",
+           "thư giãn",
+           "hòa bình",
+           "thánh địa",
+           "hồi phục",
+           "tự bảo vệ",
+           "trẻ hóa"
           ],
-          "reversed": [
-            "recovery",
-            "awakening",
-            "re-entering world",
-            "release from isolation",
-            "restlessness",
-            "burnout"
+         "reversed": [
+           "sự hồi phục",
+           "thức tỉnh",
+           "vào lại thế giới",
+           "giải phóng khỏi sự cô lập",
+           "bồn chồn",
+           "kiệt sức"
           ]
         }
       },
@@ -2695,13 +2690,13 @@ export default {
       "astrology": "Jupiter in Libra",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
       "questions": [
-        "How long has it been since you deliberately took a \"time out?\"",
-        "How difficult is it for you to meditate?",
-        "What would happen if you simply refused to make a decision today?"
+       "Đã bao lâu rồi bạn cố tình bỏ qua \"thời gian\"?",
+       "Bạn thấy khó thiền như thế nào?",
+       "Điều gì sẽ xảy ra nếu bạn chỉ đơn giản từ chối đưa ra quyết định ngày hôm nay?"
       ],
-      "fortuneTelling": [
-        "Don't make any decision now",
-        "Wait, and you'll be glad you did"
+       "fortuneTelling": [
+       "Đừng đưa ra quyết định nào bây giờ",
+       "Chờ đã, và bạn sẽ rất vui vì bạn đã làm"
       ],
       "id": "s4"
     },
@@ -2712,51 +2707,51 @@ export default {
       "suit": "Swords",
       "img": "s05.jpg",
       "keywords": [
-        "selfishness",
-        "hostility",
-        "irrationality",
-        "self-preservation"
+       "tính vị kỷ",
+       "thù địch",
+       "phi lý",
+       "tự bảo quản"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "acting in your own best interest",
-            "choosing to stand up for yourself",
-            "not backing down from disagreement and discord",
-            "taking a stand",
-            "refusing to go along with an unethical plan",
-            "knowing when to bend the rules"
+     "meanings": {
+       "old": {
+         "upright": [
+           "hành động vì lợi ích tốt nhất của bạn",
+           "lựa chọn đứng lên cho chính mình",
+           "không lùi bước trước sự bất đồng và bất hòa",
+           "giữ một lập trường",
+           "từ chối thực hiện một kế hoạch phi đạo đức",
+           "biết khi nào nên bẻ cong các quy tắc"
           ],
-          "reversed": [
-            "taking advantage of others",
-            "intimidating others",
-            "acting in an unethical manner",
-            "picking fights",
-            "using words to goad others into violence and irrationality",
-            "ignoring rules you've agreed to abide by",
-            "looking out for yourself while allowing harm to come to others",
-            "gloating over victory"
+         "reversed": [
+           "lợi dụng người khác",
+           "đe dọa người khác",
+           "hành động một cách phi đạo đức",
+           "cách tham chiến",
+           "sử dụng lời nói để khiến người khác trở nên bạo lực và phi lý",
+           "bỏ qua các quy tắc bạn đã đồng ý tuân theo",
+           "coi chừng bản thân trong khi để cho người khác bị tổn hại",
+           "hả hê trước chiến thắng"
           ]
         },
-        "new": {
-          "upright": [
-            "arguments",
-            "disputes",
-            "aggression",
-            "bullying",
-            "intimidation",
-            "conflict",
-            "hostility",
-            "stress"
+       "new": {
+         "upright": [
+           "tranh luận",
+           "tranh chấp",
+           "Hiếu chiến",
+           "bắt nạt",
+           "sự đe dọa",
+           "xung đột",
+           "thù địch",
+           "căng thẳng"
           ],
-          "reversed": [
-            "reconciliation",
-            "resolution",
-            "compromise",
-            "revenge",
-            "regret",
-            "remorse",
-            "cutting losses"
+         "reversed": [
+           "hòa giải",
+           "nghị quyết",
+           "sự thỏa hiệp",
+           "sự trả thù",
+           "hối tiếc",
+           "hối hận",
+           "cắt lỗ"
           ]
         }
       },
@@ -2766,13 +2761,13 @@ export default {
       "astrology": "Venus in Aquarius",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
       "questions": [
-        "How do I behave when I win? What does that say about me?",
-        "How can I do what's necessary without making others feel defeated?",
-        "What's the difference between selfish action and acting in my own best interest?"
+       "Tôi phải cư xử như thế nào khi chiến thắng? Điều đó nói lên điều gì về tôi?",
+       "Làm thế nào tôi có thể làm những gì cần thiết mà không khiến người khác cảm thấy thất bại?",
+       "Sự khác biệt giữa hành động ích kỷ và hành động vì lợi ích tốt nhất của tôi là gì?"
       ],
-      "fortuneTelling": [
-        "Someone is stealing from you, financially or romantically",
-        "Be wary of friends who talk behind your back"
+       "fortuneTelling": [
+       "Ai đó đang ăn cắp của bạn, về mặt tài chính hay tình cảm",
+       "Cảnh giác với những người bạn nói sau lưng"
       ],
       "id": "s5"
     },
@@ -2783,43 +2778,43 @@ export default {
       "suit": "Swords",
       "img": "s06.jpg",
       "keywords": [
-        "adaptation",
-        "adjustments",
-        "science",
-        "travel"
+       "thích ứng",
+       "điều chỉnh",
+       "khoa học",
+       "đi du lịch"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "making the best of a bad situation",
-            "recovering from defeat",
-            "resetting expectations",
-            "making allowances for unexpected circumstances",
-            "helping others who find themselves in dire circumstances",
-            "changing the way you see the world",
-            "broadening your perspective through study or travel"
+     "meanings": {
+       "old": {
+         "upright": [
+           "giải quyết tốt nhất tình huống xấu",
+           "phục hồi sau thất bại",
+           "đặt lại kỳ vọng",
+           "trợ cấp cho những trường hợp đột xuất",
+           "giúp đỡ những người khác gặp hoàn cảnh khốn khó",
+           "thay đổi cách bạn nhìn thế giới",
+           "mở rộng tầm nhìn của bạn thông qua học tập hoặc du lịch"
           ],
-          "reversed": [
-            "refusing to accept that things have changed",
-            "playing the victim",
-            "rejecting the idea that your actions have consequences",
-            "applying scientific criteria to matters of faith, or confusing faith with science",
-            "believing the whole world should be like your small corner of it"
+         "reversed": [
+           "từ chối chấp nhận rằng mọi thứ đã thay đổi",
+           "đóng vai nạn nhân",
+           "bác bỏ ý kiến ​​tcho rằng hành động của bạn có hậu quả",
+           "áp dụng các tiêu chí khoa học vào các vấn đề đức tin, hoặc nhầm lẫn đức tin với khoa học",
+           "tin rằng cả thế giới nên giống như góc nhỏ của bạn trong đó"
           ]
         },
-        "new": {
-          "upright": [
-            "moving on",
-            "departure",
-            "leaving behind",
-            "distance",
-            "accepting lessons"
+       "new": {
+         "upright": [
+           "tiếp tục",
+           "sự khởi hành",
+           "để lại đằng sau",
+           "khoảng cách",
+           "chấp nhận bài học"
           ],
-          "reversed": [
-            "stuck in past",
-            "returning to trouble",
-            "running away from problems",
-            "trapped"
+         "reversed": [
+           "kẹt trong quá khứ",
+           "trở lại rắc rối",
+           "chạy trốn khỏi các vấn đề",
+           "bị mắc kẹt"
           ]
         }
       },
@@ -2829,13 +2824,13 @@ export default {
       "astrology": "Mercury in Aquarius",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
       "questions": [
-        "What assumptions govern my thinking?",
-        "How willing am I to lend aid to others? To request it when I need it?",
-        "How prepared am I to deal with change? With unexpected outcomes?"
+       "Những giả định nào chi phối suy nghĩ của tôi?",
+       "Tôi sẵn sàng cho người khác vay viện trợ như thế nào? Để yêu cầu khi tôi cần?",
+       "Tôi đã chuẩn bị như thế nào để đối phó với sự thay đổi? Với những kết quả bất ngờ?"
       ],
-      "fortuneTelling": [
-        "You'll soon go on a long journey over water",
-        "Actions have unexpected consequences, so be prepared"
+       "fortuneTelling": [
+       "Bạn sẽ sớm thực hiện một cuộc hành trình dài trên mặt nước",
+       "Hành động có hậu quả không mong muốn, vì vậy hãy chuẩn bị sẵn sàng"
       ],
       "id": "s6"
     },
@@ -2846,44 +2841,44 @@ export default {
       "suit": "Swords",
       "img": "s07.jpg",
       "keywords": [
-        "dishonesty",
-        "presumption",
-        "sneakiness",
-        "assumptions"
+       "không trung thực",
+       "giả định",
+       "lén lút",
+       "giả định"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "refusing to do something dishonest, even when there's no chance of ever being caught",
-            "handling a difficult situation with finesse",
-            "pointing out assumptions",
-            "acting ethically in public and in private",
-            "living a life that is beyond reproach"
+     "meanings": {
+       "old": {
+         "upright": [
+           "từ chối làm điều gì đó không trung thực, ngay cả khi không có cơ hội bị bắt",
+           "xử lý tình huống khó khăn bằng sự khéo léo",
+           "chỉ ra các giả định",
+           "hành động có đạo đức ở nơi công cộng và nơi riêng tư",
+           "sống một cuộc sống không thể chê trách"
           ],
-          "reversed": [
-            "stealing or lying",
-            "doing whatever you can get away with, simply because you can",
-            "looking for a way around consequences",
-            "justifying wicked behavior by focusing on the wickedness of others",
-            "failing to examine your own motives and prejudices"
+         "reversed": [
+           "ăn cắp hoặc nói dối",
+           "làm bất cứ điều gì bạn có thể làm được, đơn giản vì bạn có thể",
+           "tìm cách giải quyết hậu quả",
+           "biện minh cho hành vi gian ác bằng cách tập trung vào sự gian ác của người khác",
+           "không kiểm tra động cơ và định kiến ​​của chính bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "lies",
-            "trickery",
-            "scheming",
-            "strategy",
-            "resourcefulness",
-            "sneakiness",
-            "cunning"
+       "new": {
+         "upright": [
+           "dối trá",
+           "mánh khóe",
+           "xảo quyệt",
+           "chiến lược",
+           "tháo vát",
+           "lén lút",
+           "xảo quyệt"
           ],
-          "reversed": [
-            "confession",
-            "conscience",
-            "regret",
-            "maliciousness",
-            "truth revealed"
+         "reversed": [
+           "lời thú tội",
+           "lương tâm",
+           "hối tiếc",
+           "độc hại",
+           "sự thật được tiết lộ"
           ]
         }
       },
@@ -2893,13 +2888,13 @@ export default {
       "astrology": "Moon in Aquarius",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
       "questions": [
-        "What assumptions am I making?",
-        "How well-defined is my sense of ethics?",
-        "How should I respond when I know others are breaking the rules?"
+       "Tôi đang đưa ra giả định nào?",
+       "Ý thức đạo đức của tôi được xác định rõ như thế nào?",
+       "Tôi nên phản ứng như thế nào khi biết người khác đang vi phạm các quy tắc?"
       ],
-      "fortuneTelling": [
-        "Don't assume people around you are worthy of your trust",
-        "Ask for an accounting of where people have been, and what they've been doing"
+       "fortuneTelling": [
+       "Đừng cho rằng những người xung quanh bạn đáng để bạn tin tưởng",
+       "Yêu cầu tính toán xem mọi người đã ở đâu và họ đã làm gì"
       ],
       "id": "s7"
     },
@@ -2910,51 +2905,51 @@ export default {
       "suit": "Swords",
       "img": "s08.jpg",
       "keywords": [
-        "restriction",
-        "limitation",
-        "confinement",
-        "helplessness"
+       "sự hạn chế",
+       "giới hạn",
+       "giam cầm",
+       "bất lực"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "honoring limits",
-            "respecting the rules",
-            "deciding to go on a diet for your health's sake",
-            "recognizing you cannot always be in control",
-            "identifying obstacles to further progress",
-            "refusing to think about unhealthy or unethical options",
-            "asking for assistance"
+     "meanings": {
+       "old": {
+         "upright": [
+           "giới hạn tôn vinh",
+           "tôn trọng các quy tắc",
+           "quyết định ăn kiêng vì sức khỏe của bạn",
+           "nhận ra bạn không phải lúc nào cũng có thể kiểm soát được",
+           "xác định những trở ngại để tiến bộ hơn nữa",
+           "từ chối suy nghĩ về các lựa chọn không lành mạnh hoặc phi đạo đức",
+           "yêu cầu hỗ trợ"
           ],
-          "reversed": [
-            "feeling trapped",
-            "being lost in a maze of rules and regulations",
-            "giving in to despair",
-            "playing the victim",
-            "allowing others to dictate what you can and cannot do",
-            "being rendered helpless",
-            "having very few options",
-            "failing to look for a way out"
+         "reversed": [
+           "cảm thấy bị mắc kẹt",
+           "bị lạc trong mê cung của các quy tắc và luật lệ",
+           "đầu hàng trong tuyệt vọng",
+           "đóng vai nạn nhân",
+           "cho phép người khác ra lệnh những gì bạn có thể và không thể làm",
+           "trở nên bất lực",
+           "có rất ít lựa chọn",
+           "không tìm được lối thoát"
           ]
         },
-        "new": {
-          "upright": [
-            "trapped",
-            "restricted",
-            "victimised",
-            "paralysed",
-            "helpless",
-            "powerless",
-            "imprisonment"
+       "new": {
+         "upright": [
+           "bị mắc kẹt",
+           "hạn chế",
+           "nạn nhân",
+           "tê liệt",
+           "bất lực",
+           "bất lực",
+           "bỏ tù"
           ],
-          "reversed": [
-            "freedom",
-            "release",
-            "taking control",
-            "survivor",
-            "facing fears",
-            "empowered",
-            "surrender"
+         "reversed": [
+           "sự tự do",
+           "phóng thích",
+           "nắm quyền kiểm soát",
+           "người sống sót",
+           "đối mặt với nỗi sợ hãi",
+           "được trao quyền",
+           "đầu hàng"
           ]
         }
       },
@@ -2964,13 +2959,13 @@ export default {
       "astrology": "Jupiter in Gemini",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
       "questions": [
-        "Who's empowered to cut through the red tape?",
-        "What, exactly, are the obstacles? What resources, exactly, are needed to move them?",
-        "To what extent is your powerlessness a matter of attitude?"
+       "Ai được trao quyền để vượt qua dải băng đỏ?",
+       "Chính xác thì chướng ngại vật là gì? Chính xác thì cần những nguồn lực nào để di chuyển chúng?",
+       "Bất lực của ngươi là thái độ đến mức độ nào?"
       ],
-      "fortuneTelling": [
-        "Get over playing the victim",
-        "Once you realize you are your own biggest obstacle, nothing can hold you back"
+       "fortuneTelling": [
+       "Vượt qua việc chơi nạn nhân",
+       "Một khi bạn nhận ra mình là trở ngại lớn nhất của chính mình thì không gì có thể kìm hãm bạn"
       ],
       "id": "s8"
     },
@@ -2981,50 +2976,50 @@ export default {
       "suit": "Swords",
       "img": "s09.jpg",
       "keywords": [
-        "remorse",
-        "worry",
-        "distraught",
-        "conclusion"
+       "hối hận",
+       "lo",
+       "quẫn trí",
+       "phần kết luận"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "refusing to worry about what you cannot control",
-            "rejecting anxiety",
-            "judging your own performance with kindness and gentleness",
-            "using meditation to quiet a troubled mind",
-            "confronting nightmares and fears",
-            "drawing a conclusion and putting an issue out of your mind"
+     "meanings": {
+       "old": {
+         "upright": [
+           "từ chối lo lắng về những gì bạn không thể kiểm soát",
+           "từ chối lo lắng",
+           "đánh giá hiệu suất của chính bạn bằng sự tử tế và dịu dàng",
+           "sử dụng thiền định để xoa dịu tâm trí rắc rối",
+           "đối mặt với những cơn ác mộng và nỗi sợ hãi",
+           "rút ra một kết luận và đặt một vấn đề ra khỏi tâm trí của bạn"
           ],
-          "reversed": [
-            "torturing yourself with regrets",
-            "second-guessing your every move",
-            "beating yourself up for your mistakes",
-            "depression",
-            "obsessing on errors and overlooked details",
-            "refusing to handle stress in healthy ways",
-            "ruining your ability to appreciate the present by dwelling on the past",
-            "debating irreversible decisions"
+         "reversed": [
+           "tự hành hạ bản thân với những điều hối tiếc",
+           "lần thứ hai đoán mọi hành động của bạn",
+           "đánh bại bản thân vì những sai lầm của bạn",
+           "Phiền muộn",
+           "ám ảnh về những sai sót và những chi tiết bị bỏ qua",
+           "từ chối xử lý căng thẳng theo những cách lành mạnh",
+           "hủy hoại khả năng của bạn để đánh giá cao hiện tại bằng cách đắm chìm trong quá khứ",
+           "đang tranh luận về các quyết định không thể thay đổi"
           ]
         },
-        "new": {
-          "upright": [
-            "fear",
-            "anxiety",
-            "negativity",
-            "breaking point",
-            "despair",
-            "nightmares",
-            "isolation"
+       "new": {
+         "upright": [
+           "nỗi sợ",
+           "sự lo ngại",
+           "tiêu cực",
+           "điểm phá vỡ",
+           "tuyệt vọng",
+           "ác mộng",
+           "sự cách ly"
           ],
-          "reversed": [
-            "recovery",
-            "learning to cope",
-            "facing life",
-            "finding help",
-            "shame",
-            "guilt",
-            "mental health issues"
+         "reversed": [
+           "sự hồi phục",
+           "học cách đối phó",
+           "đối mặt với cuộc sống",
+           "tìm kiếm sự trợ giúp",
+           "xấu hổ",
+           "tội lỗi",
+           "vấn đề sức khỏe tâm thần"
           ]
         }
       },
@@ -3034,15 +3029,13 @@ export default {
       "astrology": "Mars in Gemini",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
       "questions": [
-        "What role does worry play in your current situation?",
-        "To what other ends might you devote the energy you're giving to anxiety?",
-        "How can you know when it's time to stop thinking and start acting?"
+       "Lo lắng đóng vai trò gì trong tình huống hiện tại của bạn?",
+       "Bạn có thể dành sức lực cho những gì bạn đang dành cho sự lo lắng?",
+       "Làm thế nào bạn có thể biết khi nào đã đến lúc ngừng suy nghĩ và bắt đầu hành động?"
       ],
-      "fortuneTelling": [
-        "If you take the action you're considering now, you'll be sorry in the future"
+       "fortuneTelling": [
+       "Nếu bạn thực hiện hành động mà bạn đang cân nhắc bây giờ, bạn sẽ phải hối tiếc trong tương lai"
       ],
-      "id": "s9"
-    },
     {
       "name": "Ten of Swords",
       "number": 10,
@@ -3050,50 +3043,50 @@ export default {
       "suit": "Swords",
       "img": "s10.jpg",
       "keywords": [
-        "exhaustion",
-        "ruin",
-        "disaster",
-        "stamina",
-        "obsession"
+       "kiệt sức",
+       "sự đổ nát",
+       "thảm họa",
+       "sự bền bỉ",
+       "nỗi ám ảnh"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "seeing the signs that you've reached your limits",
-            "paying attention to what your body is trying to tell you",
-            "giving in to the need for rest and renewal",
-            "acknowledging that you've hit bottom",
-            "committing to a turnaround",
-            "knowing the worst is over"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thấy những dấu hiệu cho thấy bạn đã đạt đến giới hạn của mình",
+           "chú ý đến những gì cơ thể bạn đang cố gắng nói với bạn",
+           "nhượng bộ nhu cầu nghỉ ngơi và đổi mới",
+           "xác nhận rằng bạn đã chạm đáy",
+           "cam kết thay đổi",
+           "biết điều tồi tệ nhất đã qua"
           ],
-          "reversed": [
-            "accepting defeat prematurely",
-            "driving yourself to total exhaustion, especially mentally",
-            "experiencing a mental breakdown",
-            "obsessing on a problem to the breaking point",
-            "giving up",
-            "refusing to move from thought to action",
-            "deeply unhealthy thoughts"
+         "reversed": [
+           "chấp nhận thất bại sớm",
+           "khiến bản thân kiệt sức, đặc biệt là về mặt tinh thần",
+           "trải qua một sự suy sụp tinh thần",
+           "ám ảnh về một vấn đề đến mức đột phá",
+           "từ bỏ",
+           "từ chối chuyển từ suy nghĩ sang hành động",
+           "những suy nghĩ không lành mạnh sâu sắc"
           ]
         },
-        "new": {
-          "upright": [
-            "ruin",
-            "failure",
-            "bitterness",
-            "collapse",
-            "exhaustion",
-            "dead end",
-            "victimization",
-            "betrayal"
+       "new": {
+         "upright": [
+           "sự đổ nát",
+           "thất bại",
+           "cay đắng",
+           "sụp đổ",
+           "kiệt sức",
+           "ngõ cụt",
+           "nạn nhân hóa",
+           "sự phản bội"
           ],
-          "reversed": [
-            "survival",
-            "improvement",
-            "healing",
-            "lessons learned",
-            "despair",
-            "relapse"
+         "reversed": [
+           "Sự sống còn",
+           "sự cải tiến",
+           "đang lành lại",
+           "bài học kinh nghiệm",
+           "tuyệt vọng",
+           "tái phát"
           ]
         }
       },
@@ -3103,13 +3096,13 @@ export default {
       "astrology": "Sun in Gemini",
       "numerology": "10 (The End: finality, completion, exhaustion)",
       "questions": [
-        "What are the signs that the time for debate is over?",
-        "How can you tell when interest has given way to obsession?",
-        "When your own limits are reached, where can you turn for aid?"
+       "Những dấu hiệu nào cho thấy thời gian tranh luận đã kết thúc?",
+       "Làm thế nào bạn có thể biết khi nào sự quan tâm đã nhường chỗ cho sự ám ảnh?",
+       "Khi đạt đến giới hạn của bản thân, bạn có thể tìm viện trợ ở đâu?"
       ],
-      "fortuneTelling": [
-        "Disaster",
-        "Put off plans and do not take action until omens are better"
+       "fortuneTelling": [
+       "Thảm họa",
+       "Tạm dừng kế hoạch và không hành động cho đến khi điềm báo tốt hơn"
       ],
       "id": "s10"
     },
@@ -3120,50 +3113,50 @@ export default {
       "suit": "Swords",
       "img": "s11.jpg",
       "keywords": [
-        "student",
-        "apprentice",
-        "scholarship",
-        "information"
+       "sinh viên",
+       "học nghề",
+       "học bổng",
+       "thông tin"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "pursuing a course of study",
-            "asking good questions",
-            "investing time in study and practice",
-            "doing research",
-            "making a habit of learning new things",
-            "starting an investigation",
-            "outlining what you need to know",
-            "finding a mentor or teacher"
+     "meanings": {
+       "old": {
+         "upright": [
+           "theo đuổi một khóa học",
+           "đặt câu hỏi hay",
+           "đầu tư thời gian vào học tập và thực hành",
+           "đang làm nghiên cứu",
+           "tạo thói quen học hỏi những điều mới",
+           "bắt đầu điều tra",
+           "phác thảo những điều bạn cần biết",
+           "tìm một người cố vấn hoặc giáo viên"
           ],
-          "reversed": [
-            "pretending to knowledge or sophistication you do not possess",
-            "cheating on an exam",
-            "feigning interest as a way of gaining favor",
-            "considering only the evidence that supports conclusions you've already drawn",
-            "rejecting the wise counsel of experienced teachers"
+         "reversed": [
+           "giả vờ hiểu biết hoặc ngụy biện mà bạn không có",
+           "gian lận trong kỳ thi",
+           "giả vờ quan tâm như một cách để đạt được sự ưu ái",
+           "chỉ xem xét bằng chứng hỗ trợ kết luận bạn đã rút ra",
+           "từ chối lời khuyên khôn ngoan của những người thầy có kinh nghiệm"
           ]
         },
-        "new": {
-          "upright": [
-            "curious",
-            "witty",
-            "chatty",
-            "communicative",
-            "inspired",
-            "vigilant",
-            "alert",
-            "mental agility"
+       "new": {
+         "upright": [
+           "Tò mò",
+           "dí dỏm",
+           "nói nhảm",
+           "giao tiếp",
+           "lấy cảm hứng",
+           "cảnh giác",
+           "báo động",
+           "tinh thần nhanh nhẹn"
           ],
-          "reversed": [
-            "scatterbrained",
-            "cynical",
-            "sarcastic",
-            "gossipy",
-            "insulting",
-            "rude",
-            "lack of planning"
+         "reversed": [
+           "phân tán",
+           "Hoài nghi",
+           "châm biếm",
+           "nói chuyện phiếm",
+           "xúc phạm",
+           "thô lỗ",
+           "thiếu quy hoạch"
           ]
         }
       },
@@ -3171,13 +3164,12 @@ export default {
       "isMajorArcana": false,
       "affirmation": "\"I am ready to make good decisions.\"",
       "elemental": "Earth of Air.",
-      "questions": [
-        "How comfortable are you with revealing your own ignorance?",
-        "What are the marks of a good student?",
-        "To what extent are you open to new information?"
+      "Bạn cảm thấy thoải mái như thế nào khi tiết lộ sự thiếu hiểu biết của chính mình?",
+       "Điểm của một học sinh giỏi là gì?",
+       "Bạn cởi mở với thông tin mới ở mức độ nào?"
       ],
-      "fortuneTelling": [
-        "This card represents a young man or woman with an airy, intellectual demeanor, likely born a Capricorn, Aquarius, or Pisces, who wants to learn something new from you or have a discussion with you"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông hoặc phụ nữ trẻ với phong thái khí phách, trí tuệ, có khả năng sinh ra là Ma Kết, Bảo Bình hoặc Song Ngư, những người muốn học hỏi điều gì đó mới từ bạn hoặc thảo luận với bạn"
       ],
       "id": "sp"
     },
@@ -3188,55 +3180,55 @@ export default {
       "suit": "Swords",
       "img": "s12.jpg",
       "keywords": [
-        "bluntness",
-        "intelligence",
-        "incisiveness",
-        "investigation"
+       "thẳng thừng",
+       "Sự thông minh",
+       "tính nhạy bén",
+       "cuộc điều tra"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "speaking your mind",
-            "making your opinions known",
-            "offering constructive criticism",
-            "sharing your knowledge",
-            "making insightful observations",
-            "pinpointing the problem",
-            "clarifying what others have said",
-            "giving clear direction to others",
-            "uncovering the truth"
+     "meanings": {
+       "old": {
+         "upright": [
+           "nói lên suy nghĩ của bạn",
+           "làm cho ý kiến ​​của bạn được biết đến",
+           "đưa ra những lời chỉ trích mang tính xây dựng",
+           "chia sẻ kiến ​​thức của bạn",
+           "quan sát sâu sắc",
+           "xác định vấn đề",
+           "làm rõ những gì người khác đã nói",
+           "đưa ra định hướng rõ ràng cho người khác",
+           "phanh phui sự thật"
           ],
-          "reversed": [
-            "stating your opinions as fact",
-            "picking fights",
-            "starting arguments",
-            "using clever insults to undermine the confidence of others",
-            "tossing reason out the window",
-            "speaking without taking the feelings of others into account",
-            "going on a witch hunt",
-            "distorting evidence"
+         "reversed": [
+           "nêu ý kiến ​​của bạn là sự thật",
+           "cách tham chiến",
+           "đối số bắt đầu",
+           "sử dụng những lời lăng mạ khéo léo để làm suy giảm lòng tin của người khác",
+           "ném lý do ra ngoài cửa sổ",
+           "nói mà không tính đến cảm xúc của người khác",
+           "đi săn phù thủy",
+           "xuyên tạc bằng chứng"
           ]
         },
-        "new": {
-          "upright": [
-            "assertive",
-            "direct",
-            "impatient",
-            "intellectual",
-            "daring",
-            "focused",
-            "perfectionist",
-            "ambitious"
+       "new": {
+         "upright": [
+           "quả quyết",
+           "thẳng thắn",
+           "nóng nảy",
+           "trí thức",
+           "táo bạo",
+           "tập trung",
+           "người cầu toàn",
+           "đầy tham vọng"
           ],
-          "reversed": [
-            "rude",
-            "tactless",
-            "forceful",
-            "bully",
-            "aggressive",
-            "vicious",
-            "ruthless",
-            "arrogant"
+         "reversed": [
+           "thô lỗ",
+           "khôn khéo",
+           "mạnh mẽ",
+           "bắt nạt",
+           "hung dữ",
+           "luẩn quẩn",
+           "tàn nhẫn",
+           "kiêu ngạo"
           ]
         }
       },
@@ -3245,13 +3237,13 @@ export default {
       "affirmation": "\"I temper my insights with tact.\"",
       "elemental": "Air of Air.",
       "questions": [
-        "What do I really need to know?",
-        "To what extent have I investigated the facts behind my situation?",
-        "How can I share what I know without alienating others?"
+       "Tôi thực sự cần biết điều gì?",
+       "Tôi đã điều tra sự thật đằng sau tình huống của mình ở mức độ nào?",
+       "Làm thế nào tôi có thể chia sẻ những gì tôi biết mà không làm người khác xa lánh?"
       ],
-      "fortuneTelling": [
-        "A blunder leads someone to say something he or she regrets",
-        "If this was you, be prepared to apologize and move on"
+       "fortuneTelling": [
+       "Một sai lầm khiến ai đó nói điều gì đó mà họ hối tiếc",
+       "Nếu đây là bạn, hãy chuẩn bị để xin lỗi và tiếp tục"
       ],
       "id": "sn"
     },
@@ -3262,55 +3254,55 @@ export default {
       "suit": "Swords",
       "img": "s13.jpg",
       "keywords": [
-        "grace",
-        "skill",
-        "wit",
-        "charm",
-        "aptitude"
+       "duyên dáng",
+       "kỹ năng",
+       "mưu mẹo",
+       "quyến rũ",
+       "năng khiếu"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "exercising tact or using diplomacy",
-            "defusing a tense situation",
-            "knowing what to say and how to say it",
-            "making others feel comfortable and confident",
-            "bringing out the best in everyone",
-            "having a way with words",
-            "telling jokes",
-            "possessing a knack for music, math, art, or science"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thực hiện khéo léo hoặc sử dụng ngoại giao",
+           "xoa dịu tình hình căng thẳng",
+           "biết phải nói gì và nói như thế nào",
+           "làm cho người khác cảm thấy thoải mái và tự tin",
+           "mang lại điều tốt nhất cho mọi người",
+           "có một cách với các từ",
+           "kể chuyện cười",
+           "có sở trường về âm nhạc, toán học,nghệ thuật hoặc khoa học"
           ],
-          "reversed": [
-            "knowing exactly what to say to destroy another person",
-            "withholding critical information",
-            "using a barbed tongue to upset others",
-            "employing sarcasm",
-            "mimicking others unkindly",
-            "making light of the less fortunate",
-            "being disrespectful",
-            "failing to use the talent you've been given"
+         "reversed": [
+           "biết chính xác những gì cần nói để tiêu diệt người khác",
+           "giữ lại thông tin quan trọng",
+           "dùng lưỡi gai để làm buồn lòng người khác",
+           "sử dụng sự mỉa mai",
+           "bắt chước người khác một cách không tử tế",
+           "làm ánh sáng cho những người kém may mắn",
+           "thiếu tôn trọng",
+           "không sử dụng được tài năng mà bạn đã được ban tặng"
           ]
         },
-        "new": {
-          "upright": [
-            "honest",
-            "independent",
-            "principled",
-            "fair",
-            "constructive criticism",
-            "objective",
-            "perceptive"
+       "new": {
+         "upright": [
+           "thật thà",
+           "sống độc lập",
+           "nguyên tắc",
+           "công bằng",
+           "phê bình mang tính xây dựng",
+           "khách quan",
+           "tri giác"
           ],
-          "reversed": [
-            "pessimistic",
-            "malicious",
-            "manipulative",
-            "harsh",
-            "bitter",
-            "spiteful",
-            "cruel",
-            "deceitful",
-            "unforgiving"
+         "reversed": [
+           "bi quan",
+           "độc hại",
+           "thao túng",
+           "thô ráp",
+           "vị đắng",
+           "cay nghiệt",
+           "tàn ác",
+           "lừa dối",
+           "không khoan nhượng"
           ]
         }
       },
@@ -3319,12 +3311,12 @@ export default {
       "affirmation": "\"I make the truth easier to hear.\"",
       "elemental": "Water of Air.",
       "questions": [
-        "What do I have a knack for? How might my special gift prove useful now?",
-        "To what extent am I capable of saying what needs to be said?",
-        "What is the best possible way to say what I want to say?"
+       "Tôi có sở trường gì? Làm thế nào để món quà đặc biệt của tôi có thể trở nên hữu ích bây giờ?",
+       "Tôi có khả năng nói những điều cần phải nói ở mức độ nào?",
+       "Cách tốt nhất có thể để nói những gì tôi muốn nói là gì?"
       ],
-      "fortuneTelling": [
-        "This card represents a woman with an artistic, intellectual nature, likely born between September 12th and October 12th, who uses clever, positive communication to sway others to her point of view"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người phụ nữ có bản chất nghệ thuật, trí tuệ, có khả năng sinh từ ngày 12 tháng 9 đến ngày 12 tháng 10, người sử dụng cách giao tiếp thông minh, tích cực để thuyết phục người khác theo quan điểm của mình"
       ],
       "id": "sq"
     },
@@ -3334,52 +3326,52 @@ export default {
       "arcana": "Minor Arcana",
       "suit": "Swords",
       "img": "s14.jpg",
-      "keywords": [
-        "genius",
-        "expertise",
-        "decision",
-        "verdict"
+       "keywords": [
+       "thiên tài",
+       "chuyên môn",
+       "quyết định",
+       "phán quyết"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "expressing yourself with firmness and authority",
-            "rendering a final decision",
-            "consulting an expert",
-            "calling in advisors and consultants",
-            "coming to a final conclusion",
-            "reaching a beneficial agreement based on sound information"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thể hiện bản thân bằng sự kiên định và uy quyền",
+           "đưa ra quyết định cuối cùng",
+           "tham khảo ý kiến ​​chuyên gia",
+           "gọi cố vấn và chuyên gia tư vấn",
+           "đi đến kết luận cuối cùng",
+           "đạt được một thỏa thuận có lợi dựa trên thông tin hợp lý"
           ],
-          "reversed": [
-            "insisting on having the last word",
-            "flaunting your intellectual capability",
-            "talking \"over the heads\" of others",
-            "waffling on an important decision",
-            "constantly changing your mind",
-            "refusing to make choices that are in your own best interest",
-            "wishing in vain you could take back what's been said"
+         "reversed": [
+           "khăng khăng muốn nói lời cuối cùng",
+           "thể hiện khả năng trí tuệ của bạn",
+           "nói chuyện \" qua đầu \"của người khác",
+           "bối rối trước một quyết định quan trọng",
+           "liên tục thay đổi suy nghĩ của bạn",
+           "từ chối đưa ra những lựa chọn có lợi nhất cho riêng bạn",
+           "ước gì vô ích, bạn có thể rút lại những gì đã nói"
           ]
         },
-        "new": {
-          "upright": [
-            "reason",
-            "authority",
-            "discipline",
-            "integrity",
-            "morality",
-            "serious",
-            "high standards",
-            "strict"
+       "new": {
+         "upright": [
+           "lý do",
+           "thẩm quyền",
+           "kỷ luật",
+           "sự toàn vẹn",
+           "đạo đức",
+           "nghiêm túc",
+           "tiêu chuẩn cao",
+           "nghiêm khắc"
           ],
-          "reversed": [
-            "irrational",
-            "dictator",
-            "oppressive",
-            "inhumane",
-            "controlling",
-            "cold",
-            "ruthless",
-            "dishonest"
+         "reversed": [
+           "không hợp lý",
+           "nhà độc tài",
+           "áp bức",
+           "vô nhân đạo",
+           "kiểm soát",
+           "lạnh",
+           "tàn nhẫn",
+           "Không trung thực"
           ]
         }
       },
@@ -3388,12 +3380,12 @@ export default {
       "affirmation": "\"My word is my bond.\"",
       "elemental": "Fire of Air.",
       "questions": [
-        "What would your decision be if you had to render a binding verdict right now?",
-        "How comfortable are you saying exactly what you mean? How often do you temper what you have to say for fear of offending others?",
-        "If you were to ask others, \"What's my area of expertise?\" what would they say?"
+       "Quyết định của bạn sẽ như thế nào nếu bạn phải đưa ra một phán quyết ràng buộc ngay bây giờ?",
+       "Bạn cảm thấy thoải mái như thế nào khi nói đúng ý mình? Bạn có thường nóng nảy những gì phải nói vì sợ làm mất lòng người khác không?",
+       "Nếu bạn hỏi người khác: \"Lĩnh vực chuyên môn của họ là gì?\" - Họ sẽ nói gì?"
       ],
-      "fortuneTelling": [
-        "This card represents an older man with an insightful, deliberate spirit, likely born between May 11th and June 10th, who is known for his integrity and sharp decision-making ability"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông lớn tuổi với tinh thần sâu sắc, có chủ ý, có khả năng sinh từ ngày 11 tháng 5 đến ngày 10 tháng 6, người được biết đến với tính chính trực và khả năng ra quyết định nhạy bén"
       ],
       "id": "sk"
     },
@@ -3404,48 +3396,48 @@ export default {
       "suit": "Wands",
       "img": "w01.jpg",
       "keywords": [
-        "desire",
-        "inspiration",
-        "vision",
-        "creation",
-        "invention"
+       "khao khát",
+       "nguồn cảm hứng",
+       "tầm nhìn",
+       "sự sáng tạo",
+       "sự phát minh"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "being inspired",
-            "identifying an important goal",
-            "being given the opportunity to do whatever you want to do",
-            "giving or receiving direction",
-            "seeing a solution",
-            "creating something new",
-            "being aroused, sexually or creatively"
+     "meanings": {
+       "old": {
+         "upright": [
+           "được truyền cảm hứng",
+           "xác định một mục tiêu quan trọng",
+           "được trao cơ hội để làm bất cứ điều gì bạn muốn làm",
+           "cho hoặc nhận hướng",
+           "thấy một giải pháp",
+           "tạo ra một cái gì đó mới",
+           "được kích thích, tình dục hoặc sáng tạo"
           ],
-          "reversed": [
-            "failing to take advantage of a great opportunity",
-            "being ineffectual or lazy",
-            "making an inadequate effort",
-            "working toward a goal, but lacking the resources or initiative to achieve success",
-            "setting inappropriate goals",
-            "failing to take a stand"
+         "reversed": [
+           "không tận dụng được cơ hội lớn",
+           "kém hiệu quả hoặc lười biếng",
+           "nỗ lực không đầy đủ",
+           "làm việc hướng tới một mục tiêu, nhưng thiếu nguồn lực hoặc sáng kiến ​​để đạt được thành công",
+           "đặt mục tiêu không phù hợp",
+           "không có lập trường"
           ]
         },
-        "new": {
-          "upright": [
-            "inspiration",
-            "creative spark",
-            "new initiative",
-            "new passion",
-            "enthusiasm",
-            "energy"
+       "new": {
+         "upright": [
+           "nguồn cảm hứng",
+           "tia lửa sáng tạo",
+           "sáng kiến ​​mới",
+           "niềm đam mê mới",
+           "hăng hái",
+           "năng lượng"
           ],
-          "reversed": [
-            "delays",
-            "blocks",
-            "lack of passion",
-            "lack of energy",
-            "hesitancy",
-            "creative blocks"
+         "reversed": [
+           "sự chậm trễ",
+           "khối",
+           "thiếu đam mê",
+           "thiếu năng lượng",
+           "sự do dự",
+           "khối sáng tạo"
           ]
         }
       },
@@ -3455,14 +3447,14 @@ export default {
       "astrology": "Aries, Leo, Sagittarius",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
       "questions": [
-        "What do I really want, more than anything else?",
-        "What happens if I let this opportunity pass me by?",
-        "How clearly have I defined my directions, values, and goals?"
+       "Tôi thực sự muốn gì, hơn bất cứ thứ gì khác?",
+       "Điều gì xảy ra nếu tôi để cơ hội này vụt qua mình?",
+       "Tôi đã xác định rõ ràng phương hướng, giá trị và mục tiêu của mình như thế nào?"
       ],
-      "fortuneTelling": [
-        "Someone has the \"hots\" for you",
-        "A new job offer is coming your way",
-        "Walk softly, and carry a big stick"
+       "fortuneTelling": [
+       "Ai đó có \"hỗ trợ\" cho bạn",
+       "Một lời mời làm việc mới đang đến theo cách của bạn",
+       "Đi bộ nhẹ nhàng và mang theo một cây gậy lớn"
       ],
       "id": "w1"
     },
@@ -3473,43 +3465,43 @@ export default {
       "suit": "Wands",
       "img": "w02.jpg",
       "keywords": [
-        "conflict",
-        "decision",
-        "option",
-        "individuality"
+       "xung đột",
+       "quyết định",
+       "quyền mua",
+       "tính cá nhân"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "having a choice",
-            "offering or being offered an option",
-            "seeing the value of another person's approach",
-            "understanding there's more than one way to \"skin a cat\"",
-            "successfully doing more than one thing at a time",
-            "being empowered to make a choice"
+     "meanings": {
+       "old": {
+         "upright": [
+           "có một sự lựa chọn",
+           "cung cấp hoặc được cung cấp một tùy chọn",
+           "thấy giá trị của cách tiếp cận của người khác",
+           "hiểu rằng có nhiều cách để tiếp cận vấn đề",
+           "làm thành công nhiều việc cùng một lúc",
+           "được trao quyền lựa chọn"
           ],
-          "reversed": [
-            "misrepresenting your intentions",
-            "doing one thing while desiring another",
-            "changing course mid-stream for no good reason",
-            "refusing to change your goal even when pursuing it no longer makes sense",
-            "disregarding the input of others"
+         "reversed": [
+           "trình bày sai ý định của bạn",
+           "làm một việc trong khi ham muốn một việc khác",
+           "thay đổi khóa học giữa luồng mà không có lý do chính đáng",
+           "từ chối thay đổi mục tiêu của bạn ngay cả khi việc theo đuổi nó không còn ý nghĩa nữa",
+           "coi thường đầu vào của người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "planning",
-            "first steps",
-            "making decisions",
-            "leaving comfort",
-            "taking risks"
+       "new": {
+         "upright": [
+           "lập kế hoạch",
+           "những bước đầu tiên",
+           "ra quyết định",
+           "để lại sự thoải mái",
+           "Chấp nhận rủi ro"
           ],
-          "reversed": [
-            "bad planning",
-            "overanalyzing",
-            "not taking action",
-            "playing it safe",
-            "avoiding risk"
+         "reversed": [
+           "lập kế hoạch tồi",
+           "qua phân tích",
+           "không hành động",
+           "chơi an toàn",
+           "tránh rủi ro"
           ]
         }
       },
@@ -3519,13 +3511,13 @@ export default {
       "astrology": "Mars in Aries",
       "numerology": "2 (The Other: division, debate, duality)",
       "questions": [
-        "In a conflict, how do you decide who wins?",
-        "What values govern your decision-making process?",
-        "What choice will you make if you make no choice at all?"
+       "Trong một cuộc xung đột, làm thế nào để bạn quyết định ai là người thắng cuộc?",
+       "Những giá trị nào chi phối quá trình ra quyết định của bạn?",
+       "Bạn sẽ lựa chọn nào nếu bạn không có sự lựa chọn nào cả?"
       ],
-      "fortuneTelling": [
-        "Beware false friends",
-        "Don't be mealy-mouthed; say what you think and do what you want to do"
+       "fortuneTelling": [
+       "Hãy coi chừng những người bạn giả dối",
+       "Đừng mồm mép; hãy nói những gì bạn nghĩ và làm những gì bạn muốn làm"
       ],
       "id": "w2"
     },
@@ -3536,45 +3528,45 @@ export default {
       "suit": "Wands",
       "img": "w03.jpg",
       "keywords": [
-        "implementation",
-        "action",
-        "exploration"
+       "thực hiện",
+       "hoạt động",
+       "thăm dò"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "putting a plan into motion",
-            "taking that critical first step",
-            "making good things happen",
-            "going beyond your limits",
-            "blazing new trails",
-            "hitting the ground running",
-            "seeing your plans come to fruition"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đưa một kế hoạch vào chuyển động",
+           "thực hiện bước quan trọng đầu tiên",
+           "làm cho những điều tốt đẹp xảy ra",
+           "vượt qua giới hạn của bạn",
+           "những con đường mòn mới rực rỡ",
+           "đập đất chạy",
+           "thấy kế hoạch của bạn thành hiện thực"
           ],
-          "reversed": [
-            "procrastinating",
-            "knowing what to do, but refusing to do it",
-            "launching a project without a clear definition of who should do what",
-            "rejecting an opportunity to try something new",
-            "failing to finish what you start"
+         "reversed": [
+           "trì hoãn",
+           "biết phải làm gì, nhưng từ chối làm",
+           "khởi chạy một dự án mà không có định nghĩa rõ ràng về việc ai nên làm gì",
+           "từ chối một cơ hội để thử một cái gì đó mới",
+           "không hoàn thành những gì bạn bắt đầu"
           ]
         },
-        "new": {
-          "upright": [
-            "momentum",
-            "confidence",
-            "expansion",
-            "growth",
-            "foresight",
-            "looking ahead"
+       "new": {
+         "upright": [
+           "Quán tính",
+           "lòng tin",
+           "sự bành trướng",
+           "sự phát triển",
+           "tầm nhìn xa",
+           "nhìn về phía trước"
           ],
-          "reversed": [
-            "restriction",
-            "limitations",
-            "lack of progress",
-            "obstacles",
-            "delays",
-            "frustration"
+         "reversed": [
+           "sự hạn chế",
+           "giới hạn",
+           "Thiếu tiến bộ",
+           "chướng ngại vật",
+           "sự chậm trễ",
+           "thất vọng"
           ]
         }
       },
@@ -3583,14 +3575,14 @@ export default {
       "affirmation": "\"I take the steps necessary to put my plans in action.\"",
       "astrology": "Sun in Aries",
       "numerology": "3 (The Result: expression, productivity, output)",
-      "questions": [
-        "How can you make a habit of breaking your habits?",
-        "How can you be a decisive leader in this circumstance?",
-        "What's your action plan for the next week, month, year, or decade?"
+       "questions": [
+       "Làm thế nào bạn có thể tạo thói quen phá vỡ thói quen của mình?",
+       "Làm thế nào bạn có thể trở thành một nhà lãnh đạo quyết đoán trong hoàn cảnh này?",
+       "Kế hoạch hành động của bạn cho tuần, tháng, năm hoặc thập kỷ tới là gì?"
       ],
-      "fortuneTelling": [
-        "You'll be planning a trip soon",
-        "Be on the lookout: your ship is coming in"
+       "fortuneTelling": [
+	   "Bạn sẽ sớm lên kế hoạch cho một chuyến đi",
+       "Hãy chú ý: tàu của bạn đang đến"
       ],
       "id": "w3"
     },
@@ -3601,47 +3593,47 @@ export default {
       "suit": "Wands",
       "img": "w04.jpg",
       "keywords": [
-        "celebration",
-        "jubilation",
-        "community",
-        "teamwork",
-        "completion"
+       "lễ kỷ niệm",
+       "hân hoan",
+       "cộng đồng",
+       "làm việc theo nhóm",
+       "hoàn thành"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "sharing in a great celebration",
-            "sharing in a communal sense of achievement and success",
-            "preparing for a party",
-            "working together toward a common goal",
-            "giving or winning awards"
+     "meanings": {
+       "old": {
+         "upright": [
+           "chia sẻ trong một lễ kỷ niệm tuyệt vời",
+           "chia sẻ trong ý thức chung về thành tích và thành công",
+           "chuẩn bị cho một bữa tiệc",
+           "cùng nhau hướng tới một mục tiêu chung",
+           "trao hoặc giành giải thưởng"
           ],
-          "reversed": [
-            "keeping your nose to the grindstone",
-            "recognizing good work by demanding more work",
-            "failing to share in a group celebration",
-            "allowing sour grapes to poison your moment in the sun",
-            "refusing to do your part"
+         "reversed": [
+           "chúi mũi vào đá mài",
+           "công nhận công việc tốt bằng cách yêu cầu nhiều công việc hơn",
+           "không chia sẻ trong một lễ kỷ niệm nhóm",
+           "cho phép nho chua đầu độc khoảnh khắc của bạn dưới ánh nắng mặt trời",
+           "từ chối làm phần việc của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "community",
-            "home",
-            "celebrations",
-            "reunions",
-            "parties",
-            "gatherings",
-            "stability",
-            "belonging"
+       "new": {
+         "upright": [
+           "cộng đồng",
+           "Trang Chủ",
+           "lễ kỷ niệm",
+           "đoàn tụ",
+           "bữa tiệc",
+           "tụ họp",
+           "sự ổn định",
+           "thuộc về"
           ],
-          "reversed": [
-            "lack of support",
-            "instability",
-            "feeling unwelcome",
-            "transience",
-            "lack of roots",
-            "home conflict"
+         "reversed": [
+           "thiếu hỗ trợ",
+           "không ổn định",
+           "cảm thấy không được chào đón",
+           "tạm thời",
+           "thiếu gốc rễ",
+           "xung đột nhà"
           ]
         }
       },
@@ -3651,13 +3643,13 @@ export default {
       "astrology": "Venus in Aries",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
       "questions": [
-        "To what extent am I doing my part?",
-        "What kind of recognition would be most meaningful?",
-        "How might a celebration now impact community morale?"
+       "Tôi đang làm phần của mình ở mức độ nào?",
+       "Loại công nhận nào sẽ có ý nghĩa nhất?",
+       "Làm thế nào một lễ kỷ niệm bây giờ có thể ảnh hưởng đến tinh thần cộng đồng?"
       ],
-      "fortuneTelling": [
-        "Someone is watching and evaluating your work",
-        "You may get a wedding invitation soon"
+       "fortuneTelling": [
+       "Ai đó đang xem và đánh giá công việc của bạn",
+       "Bạn có thể nhận được một lời mời đám cưới sớm"
       ],
       "id": "w4"
     },
@@ -3668,46 +3660,46 @@ export default {
       "suit": "Wands",
       "img": "w05.jpg",
       "keywords": [
-        "confrontation",
-        "disruption",
-        "distinction",
-        "objection",
-        "strife"
+       "đối đầu",
+       "gián đoạn",
+       "phân biệt",
+       "sự phản đối",
+       "xung đột"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "calmly expressing a dissenting opinion",
-            "allowing someone to use his or her own methods to get a job done",
-            "opening the floor for discussion or debate",
-            "comparing progress made so far to standards set earlier"
+     "meanings": {
+       "old": {
+         "upright": [
+           "bình tĩnh bày tỏ quan điểm bất đồng",
+           "cho phép ai đó sử dụng các phương pháp của riêng mình để hoàn thành công việc",
+           "mở sàn cho cuộc thảo luận hoặc tranh luận",
+           "so sánh tiến độ đạt được cho đến nay với các tiêu chuẩn đặt ra trước đó"
           ],
-          "reversed": [
-            "berating others for their ridiculous opinions",
-            "picking fights",
-            "offering destructive criticism",
-            "baiting people with barbed remarks",
-            "disrupting progress with an endless stream of pointless objections"
+         "reversed": [
+           "mắng mỏ người khác vì những ý kiến ​​vô lý của họ",
+           "cách tham chiến",
+           "đưa ra những lời chỉ trích mang tính hủy diệt",
+           "đánh lừa mọi người bằng những lời nhận xét có gai",
+           "làm gián đoạn tiến độ với vô số phản đối vô nghĩa"
           ]
         },
-        "new": {
-          "upright": [
-            "conflict",
-            "competition",
-            "arguments",
-            "aggression",
-            "tension",
-            "rivals",
-            "clashes of ego"
+       "new": {
+         "upright": [
+           "xung đột",
+           "cuộc đua, cuộc thi",
+           "tranh luận",
+           "Hiếu chiến",
+           "căng thẳng",
+           "đối thủ",
+           "xung đột của bản ngã"
           ],
-          "reversed": [
-            "end of conflict",
-            "cooperation",
-            "agreements",
-            "truces",
-            "harmony",
-            "peace",
-            "avoiding conflict"
+         "reversed": [
+           "kết thúc xung đột",
+           "sự hợp tác",
+           "thỏa thuận",
+           "truces",
+           "hòa hợp",
+           "hòa bình",
+           "tránh xung đột"
           ]
         }
       },
@@ -3716,14 +3708,14 @@ export default {
       "affirmation": "\"I can express dissent in constructive ways.\"",
       "astrology": "Saturn in Leo",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
-      "questions": [
-        "To what extent is your current issue worth fighting for?",
-        "What alternatives are there to outright conflict?",
-        "What happens in a \"fair fight?\" How can you keep this fight fair?"
+       "questions": [
+       "Vấn đề hiện tại của bạn đáng để đấu tranh ở mức độ nào?",
+       "Có những lựa chọn thay thế nào để giải quyết xung đột hoàn toàn?",
+       "Điều gì xảy ra trong \"một cuộc chiến công bằng?\" Làm thế nào bạn có thể giữ cho cuộc chiến này công bằng?"
       ],
-      "fortuneTelling": [
-        "Prepare for a fight with your best friend",
-        "Remember: once you let words loose, you can't take them back"
+       "fortuneTelling": [
+       "Chuẩn bị cho một cuộc chiến với người bạn thân nhất của bạn",
+       "Hãy nhớ rằng: một khi bạn buông lỏng lời nói, bạn không thể rút lại chúng"
       ],
       "id": "w5"
     },
@@ -3734,48 +3726,48 @@ export default {
       "suit": "Wands",
       "img": "w06.jpg",
       "keywords": [
-        "victory",
-        "achievement",
-        "success",
-        "triumph"
+       "chiến thắng",
+       "thành tích",
+       "thành công",
+       "chiến thắng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "outperforming your peers",
-            "winning a competition",
-            "being recognized as a capable person",
-            "having your \"moment in the spotlight\"",
-            "being cheered on by the crowd",
-            "getting an award",
-            "earning the admiration of others",
-            "telling someone, \"good job!\""
+     "meanings": {
+       "old": {
+         "upright": [
+           "vượt trội so với các đồng nghiệp của bạn",
+           "chiến thắng một cuộc thi",
+           "được công nhận là một người có năng lực",
+           "có khoảnh khắc \"của bạn được chú ý\"",
+           "được cổ vũ bởi đám đông",
+           "nhận được giải thưởng",
+           "kiếm được sự ngưỡng mộ của người khác",
+           "nói với ai đó, \"làm tốt lắm!\""
           ],
-          "reversed": [
-            "being a bad winner",
-            "allowing your achievements to inflate your ego",
-            "looking down on people who seem less capable",
-            "craving to be the center of attention",
-            "giving or receiving insincere praise",
-            "envying the achievements of others"
+         "reversed": [
+           "là một người chiến thắng tồi",
+           "cho phép thành tích của bạn thổi phồng cái tôi của bạn",
+           "nhìn vàohạ gục những người có vẻ kém năng lực hơn",
+           "khao khát trở thành trung tâm của sự chú ý",
+           "cho hoặc nhận lời khen ngợi không chân thành",
+           "ganh tị với thành tích của người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "success",
-            "victory",
-            "triumph",
-            "rewards",
-            "recognition",
-            "praise",
-            "acclaim",
-            "pride"
+       "new": {
+         "upright": [
+           "thành công",
+           "chiến thắng",
+           "chiến thắng",
+           "phần thưởng",
+           "sự công nhận",
+           "khen",
+           "hoan hô",
+           "lòng tự trọng"
           ],
-          "reversed": [
-            "failure",
-            "lack of recognition",
-            "no rewards",
-            "lack of achievement"
+         "reversed": [
+           "thất bại",
+           "Thiếu sự công nhận",
+           "không có phần thưởng",
+           "thiếu thành tích"
           ]
         }
       },
@@ -3785,13 +3777,13 @@ export default {
       "astrology": "Jupiter in Leo",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
       "questions": [
-        "What kind of recognition do I crave? Why?",
-        "How freely do I praise the achievements of others?",
-        "What happens when the parade is over?"
+       "Tôi khao khát kiểu công nhận nào? Tại sao?",
+       "Tôi có thể tự do khen ngợi thành tích của người khác như thế nào?",
+       "Điều gì xảy ra khi cuộc diễu hành kết thúc?"
       ],
-      "fortuneTelling": [
-        "Someone is planning a party for you, but not everyone feels so good about your recent success",
-        "Watch out for envious friends"
+       "fortuneTelling": [
+       "Ai đó đang lên kế hoạch tổ chức tiệc cho bạn, nhưng không phải ai cũng cảm thấy hài lòng về thành công gần đây của bạn",
+       "Hãy coi chừng những người bạn đố kỵ"
       ],
       "id": "w6"
     },
@@ -3802,41 +3794,41 @@ export default {
       "suit": "Wands",
       "img": "w07.jpg",
       "keywords": [
-        "bravery",
-        "resolve",
-        "determination"
+       "bản lĩnh",
+       "giải quyết",
+       "sự quyết tâm"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "refusing to be silenced through fear or intimidation",
-            "continuing a fight against all odds",
-            "being fierce",
-            "defending yourself against physical and emotional attacks",
-            "refusing to put up with abuse",
-            "clinging to your values despite all pressure to abandon them"
+     "meanings": {
+       "old": {
+         "upright": [
+           "từ chối im lặng vì sợ hãi hoặc đe dọa",
+           "tiếp tục cuộc chiến chống lại mọi tỷ lệ cược",
+           "dữ dội",
+           "bảo vệ bản thân trước các cuộc tấn công về thể chất và cảm xúc",
+           "từ chối chịu đựng sự lạm dụng",
+           "bám vào các giá trị của bạn bất chấp mọi áp lực để từ bỏ chúng"
           ],
-          "reversed": [
-            "having a chip on your shoulder",
-            "taking unnecessary risks as a means of proving your fearlessness",
-            "looking for an opportunity to take offense",
-            "responding to constructive criticism with defensiveness",
-            "refusing to stand up for yourself and your beliefs"
+         "reversed": [
+           "có một con chip trên vai của bạn",
+           "chấp nhận những rủi ro không cần thiết như một phương tiện để chứng minh sự không sợ hãi của bạn",
+           "tìm kiếm cơ hội để thực hiện hành vi phạm tội",
+           "đáp lại những lời chỉ trích mang tính xây dựng với thái độ phòng thủ",
+           "từ chối bảo vệ bản thân và niềm tin của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "protectiveness",
-            "standing up for yourself",
-            "defending yourself",
-            "protecting territory"
+       "new": {
+         "upright": [
+           "sự bảo vệ",
+           "đứng lên cho chính mình",
+           "tự vệ",
+           "bảo vệ lãnh thổ"
           ],
-          "reversed": [
-            "giving up",
-            "admitting defeat",
-            "yielding",
-            "lack of self belief",
-            "surrender"
+         "reversed": [
+           "từ bỏ",
+           "thừa nhận thất bại",
+           "năng suất",
+           "thiếu tự tin",
+           "đầu hàng"
           ]
         }
       },
@@ -3846,13 +3838,13 @@ export default {
       "astrology": "Mars in Leo",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
       "questions": [
-        "When do you feel most threatened? When do you get defensive?",
-        "How capable are you of defending yourself?",
-        "What kinds of beliefs are worth defending?"
+       "Khi nào bạn cảm thấy bị đe dọa nhất? Khi nào bạn trở nên phòng thủ?",
+       "Bạn có khả năng tự vệ đến mức nào?",
+       "Những loại tín ngưỡng nào đáng để bảo vệ?"
       ],
-      "fortuneTelling": [
-        "Don't be surprised by a personal attack",
-        "Prepare to defend yourself or someone you love"
+       "fortuneTelling": [
+       "Đừng ngạc nhiên bởi một cuộc tấn công cá nhân",
+       "Chuẩn bị để bảo vệ bản thân hoặc người bạn yêu thương"
       ],
       "id": "w7"
     },
@@ -3863,48 +3855,48 @@ export default {
       "suit": "Wands",
       "img": "w08.jpg",
       "keywords": [
-        "speed",
-        "swiftness",
-        "responsiveness",
-        "change"
+       "tốc độ, vận tốc",
+       "nhanh chóng",
+       "khả năng đáp ứng",
+       "biến đổi"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "taking swift action",
-            "moving forward with a plan as quickly as possible",
-            "energizing yourself",
-            "adapting to sudden changes",
-            "taking setbacks in stride",
-            "embracing the idea that nothing stays the same forever",
-            "reacting quickly and appropriately to unforeseen problems"
+     "meanings": {
+       "old": {
+         "upright": [
+           "hành động nhanh chóng",
+           "tiến lên với một kế hoạch càng nhanh càng tốt",
+           "tiếp thêm năng lượng cho bản thân",
+           "thích ứng với những thay đổi đột ngột",
+           "bước lùi trong bước tiến",
+           "ôm lấy ý tưởng rằng không có gì giống nhau mãi mãi",
+           "phản ứng nhanh chóng và thích hợp với các vấn đề không lường trước được"
           ],
-          "reversed": [
-            "giving in to panic",
-            "running in circles and screaming",
-            "insisting things must always stay the same",
-            "stirring the pot just to see what will happen",
-            "rushing others",
-            "refusing to re-evaluate a schedule or program, even when it's clearly no longer appropriate"
+         "reversed": [
+           "đầu hàng vì hoảng sợ",
+           "chạy vòng tròn và la hét",
+           "nhấn mạnh mọi thứ phải luôn giữ nguyên",
+           "khuấy nồi chỉ để xem điều gì sẽ xảy ra",
+           "vội vã người khác",
+           "từ chối đánh giá lại lịch trình hoặc chương trình, ngay cả khi nó rõ ràng không còn phù hợp"
           ]
         },
-        "new": {
-          "upright": [
-            "movement",
-            "speed",
-            "progress",
-            "quick decisions",
-            "sudden changes",
-            "excitement"
+       "new": {
+         "upright": [
+           "sự chuyển động",
+           "tốc độ, vận tốc",
+           "tiến triển",
+           "quyết định nhanh chóng",
+           "thay đổi đột ngột",
+           "phấn khích"
           ],
-          "reversed": [
-            "waiting",
-            "slowness",
-            "chaos",
-            "delays",
-            "losing momentum",
-            "hastiness",
-            "being unprepared"
+         "reversed": [
+           "đang chờ đợi",
+           "chậm chạp",
+           "sự hỗn loạn",
+           "sự chậm trễ",
+           "mất đà",
+           "thung dung",
+           "không được chuẩn bị"
           ]
         }
       },
@@ -3914,13 +3906,13 @@ export default {
       "astrology": "Mercury in Sagittarius",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
       "questions": [
-        "How quickly to you adapt to change?",
-        "What would your response be to overwhelming, sudden change?",
-        "What changes are on your horizon? How well have you prepared for them?"
+       "Bạn thích nghi với sự thay đổi nhanh đến mức nào?",
+       "Phản ứng của bạn trước sự thay đổi quá lớn, đột ngột là gì?",
+       "Những thay đổi nào đang xảy ra trên đường chân trời của bạn? Bạn đã chuẩn bị tốt như thế nào cho chúng?"
       ],
-      "fortuneTelling": [
-        "Watch for a surprising letter in the mail",
-        "Your whole world is about to be turned on its ear"
+       "fortuneTelling": [
+       "Hãy để ý một lá thư đáng ngạc nhiên trong thư",
+       "Cả thế giới của bạn sắp được bật lên"
       ],
       "id": "w8"
     },
@@ -3931,49 +3923,49 @@ export default {
       "suit": "Wands",
       "img": "w09.jpg",
       "keywords": [
-        "toughness",
-        "persistence",
-        "stamina",
-        "loyalty",
-        "release"
+       "độ dẻo dai",
+       "bền bỉ",
+       "sự bền bỉ",
+       "lòng trung thành",
+       "phóng thích"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "sticking with it for the duration",
-            "fulfilling your promises and obligations",
-            "bearing up under incredible duress",
-            "dragging yourself across the finish line",
-            "picking yourself up by your own bootstraps",
-            "refusing to quit",
-            "going as far as you can go and being satisfied with your performance"
+     "meanings": {
+       "old": {
+         "upright": [
+           "gắn bó với nó trong suốt thời gian",
+           "thực hiện lời hứa và nghĩa vụ của bạn",
+           "chịu đựng dưới sự cưỡng ép đáng kinh ngạc",
+           "tự mình vượt qua vạch đích",
+           "tự nhặt lấy chiến lợi phẩm của chính mình",
+           "từ chối bỏ việc",
+           "đi xa nhất có thể và hài lòng với màn trình diễn của mình"
           ],
-          "reversed": [
-            "making yourself a martyr",
-            "abandoning your post",
-            "giving up at the first sign of opposition",
-            "being prevented from fulfilling an obligation",
-            "failing to be dependable",
-            "refusing to let something go that needs to be released",
-            "beating a dead horse"
+         "reversed": [
+           "biến mình thành một người tử vì đạo",
+           "từ bỏ bài đăng của bạn",
+           "từ bỏ khi có dấu hiệu phản đối đầu tiên",
+           "bị ngăn cản việc thực hiện nghĩa vụ",
+           "không đáng tin cậy",
+           "từ chối để một cái gì đó ra đi cần được giải phóng",
+           "đánh chết con ngựa"
           ]
         },
-        "new": {
-          "upright": [
-            "last stand",
-            "persistence",
-            "grit",
-            "resilience",
-            "perseverance",
-            "close to success",
-            "fatigue"
+       "new": {
+         "upright": [
+           "đứng cuối cùng",
+           "bền bỉ",
+           "grit",
+           "khả năng phục hồi",
+           "kiên trì",
+           "gần thành công",
+           "sự mệt mỏi"
           ],
-          "reversed": [
-            "stubbornness",
-            "rigidity",
-            "defensiveness",
-            "refusing compromise",
-            "giving up"
+         "reversed": [
+           "sự bướng bỉnh",
+           "độ cứng",
+           "tính phòng thủ",
+           "từ chối thỏa hiệp",
+           "từ bỏ"
           ]
         }
       },
@@ -3983,13 +3975,13 @@ export default {
       "astrology": "Moon in Sagittarius",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
       "questions": [
-        "How do you cope when things get really tough?",
-        "When you get low, what encourages you to go on?",
-        "At what point should you be able to let this situation go?"
+       "Làm thế nào để bạn đối phó khi mọi thứ trở nên thực sự khó khăn?",
+       "Khi bạn xuống thấp, điều gì khuyến khích bạn tiếp tục?",
+       "Đến lúc nào thì nên để cho tình trạng này đi?"
       ],
-      "fortuneTelling": [
-        "Don't relax yet; there's more to come",
-        "The test you're facing now is happening for one reason: to show you who your real friends are"
+       "fortuneTelling": [
+       "Đừng thư giãn; còn nhiều việc phải đến",
+       "Bài kiểm tra bạn đang đối mặt đang diễn ra vì một lý do: để cho bạn thấy bạn bè thực sự của bạn là ai"
       ],
       "id": "w9"
     },
@@ -4000,43 +3992,43 @@ export default {
       "suit": "Wands",
       "img": "w10.jpg",
       "keywords": [
-        "exhaustion",
-        "resistance",
-        "burden",
-        "oppression"
+       "kiệt sức",
+       "Sức cản",
+       "gánh nặng",
+       "áp bức"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "holding your own in extreme circumstances",
-            "helping others carry their burdens",
-            "coming to the aid of the oppressed",
-            "knowing and being honest about your own limits",
-            "recognizing when you are not well-suited for a particular task"
+     "meanings": {
+       "old": {
+         "upright": [
+           "giữ của riêng bạn trong hoàn cảnh khắc nghiệt",
+           "giúp đỡ người khác mang gánh nặng của họ",
+           "đến để giúp đỡ những người bị áp bức",
+           "biết và trung thực về giới hạn của chính mình",
+           "nhận ra khi bạn không thích hợp cho một nhiệm vụ cụ thể"
           ],
-          "reversed": [
-            "taking on more work than you know you can handle",
-            "refusing to say \"no\" when you're already overloaded",
-            "making a habit of working overtime",
-            "shielding others from facing the consequences of their own poor judgment",
-            "over-extending yourself on a regular basis"
+         "reversed": [
+           "đảm nhận nhiều việc hơn bạn biết là bạn có thể giải quyết",
+           "từ chối nói \"không\" khi bạn đã quá tải",
+           "tạo thói quen làm việc ngoài giờ",
+           "bảo vệ người khác khỏi phải đối mặt với hậu quả của sự phán xét kém cỏi của chính họ",
+           "mở rộng bản thân một cách thường xuyên"
           ]
         },
-        "new": {
-          "upright": [
-            "burden",
-            "responsibility",
-            "duty",
-            "stress",
-            "obligation",
-            "burning out",
-            "struggles"
+       "new": {
+         "upright": [
+           "gánh nặng",
+           "nhiệm vụ",
+           "nghĩa vụ",
+           "căng thẳng",
+           "nghĩa vụ",
+           "cháy hết mình",
+           "đấu tranh"
           ],
-          "reversed": [
-            "failure to delegate",
-            "shouldering too much responsibility",
-            "collapse",
-            "breakdown"
+         "reversed": [
+           "không thể ủy quyền",
+           "gánh vác quá nhiều trách nhiệm",
+           "sụp đổ",
+           "phá vỡ"
           ]
         }
       },
@@ -4046,13 +4038,13 @@ export default {
       "astrology": "Saturn in Sagittarius",
       "numerology": "10 (The End: finality, completion, exhaustion)",
       "questions": [
-        "How will you know when you reach the end of your rope?",
-        "How easily do you say no to new projects and requests?",
-        "What projects could you delegate...or eliminate?"
+       "Làm thế nào bạn sẽ biết khi bạn đi đến cuối sợi dây của bạn?",
+       "Làm thế nào để bạn dễ dàng nói không với các dự án và yêu cầu mới?",
+       "Bạn có thể ủy quyền ... hoặc loại bỏ những dự án nào?"
       ],
-      "fortuneTelling": [
-        "You're worn out",
-        "Back off, take a time out, and let someone else handle things for a while"
+       "fortuneTelling": [
+       "Bạn đang mệt mỏi",
+       "Lùi lại, nghỉ ngơi một chút, để người khác xử lý mọi việc trong chốc lát"
       ],
       "id": "w10"
     },
@@ -4063,48 +4055,47 @@ export default {
       "suit": "Wands",
       "img": "w11.jpg",
       "keywords": [
-        "enthusiasm",
-        "eagerness",
-        "confidence",
-        "validation",
-        "affirmation"
+       "hăng hái",
+       "háo hức",
+       "lòng tin",
+       "Thẩm định",
+       "affirmation"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "leaping at a new opportunity",
-            "being a cheerleader or ardent advocate for your cause",
-            "being a true believer",
-            "taking first steps toward independence",
-            "trusting in your own abilities",
-            "asking for feedback"
+     "meanings": {
+       "old": {"upright": [
+           "nhảy vào một cơ hội mới",
+           "trở thành người cổ vũ hoặc người ủng hộ nhiệt tình cho sự nghiệp của bạn",
+           "là một tín đồ chân chính",
+           "thực hiện những bước đầu tiên hướng tới sự độc lập",
+           "tin tưởng vào khả năng của chính mình",
+           "yêu cầu phản hồi"
           ],
-          "reversed": [
-            "basing your entire self-image on what others think",
-            "seizing every new idea that comes your way without question",
-            "habitually discounting input or feedback from others",
-            "being so eager to \"do it yourself\" that you hinder your own progress"
+         "reversed": [
+           "dựa trên toàn bộ hình ảnh bản thân của bạn dựa trên những gì người khác nghĩ",
+           "nắm bắt mọi ý tưởng mới theo cách của bạn mà không cần thắc mắc",
+           "thường giảm giá đầu vào hoặc phản hồi từ những người khác",
+           "quá háo hức để \"tự mình làm điều đó\" đến mức bạn cản trở sự tiến bộ của chính mình"
           ]
         },
-        "new": {
-          "upright": [
-            "adventure",
-            "excitement",
-            "fresh ideas",
-            "cheerfulness",
-            "energetic",
-            "fearless",
-            "extroverted"
+       "new": {
+         "upright": [
+           "cuộc phiêu lưu",
+           "phấn khích",
+           "ý tưởng mới",
+           "vui vẻ",
+           "năng lượng",
+           "Không sợ hãi",
+           "hướng ngoại"
           ],
-          "reversed": [
-            "hasty",
-            "impatient",
-            "lacking ideas",
-            "tantrums",
-            "laziness",
-            "boring",
-            "unreliable",
-            "distracted"
+         "reversed": [
+           "vội vàng",
+           "nóng nảy",
+           "thiếu ý tưởng",
+           "nổi cơn thịnh nộ",
+           "sự lười biếng",
+           "nhàm chán",
+           "không đáng tin cậy",
+           "phân tâm"
           ]
         }
       },
@@ -4113,12 +4104,12 @@ export default {
       "affirmation": "\"I can do this.\"",
       "elemental": "Earth of Fire.",
       "questions": [
-        "How easily do you admit your own inexperience?",
-        "How can you be a better student or employee?",
-        "What qualities would make a total beginner's voyage of discovery easier?"
+       "Làm thế nào để bạn dễ dàng thừa nhận sự thiếu kinh nghiệm của mình?",
+       "Làm thế nào bạn có thể trở thành một sinh viên hoặc nhân viên tốt hơn?",
+       "Những phẩm chất nào sẽ làm cho hành trình khám phá tổng thể của người mới bắt đầu trở nên dễ dàng hơn?"
       ],
-      "fortuneTelling": [
-        "This card represents a young man or woman with a fiery, enthusiastic demeanor, likely born a Cancer, Leo, or Virgo, who wants to start a new relationship with you"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông hoặc phụ nữ trẻ với phong thái bốc lửa, nhiệt tình, có khả năng sinh ra là cung Cự Giải, Sư Tử hoặc Xử Nữ, những người muốn bắt đầu một mối quan hệ mới với bạn"
       ],
       "id": "wp"
     },
@@ -4129,49 +4120,49 @@ export default {
       "suit": "Wands",
       "img": "w12.jpg",
       "keywords": [
-        "boldness",
-        "bravado",
-        "passion",
-        "persuasion",
-        "advocacy"
+       "sự táo bạo",
+       "dũng cảm",
+       "sự đam mê",
+       "sự thuyết phục",
+       "biện hộ"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "charging ahead",
-            "making rapid progress",
-            "refusing limits",
-            "dazzling those around you with your wit and charm",
-            "convincing others of your right to leadership",
-            "convincing others to follow you",
-            "being a catalyst for change"
+     "meanings": {
+       "old": {
+         "upright": [
+           "sạc trước",
+           "đang tiến bộ nhanh chóng",
+           "từ chối giới hạn",
+           "làm chói mắt những người xung quanh bạn bằng sự thông minh và quyến rũ của bạn",
+           "thuyết phục người khác về quyền lãnh đạo của bạn",
+           "thuyết phục người khác theo bạn",
+           "là chất xúc tác cho sự thay đổi"
           ],
-          "reversed": [
-            "blundering forward with inadequate skill or information",
-            "running roughshod over the feelings of others",
-            "using sex appeal to manipulate others",
-            "forcing your leadership or ideology on others",
-            "beginning many projects without finishing any"
+         "reversed": [
+           "tiếp tục sai lầm với kỹ năng hoặc thông tin không đầy đủ",
+           "chạy theo cảm xúc của người khác",
+           "sử dụng sự hấp dẫn giới tính để thao túng người khác",
+           "buộc sự lãnh đạo hoặc hệ tư tưởng của bạn lên người khác",
+           "bắt đầu nhiều dự án mà không kết thúc bất kỳ dự án nào"
           ]
         },
-        "new": {
-          "upright": [
-            "courageous",
-            "energetic",
-            "charming",
-            "hero",
-            "rebellious",
-            "hot tempered",
-            "free spirit"
+       "new": {
+         "upright": [
+           "can đảm",
+           "năng lượng",
+           "quyến rũ",
+           "anh hùng",
+           "ương ngạnh",
+           "nóng tính",
+           "tinh thần tự do"
           ],
-          "reversed": [
-            "arrogant",
-            "reckless",
-            "impatient",
-            "lack of self control",
-            "passive",
-            "volatile",
-            "domineering"
+         "reversed": [
+           "kiêu ngạo",
+           "liều lĩnh",
+           "nóng nảy",
+           "thiếu tự chủ",
+           "thụ động",
+           "bay hơi",
+           "độc đoán"
           ]
         }
       },
@@ -4180,12 +4171,12 @@ export default {
       "affirmation": "\"I can lead the way to success.\"",
       "elemental": "Air of Fire.",
       "questions": [
-        "To what extent have you defined your ultimate goal?",
-        "What's the fastest way to get the job done? Is this necessarily the best way?",
-        "How long has it been since you looked back to see if others really are following your lead?"
+       "Bạn đã xác định mục tiêu cuối cùng của mình ở mức độ nào?",
+       "Cách nhanh nhất để hoàn thành công việc là gì? Đây có nhất thiết phải là cách tốt nhất không?",
+       "Đã bao lâu rồi bạn không nhìn lại xem những người khác có thực sự đang theo dõi sự dẫn dắt của bạn hay không?"
       ],
-      "fortuneTelling": [
-        "This card represents a man with a bold, passionate personality, likely born between July 12th and August 11th, who wants to sweep you off your feet"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông có tính cách táo bạo, đam mê, có khả năng sinh từ ngày 12 tháng 7 đến ngày 11 tháng 8, người muốn cuốn bạn khỏi bàn chân của bạn"
       ],
       "id": "wn"
     },
@@ -4196,46 +4187,46 @@ export default {
       "suit": "Wands",
       "img": "w13.jpg",
       "keywords": [
-        "attention",
-        "attraction",
-        "unification",
-        "collaboration"
+       "chú ý",
+       "sức hút",
+       "thống nhất",
+       "sự hợp tác"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "paying close attention",
-            "helping others focus on the issue at hand",
-            "getting everyone to work together",
-            "identifying common ground",
-            "bringing people together, despite their differences",
-            "using reverse psychology"
+     "meanings": {
+       "old": {
+         "upright": [
+           "chú ý kỹ",
+           "giúp người khác tập trung vào vấn đề đang bàn",
+           "kêu gọi mọi người làm việc cùng nhau",
+           "xác định điểm chung",
+           "mang mọi người lại gần nhau, bất chấp sự khác biệt của họ",
+           "sử dụng tâm lý học ngược"
           ],
-          "reversed": [
-            "being distracted, or using your charms or skills to distract others from the goal",
-            "calling attention to yourself with negative or unhealthy behaviors",
-            "disrupting group activities as a means of feeding your own ego"
+         "reversed": [
+           "bị phân tâm hoặc sử dụng sự quyến rũ hoặc kỹ năng của bạn để đánh lạc hướng người khác khỏi mục tiêu",
+           "kêu gọi sự chú ý đến bản thân bằng những hành vi tiêu cực hoặc không lành mạnh",
+           "làm gián đoạn các hoạt động nhóm như một phương tiện nuôi dưỡng cái tôi của chính bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "confident",
-            "self-assured",
-            "passionate",
-            "determined",
-            "social",
-            "charismatic",
-            "vivacious",
-            "optimistic"
+       "new": {
+         "upright": [
+           "tin chắc",
+           "tự tin",
+           "say đắm",
+           "xác định",
+           "xã hội",
+           "sủng vậtic",
+           "hoạt bát",
+           "lạc quan"
           ],
-          "reversed": [
-            "demanding",
-            "vengeful",
-            "low confidence",
-            "jealous",
-            "selfish",
-            "temperamental",
-            "bully"
+         "reversed": [
+           "đòi hỏi",
+           "báo thù",
+           "độ tin cậy thấp",
+           "ghen tuông",
+           "ích kỷ",
+           "thất thường",
+           "bắt nạt"
           ]
         }
       },
@@ -4244,12 +4235,12 @@ export default {
       "affirmation": "\"I use my influence to promote unity.\"",
       "elemental": "Water of Fire.",
       "questions": [
-        "How attentive am I?",
-        "How can I draw people's attention to what we have in common?",
-        "To what extent am I able to convince people to do what I want them to do?"
+       "Tôi chăm chú đến mức nào?",
+       "Làm cách nào để tôi có thể thu hút sự chú ý của mọi người đến những điểm chung của chúng ta?",
+       "Tôi có thể thuyết phục mọi người làm những gì tôi muốn họ làm ở mức độ nào?"
       ],
-      "fortuneTelling": [
-        "This card represents a woman with an attractive, appealing personality, likely born between March 11th and April 20th, who wants to charm you into doing things her way"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người phụ nữ có tính cách hấp dẫn, lôi cuốn, có khả năng sinh từ ngày 11 tháng 3 đến ngày 20 tháng 4, người muốn thu hút bạn làm mọi việc theo cách của cô ấy"
       ],
       "id": "wq"
     },
@@ -4260,45 +4251,45 @@ export default {
       "suit": "Wands",
       "img": "w14.jpg",
       "keywords": [
-        "creativity",
-        "ingenuity",
-        "achievement",
-        "direction"
+       "sáng tạo",
+       "Khéo léo",
+       "thành tích",
+       "hướng đi"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "putting old things together in new and exciting ways",
-            "coming up with unexpected solutions",
-            "using your experience to solve puzzles and problems",
-            "doing what you set out to do",
-            "directing the efforts of others"
+     "meanings": {
+       "old": {
+         "upright": [
+           "kết hợp những thứ cũ lại với nhau theo những cách mới và thú vị",
+           "đưa ra các giải pháp bất ngờ",
+           "sử dụng kinh nghiệm của bạn để giải các câu đố và vấn đề",
+           "làm những gì bạn đặt ra để làm",
+           "chỉ đạo nỗ lực của người khác"
           ],
-          "reversed": [
-            "using your creativity to get out of honest work",
-            "investing great energy in avoiding responsibility",
-            "boasting about achievements without putting your expertise to practical use",
-            "lording it over others"
+         "reversed": [
+           "sử dụng sự sáng tạo của bạn để thoát ra khỏi công việc lương thiện",
+           "đầu tư sức lực lớn vào việc trốn tránh trách nhiệm",
+           "khoe khoang về thành tích mà không đưa kiến ​​thức chuyên môn của bạn vào thực tế",
+           "ghi âm nó trên những người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "leadership",
-            "vision",
-            "big picture",
-            "taking control",
-            "daring decisions",
-            "boldness",
-            "optimism"
+       "new": {
+         "upright": [
+           "Khả năng lãnh đạo",
+           "tầm nhìn",
+           "bức tranh lớn",
+           "nắm quyền kiểm soát",
+           "quyết định táo bạo",
+           "sự táo bạo",
+           "lạc quan"
           ],
-          "reversed": [
-            "forceful",
-            "domineering",
-            "tyrant",
-            "vicious",
-            "powerless",
-            "ineffective",
-            "weak leader"
+         "reversed": [
+           "mạnh mẽ",
+           "độc đoán",
+           "bạo chúa",
+           "luẩn quẩn",
+           "bất lực",
+           "không hiệu quả",
+           "nhà lãnh đạo yếu kém"
           ]
         }
       },
@@ -4307,12 +4298,12 @@ export default {
       "affirmation": "\"I use my authority and experience to get things done faster.\"",
       "elemental": "Fire of Fire",
       "questions": [
-        "How confident a leader am I?",
-        "How can I project more confidence?",
-        "How can I offer my expertise in ways that inspire others to follow me?"
+       "Tôi tự tin là một nhà lãnh đạo đến mức nào?",
+       "Làm cách nào để tôi có thể tự tin hơn?",
+       "Làm thế nào tôi có thể cung cấp kiến ​​thức chuyên môn của mình theo những cách truyền cảm hứng cho những người khác làm theo tôi?"
       ],
-      "fortuneTelling": [
-        "This card represents an older man with a commanding, charismatic personality, likely born between November 13th and December 12th, who prefers to give directions and have them followed"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông lớn tuổi với tính cách chỉ huy, lôi cuốn, có khả năng sinh từ ngày 13 tháng 11 đến ngày 12 tháng 12, người thích chỉ đường và khiến họ đi theo"
       ],
       "id": "wk"
     },
@@ -4323,46 +4314,46 @@ export default {
       "suit": "Pentacles",
       "img": "p01.jpg",
       "keywords": [
-        "health",
-        "wealth",
-        "practicality",
-        "receiving"
+       "Sức khỏe",
+       "sự giàu có",
+       "tính thực tế",
+       "nhận"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "outlining a plan for achieving prosperity",
-            "becoming aware of opportunities to improve income or health",
-            "realizing you have everything you need",
-            "appreciating everything the universe has given you",
-            "receiving the perfect gift at the perfect time"
+     "meanings": {
+       "old": {
+         "upright": [
+           "vạch ra kế hoạch để đạt được sự thịnh vượng",
+           "nhận thức được các cơ hội để cải thiện thu nhập hoặc sức khỏe",
+           "nhận ra rằng bạn có mọi thứ bạn cần",
+           "trân trọng mọi thứ mà vũ trụ đã ban tặng cho bạn",
+           "nhận món quà hoàn hảo vào thời điểm hoàn hảo"
           ],
-          "reversed": [
-            "indulging in relentless consumerism",
-            "wanting more, no matter how much you have",
-            "obsessing on your account balance",
-            "suffering from hypochondria",
-            "consuming blessings without expressing gratitude",
-            "taking what you want without concern for the needs of others"
+         "reversed": [
+           "say mê chủ nghĩa tiêu dùng không ngừng",
+           "muốn nhiều hơn, bất kể bạn có bao nhiêu",
+           "ám ảnh về số dư tài khoản của bạn",
+           "bị chứng đạo đức giả",
+           "sử dụng phước lành mà không bày tỏ lòng biết ơn",
+           "lấy những gì bạn muốn mà không quan tâm đến nhu cầu của người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "new opportunities",
-            "resources",
-            "abundance",
-            "prosperity",
-            "security",
-            "stability",
-            "manifestation"
+       "new": {
+         "upright": [
+           "cơ hội mới",
+           "tài nguyên",
+           "phong phú",
+           "sự phồn vinh",
+           "Bảo vệ",
+           "sự ổn định",
+           "biểu hiện"
           ],
-          "reversed": [
-            "missed chances",
-            "scarcity",
-            "deficiency",
-            "instability",
-            "stinginess",
-            "bad investments"
+         "reversed": [
+           "cơ hội bị bỏ lỡ",
+           "sự khan hiếm",
+           "sự thiếu hụt",
+           "không ổn định",
+           "keo kiệt",
+           "đầu tư xấu"
           ]
         }
       },
@@ -4372,13 +4363,13 @@ export default {
       "astrology": "Capricorn, Taurus, Virgo",
       "numerology": "1 (The Origin: the starting point, the seed, opportunity)",
       "questions": [
-        "If I made my decision based solely on practical concerns, what would my decision be?",
-        "What resources are available to me?",
-        "What will be the physical and financial impact of my decisions?"
+       "Nếu tôi đưa ra quyết định của mình chỉ dựa trên những mối quan tâm thực tế, thì quyết định của tôi sẽ như thế nào?",
+       "Những tài nguyên nào có sẵn cho tôi?",
+       "Tác động vật lý và tài chính đối với các quyết định của tôi là gì?"
       ],
-      "fortuneTelling": [
-        "Your health will improve",
-        "The check you're looking for really is in the mail"
+       "fortuneTelling": [
+       "Sức khỏe của bạn sẽ được cải thiện",
+		"Điều bạn tìm kiếm thực sự có trong thư"
       ],
       "id": "p1"
     },
@@ -4389,45 +4380,45 @@ export default {
       "suit": "Pentacles",
       "img": "p02.jpg",
       "keywords": [
-        "evaluation",
-        "decision",
-        "budgeting",
-        "diagnosis"
+       "sự đánh giá",
+       "quyết định",
+       "lập ngân sách",
+       "chẩn đoán"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "weighing options",
-            "comparing prices",
-            "determining the value of one option over another",
-            "juggling resources to make ends meet",
-            "making difficult choices based on what's best for your body or your bankbook",
-            "looking at the bottom line",
-            "asking for a second opinion on health issues"
+     "meanings": {
+       "old": {
+         "upright": [
+           "tùy chọn cân",
+           "so sánh giá",
+           "xác định giá trị của một tùy chọn so với một tùy chọn khác",
+           "sắp xếp các nguồn lực để kiếm sống",
+           "đưa ra những lựa chọn khó khăn dựa trên những gì tốt nhất cho cơ thể của bạn hoặc sổ ngân hàng của bạn",
+           "nhìn vào điểm mấu chốt",
+           "xin ý kiến ​​thứ hai về các vấn đề sức khỏe"
           ],
-          "reversed": [
-            "engaging in endless price comparison",
-            "putting off a buying decision for fear of finding a slightly better value later on",
-            "buying something without regard for value",
-            "breaking your budget with unnecessary expenses",
-            "engaging in behavior with no regard for how your body or bankbook will be impacted"
+         "reversed": [
+           "tham gia vào việc so sánh giá vô tận",
+           "từ chối quyết định mua vì sợ sau này tìm thấy giá trị tốt hơn một chút",
+           "mua thứ gì đó mà không quan tâm đến giá trị",
+           "phá vỡ ngân sách của bạn với các chi phí không cần thiết",
+           "tham gia vào hành vi mà không quan tâm đến việc cơ thể hoặc sổ ngân hàng của bạn sẽ bị ảnh hưởng như thế nào"
           ]
         },
-        "new": {
-          "upright": [
-            "balancing resources",
-            "adaptation",
-            "resourcefulness",
-            "flexibility",
-            "stretching resources"
+       "new": {
+         "upright": [
+           "cân đối tài nguyên",
+           "thích ứng",
+           "tháo vát",
+           "Uyển chuyển",
+           "kéo dài tài nguyên"
           ],
-          "reversed": [
-            "imbalance",
-            "unorganized",
-            "overwhelmed",
-            "messiness",
-            "chaos",
-            "overextending"
+         "reversed": [
+           "mất cân bằng",
+           "không có tổ chức",
+           "choáng ngợp",
+           "lộn xộn",
+           "sự hỗn loạn",
+           "giả vờ quá mức"
           ]
         }
       },
@@ -4437,13 +4428,13 @@ export default {
       "astrology": "Jupiter in Capricorn",
       "numerology": "2 (The Other: duality, division, debate)",
       "questions": [
-        "What values govern my decisions?",
-        "How willing am I to sacrifice a little pleasure now in order to have more pleasure later on?",
-        "Given my current situation, which course of action will give me more of what I really need?"
+       "Giá trị nào chi phối quyết định của tôi?",
+       "Làm thế nào tôi sẵn sàng hy sinh một chút niềm vui bây giờ để có được nhiều niềm vui hơn sau này?",
+       "Với tình hình hiện tại của tôi, hành động nào sẽ mang lại cho tôi nhiều hơn những gì tôi thực sự cần?"
       ],
-      "fortuneTelling": [
-        "It's time to balance the budget",
-        "Avoid the temptation to spend critical funds on frivolous goods"
+       "fortuneTelling": [
+       "Đã đến lúc cân đối ngân sách",
+       "Tránh sự cám dỗ chi tiêu những khoản tiền quan trọng cho những món hàng phù phiếm"
       ],
       "id": "p2"
     },
@@ -4454,48 +4445,48 @@ export default {
       "suit": "Pentacles",
       "img": "p03.jpg",
       "keywords": [
-        "expression",
-        "production",
-        "work",
-        "contribution"
+       "biểu hiện",
+       "sản xuất",
+       "công việc",
+       "sự đóng góp"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "finishing a project",
-            "setting and meeting standards",
-            "performing according to specifications",
-            "making something others value",
-            "creating something new",
-            "doing your part in a group project",
-            "delivering exactly what others have asked for"
+     "meanings": {
+       "old": {
+         "upright": [
+           "hoàn thành một dự án",
+           "thiết lập và đáp ứng các tiêu chuẩn",
+           "thực hiện theo thông số kỹ thuật",
+           "làm cho thứ gì đó người khác đánh giá cao",
+           "tạo ra một cái gì đó mới",
+           "thực hiện một phần của bạn trong một dự án nhóm",
+           "cung cấp chính xác những gì người khác yêu cầu"
           ],
-          "reversed": [
-            "pandering to the tastes of others",
-            "failing to deliver what you've promised",
-            "not delivering your best work unless closely supervised",
-            "ignoring or breaking agreements with those who have invested in you",
-            "refusing to do your part",
-            "failing to abide by a clearly-outlined agreement with yourself or others"
+         "reversed": [
+           "chiều chuộng thị hiếu của người khác",
+           "không thực hiện được những gì bạn đã hứa",
+           "không cung cấp công việc tốt nhất của bạn trừ khi được giám sát chặt chẽ",
+           "bỏ qua hoặc phá vỡ các thỏa thuận với những người đã đầu tư vào bạn",
+           "từ chối làm phần việc của bạn",
+           "không tuân thủ một thỏa thuận được vạch ra rõ ràng với bản thân hoặc người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "teamwork",
-            "shared goals",
-            "collaboration",
-            "apprenticeship",
-            "effort",
-            "pooling energy"
+       "new": {
+         "upright": [
+           "làm việc theo nhóm",
+           "mục tiêu chia sẻ",
+           "sự hợp tác",
+           "sự học việc",
+           "cố gắng",
+           "tổng hợp năng lượng"
           ],
-          "reversed": [
-            "lack of cohesion",
-            "lack of teamwork",
-            "apathy",
-            "poor motivation",
-            "conflict",
-            "ego",
-            "competition"
+         "reversed": [
+           "thiếu gắn kết",
+           "thiếu tinh thần đồng đội",
+           "thờ ơ",
+           "động lực kém",
+           "xung đột",
+           "Cái tôi",
+           "cuộc đua, cuộc thi"
           ]
         }
       },
@@ -4505,13 +4496,13 @@ export default {
       "astrology": "Mars in Capricorn",
       "numerology": "3 (The Result: expression, productivity, output)",
       "questions": [
-        "How can I get more done?",
-        "What's expected of me? How large a role do I play in controlling those expectations?",
-        "What's been agreed to? How well has that agreement been followed?"
+       "Làm thế nào tôi có thể hoàn thành nhiều việc hơn?",
+       "Kỳ vọng ở tôi là gì? Tôi đóng vai trò quan trọng như thế nào trong việc kiểm soát những kỳ vọng đó?",
+       "Điều gì đã được đồng ý? Thỏa thuận đó đã được tuân thủ tốt như thế nào?"
       ],
-      "fortuneTelling": [
-        "A high-dollar contract is in your future",
-        "If you work hard, you'll succeed"
+       "fortuneTelling": [
+       "Một hợp đồng đô la cao là trong tương lai của bạn",
+       "Nếu bạn làm việc chăm chỉ, bạn sẽ thành công"
       ],
       "id": "p3"
     },
@@ -4522,53 +4513,53 @@ export default {
       "suit": "Pentacles",
       "img": "p04.jpg",
       "keywords": [
-        "protection",
-        "conservation",
-        "preservation",
-        "safety"
+       "sự bảo vệ",
+       "sự bảo tồn",
+       "sự bảo tồn",
+       "sự an toàn"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "saving for a rainy day",
-            "fasting as part of a spiritual practice",
-            "dieting in an effort to improve your body",
-            "abstaining from sex as a way of honoring a spiritual tradition or personal promise",
-            "being financially conservative",
-            "establishing a trust fund",
-            "opening a savings account"
+     "meanings": {
+       "old": {
+         "upright": [
+           "tiết kiệm cho một ngày mưa",
+           "ăn chay như một phần của thực hành tâm linh",
+           "ăn kiêng để cố gắng cải thiện cơ thể của bạn",
+           "kiêng quan hệ tình dục nhưmột cách tôn vinh truyền thống thiêng liêng hoặc lời hứa cá nhân",
+           "thận trọng về mặt tài chính",
+           "thành lập quỹ ủy thác",
+           "mở tài khoản tiết kiệm"
           ],
-          "reversed": [
-            "being stingy",
-            "refusing to spend money that needs to be spent",
-            "withholding sex from your partner",
-            "taking care of your own needs exclusively, without regard for the needs of others",
-            "spending a dollar to save a penny",
-            "failing to be a good manager of the blessings you've been given"
+         "reversed": [
+           "keo kiệt",
+           "từ chối tiêu tiền cần phải tiêu",
+           "từ chối quan hệ tình dục với đối tác của bạn",
+           "quan tâm đến nhu cầu của riêng bạn, không quan tâm đến nhu cầu của người khác",
+           "tiêu một đô la để tiết kiệm một xu",
+           "không thể trở thành người quản lý tốt những phước lành mà bạn đã được ban cho"
           ]
         },
-        "new": {
-          "upright": [
-            "possessiveness",
-            "insecurity",
-            "hoarding",
-            "stinginess",
-            "stability",
-            "security",
-            "savings",
-            "materialism",
-            "wealth",
-            "frugality",
-            "boundaries",
-            "guardedness"
+       "new": {
+         "upright": [
+           "tính chiếm hữu",
+           "bất an",
+           "tích trữ",
+           "keo kiệt",
+           "sự ổn định",
+           "Bảo vệ",
+           "tiết kiệm",
+           "chủ nghĩa duy vật",
+           "sự giàu có",
+           "tiết kiệm",
+           "ranh giới",
+           "sự bảo vệ"
           ],
-          "reversed": [
-            "generosity",
-            "giving",
-            "spending",
-            "openness",
-            "financial insecurity",
-            "reckless spending"
+         "reversed": [
+           "hào phóng",
+           "cho",
+           "chi tiêu",
+           "sự cởi mở",
+           "mất an toàn tài chính",
+           "chi tiêu liều lĩnh"
           ]
         }
       },
@@ -4578,12 +4569,12 @@ export default {
       "astrology": "Sun in Capricorn",
       "numerology": "4 (The Status Quo: stability, equality, persistence)",
       "questions": [
-        "What factors determine how conservative or generous you are?",
-        "What kinds of things must be preserved at all costs?",
-        "When is greediness or stinginess a good trait to have? When might generosity work against you?"
+       "Những yếu tố nào quyết định bạn là người bảo thủ hay hào phóng?",
+       "Những loại vật dụng nào phải được bảo quản bằng mọi giá?",
+       "Khi nào thì tính tham lam hay bủn xỉn là một đặc điểm tốt? Khi nào thì lòng rộng lượng có thể chống lại bạn?"
       ],
-      "fortuneTelling": [
-        "A rainy day is comingâ€”it's time to save"
+       "fortuneTelling": [
+       "Một ngày mưa sắp tớiâ €' đã đến lúc tiết kiệm"
       ],
       "id": "p4"
     },
@@ -4594,49 +4585,49 @@ export default {
       "suit": "Pentacles",
       "img": "p05.jpg",
       "keywords": [
-        "poverty",
-        "destitution",
-        "need",
-        "crisis"
+       "nghèo nàn",
+       "cơ cực",
+       "cần",
+       "khủng hoảng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "recognizing your needs and taking action to fulfill them",
-            "doing as much as you can do with what little you have",
-            "admitting you need help",
-            "embracing the aid that comes your way",
-            "focusing on what you have versus what you don't",
-            "looking for the light at the end of the tunnel"
+     "meanings": {
+       "old": {
+         "upright": [
+           "nhận ra nhu cầu của bạn và hành động để đáp ứng chúng",
+           "làm nhiều nhất có thể với những gì bạn có",
+           "thừa nhận bạn cần giúp đỡ",
+           "đón nhận sự hỗ trợ theo cách của bạn",
+           "tập trung vào những gì bạn có so với những gì bạn không có",
+           "đi tìm ánh sáng cuối đường hầm"
           ],
-          "reversed": [
-            "exaggerating your financial or physical needs",
-            "adopting a poverty mentality",
-            "refusing to support yourself",
-            "refusing offers of support",
-            "playing the martyr",
-            "turning down opportunities to improve your health or finances",
-            "wallowing in misery"
+         "reversed": [
+           "phóng đại nhu cầu tài chính hoặc vật chất của bạn",
+           "áp dụng tâm lý nghèo đói",
+           "từ chối hỗ trợ bản thân",
+           "từ chối đề nghị hỗ trợ",
+           "đóng vai kẻ tử vì đạo",
+           "từ chối các cơ hội để cải thiện sức khỏe hoặc tài chính của bạn",
+           "chìm đắm trong đau khổ"
           ]
         },
-        "new": {
-          "upright": [
-            "hardship",
-            "loss",
-            "isolation",
-            "feeling abandoned",
-            "adversity",
-            "struggle",
-            "unemployment",
-            "alienation",
-            "disgrace"
+       "new": {
+         "upright": [
+           "khó khăn",
+           "sự mất mát",
+           "sự cách ly",
+           "cảm thấy bị bỏ rơi",
+           "nghịch cảnh",
+           "đấu tranh",
+           "nạn thất nghiệp",
+           "xa lánh",
+           "Ghét bỏ"
           ],
-          "reversed": [
-            "positive changes",
-            "recovery from loss",
-            "overcoming adversity",
-            "forgiveness",
-            "feeling welcomed"
+         "reversed": [
+           "những thay đổi tích cực",
+           "phục hồi sau mất mát",
+           "vượt qua nghịch cảnh",
+           "tha thứ",
+           "cảm thấy được chào đón"
           ]
         }
       },
@@ -4646,13 +4637,13 @@ export default {
       "astrology": "Mercury in Taurus",
       "numerology": "5 (The Catalyst: instability, resistance, confrontation)",
       "questions": [
-        "What critical resources do I lack?",
-        "What people or groups would come to my aid if I asked?",
-        "How might an impoverished spirit be impacting my physical or financial condition?"
+       "Tôi thiếu những tài nguyên quan trọng nào?",
+       "Những người hoặc nhóm nào sẽ hỗ trợ tôi nếu tôi yêu cầu?",
+       "Một tinh thần nghèo khó có thể ảnh hưởng đến tình trạng thể chất hoặc tài chính của tôi như thế nào?"
       ],
-      "fortuneTelling": [
-        "Finances are getting tighter",
-        "Prepare for a setback"
+       "fortuneTelling": [
+       "Tài chính ngày càng thắt chặt",
+       "Chuẩn bị cho một bước lùi"
       ],
       "id": "p5"
     },
@@ -4663,48 +4654,48 @@ export default {
       "suit": "Pentacles",
       "img": "p06.jpg",
       "keywords": [
-        "charity",
-        "fairness",
-        "cooperation",
-        "sharing"
+       "từ thiện",
+       "công bằng",
+       "sự hợp tác",
+       "chia sẻ"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "giving time, money, or effort to a charity",
-            "taking part in a group effort",
-            "lending your resources to others without expecting anything in return",
-            "making sure everyone is treated equally",
-            "working together toward a common goal",
-            "redistributing wealth, time, or attention",
-            "tithing",
-            "sharing credit for your success"
+     "meanings": {
+       "old": {
+         "upright": [
+           "dành thời gian, tiền bạc hoặc nỗ lực cho một tổ chức từ thiện",
+           "tham gia vào nỗ lực nhóm",
+           "cho người khác mượn tài nguyên của bạn mà không mong nhận lại bất cứ thứ gì",
+           "đảm bảo mọi người đều được đối xử bình đẳng",
+           "cùng nhau hướng tới một mục tiêu chung",
+           "phân phối lại của cải, thời gian hoặc sự chú ý",
+           "thập phân",
+           "chia sẻ tín dụng cho sự thành công của bạn"
           ],
-          "reversed": [
-            "making a loan as a means of gaining control over someone",
-            "using charitable acts to draw attention to yourself",
-            "dividing work or resources unfairly",
-            "failing to do your part in a group effort",
-            "ignoring obligations and commitments"
+         "reversed": [
+           "cho vay như một phương tiện để giành quyền kiểm soát ai đó",
+           "sử dụng các hành động từ thiện để thu hút sự chú ý đến bản thân",
+           "phân chia công việc hoặc nguồn lực một cách không công bằng",
+           "không làm được phần việc của mình một cách khó chịucố lên",
+           "bỏ qua các nghĩa vụ và cam kết"
           ]
         },
-        "new": {
-          "upright": [
-            "generosity",
-            "charity",
-            "community",
-            "material help",
-            "support",
-            "sharing",
-            "giving and receiving",
-            "gratitude"
+       "new": {
+         "upright": [
+           "hào phóng",
+           "từ thiện",
+           "cộng đồng",
+           "material help",
+           "ủng hộ",
+           "chia sẻ",
+           "cho và nhận",
+           "lòng biết ơn"
           ],
-          "reversed": [
-            "power dynamics",
-            "abuse of generosity",
-            "strings attached gifts",
-            "inequality",
-            "extortion"
+         "reversed": [
+           "động lực học",
+           "lạm dụng lòng hảo tâm",
+           "chuỗi quà tặng đính kèm",
+           "bất bình đẳng",
+           "tống tiền"
           ]
         }
       },
@@ -4714,13 +4705,13 @@ export default {
       "astrology": "Moon in Taurus",
       "numerology": "6 (The Adjustment: cooperation, collaboration, interaction)",
       "questions": [
-        "How do I feel about charity? About giving it? About receiving it?",
-        "How can I know if I'm treating others fairly?",
-        "What could I give that no one else can?"
+       "Tôi cảm thấy thế nào về hoạt động từ thiện? Về việc cho đi? Về việc nhận nó?",
+       "Làm sao tôi biết được liệu tôi có đối xử công bằng với người khác hay không?",
+       "Tôi có thể cho gì mà không ai khác có thể?"
       ],
-      "fortuneTelling": [
-        "When you need help, ask for it",
-        "Remember, though: what you receive may be limited by what you've given to others in the past"
+       "fortuneTelling": [
+       "Khi bạn cần giúp đỡ, hãy yêu cầu nó",
+       "Tuy nhiên, hãy nhớ rằng: những gì bạn nhận được có thể bị giới hạn bởi những gì bạn đã cho người khác trong quá khứ"
       ],
       "id": "p6"
     },
@@ -4731,50 +4722,50 @@ export default {
       "suit": "Pentacles",
       "img": "p07.jpg",
       "keywords": [
-        "assessment",
-        "evaluation",
-        "re-evaluation",
-        "reflection"
+       "thẩm định, lượng định, đánh giá",
+       "sự đánh giá",
+       "đánh giá lại",
+       "sự phản xạ"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "measuring progress toward your goal",
-            "looking at results with an eye toward improving performance",
-            "asking, \"how happy am i?\"",
-            "coming up with ideas for improving your health or prosperity",
-            "deciding it's time for a change",
-            "expressing an honest opinion"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đo lường tiến trình hướng tới mục tiêu của bạn",
+           "xem xét kết quả với con mắt hướng tới việc cải thiện hiệu suất",
+           "hỏi, \" tôi thấy hạnh phúc như thế nào? \"",
+           "nảy ra ý tưởng để cải thiện sức khỏe hoặc sự thịnh vượng của bạn",
+           "quyết định đã đến lúc thay đổi",
+           "bày tỏ ý kiến ​​trung thực"
           ],
-          "reversed": [
-            "becoming distracted by melancholy thoughts",
-            "longing for \"the good old days\"",
-            "beating yourself up over lost opportunities",
-            "judging your own work harshly",
-            "holding others to inappropriate standards",
-            "refusing to take part in a project, then whining about the quality of the outcome"
+         "reversed": [
+           "trở nên mất tập trung bởi những suy nghĩ u uất",
+           "khao khát \" những ngày xưa tốt đẹp \"",
+           "đánh bại bản thân trước những cơ hội đã mất",
+           "đánh giá công việc của bạn một cách khắc nghiệt",
+           "giữ người khác theo tiêu chuẩn không phù hợp",
+           "từ chối tham gia một dự án, sau đó than vãn về chất lượng của kết quả"
           ]
         },
-        "new": {
-          "upright": [
-            "harvest",
-            "rewards",
-            "results",
-            "growth",
-            "progress",
-            "perseverance",
-            "patience",
-            "planning"
+       "new": {
+         "upright": [
+           "mùa gặt",
+           "phần thưởng",
+           "kết quả",
+           "sự phát triển",
+           "tiến triển",
+           "kiên trì",
+           "tính kiên nhẫn",
+           "lập kế hoạch"
           ],
-          "reversed": [
-            "unfinished work",
-            "procrastination",
-            "low effort",
-            "waste",
-            "lack of growth",
-            "setbacks",
-            "impatience",
-            "lack of reward"
+         "reversed": [
+           "công việc chưa hoàn thành",
+           "sự trì hoãn",
+           "nỗ lực thấp",
+           "chất thải",
+           "thiếu tăng trưởng",
+           "thất bại",
+           "thiếu kiên nhẫn",
+           "thiếu phần thưởng"
           ]
         }
       },
@@ -4784,13 +4775,13 @@ export default {
       "astrology": "Saturn in Taurus",
       "numerology": "7 (The Motive: imagination, inner work, psychology)",
       "questions": [
-        "To what extent have I fulfilled my own expectations?",
-        "What are the terms of success?",
-        "How can I be happier with the progress I've made?"
+       "Tôi đã hoàn thành kỳ vọng của chính mình ở mức độ nào?",
+       "Các điều khoản của thành công là gì?",
+       "Làm thế nào tôi có thể hạnh phúc hơn với những tiến bộ mà tôi đã đạt được?"
       ],
-      "fortuneTelling": [
-        "Things won't work out as expected",
-        "Pick up the pieces and prepare to move on"
+       "fortuneTelling": [
+       "Mọi thứ sẽ không diễn ra như mong đợi",
+       "Nhặt các mảnh và chuẩn bị tiếp tục"
       ],
       "id": "p7"
     },
@@ -4801,54 +4792,53 @@ export default {
       "suit": "Pentacles",
       "img": "p08.jpg",
       "keywords": [
-        "effort",
-        "work diligence",
-        "skill"
+       "cố gắng",
+       "siêng năng làm việc",
+       "kỹ năng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "doing your best",
-            "bringing enthusiasm and zeal to your work",
-            "making an effort to be the best you can be",
-            "finding the work that is right for you",
-            "taking care of the small details",
-            "becoming a finely skilled craftsperson",
-            "building something with your hands",
-            "making a handmade gift"
+     "meanings": {
+       "old": {
+         "upright": [
+           "cố gắng hết sức",
+           "mang lại nhiệt huyết và sự nhiệt tình cho công việc của bạn",
+           "nỗ lực để trở thành người giỏi nhất có thể",
+           "tìm công việc phù hợp với bạn",
+           "quan tâm đến những chi tiết nhỏ",
+           "trở thành một người thợ thủ công có tay nghề cao",
+           "xây dựng thứ gì đó bằng đôi tay của bạn",
+           "làm một món quà thủ công"
           ],
-          "reversed": [
-            "working yourself to death",
-            "doing a half-hearted or sloppy job",
-            "continuing in a job you hate",
-            "buying thoughtless gifts",
-            "producing work with shoddy craftsmanship",
-            "rushing through your work",
-            "rejecting opportunities to learn more about your craft"
+         "reversed": [
+           "tự mình làm việc cho đến chết",
+           "làm một công việc nửa vời hoặc cẩu thả",
+           "tiếp tục công việc bạn ghét",
+           "mua quà thiếu suy nghĩ",
+           "sản xuất tác phẩm với tay nghề kém",
+           "gấp rút làm việc của bạn",
+           "từ chối cơ hội tìm hiểu thêm về nghề của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "skill",
-            "talent",
-            "craftsmanship",
-            "quality",
-            "high standards",
-            "expertise",
-            "mastery",
-            "commitment",
-            "dedication",
-            "accomplishment"
+       "new": {
+         "upright": [
+           "kỹ năng",
+           "tài năng",
+           "nghề thủ công",
+           "phẩm chất",
+           "tiêu chuẩn cao",
+           "chuyên môn",
+           "làm chủ",
+           "lời cam kết",
+           "cống hiến",
+           "thành tựu"
           ],
-          "reversed": [
-            "lack of quality",
-            "rushed job",
-            "bad reputation",
-            "lack of motivation",
-            "mediocrity",
-            "laziness",
-            "low skill",
-            "dead-end job"
+         "reversed": [
+           "thiếu chất lượng",
+           "công việc gấp rút",
+           "tiếng xấu",
+           "thiếu động lực","tầm thường",
+           "sự lười biếng",
+           "Kỹ năng thấp",
+           "công việc cuối cùng"
           ]
         }
       },
@@ -4858,13 +4848,13 @@ export default {
       "astrology": "Sun in Virgo",
       "numerology": "8 (The Action: movement, outer work, swiftness)",
       "questions": [
-        "How long has it been since you were \"lost in your work?\"",
-        "How can you improve your level of dedication and focus?",
-        "What work do you do best? What about that work appeals to you?"
+       "Đã bao lâu rồi bạn không \" lạc vào công việc của mình? \"",
+       "Làm thế nào bạn có thể cải thiện mức độ cống hiến và sự tập trung của mình?",
+       "Công việc nào bạn làm tốt nhất? Điều gì ở công việc đó hấp dẫn bạn?"
       ],
-      "fortuneTelling": [
-        "Stop over-analyzing, researching, and outlining",
-        "Buckle down and get the work done"
+       "fortuneTelling": [
+       "Ngừng phân tích, nghiên cứu và phác thảo quá mức",
+       "Thắt dây an toàn và hoàn thành công việc"
       ],
       "id": "p8"
     },
@@ -4875,45 +4865,45 @@ export default {
       "suit": "Pentacles",
       "img": "p09.jpg",
       "keywords": [
-        "training",
-        "discipline",
-        "confidence",
-        "enough"
+       "tập huấn",
+       "kỷ luật",
+       "lòng tin",
+       "đầy đủ"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "investing time in learning or teaching a difficult task",
-            "restraining yourself from physical or financial extremes",
-            "making sacrifices as a way of achieving larger goals",
-            "breaking a complex task down into simple steps",
-            "wanting what you have",
-            "knowing the difference between needs and wants"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đầu tư thời gian vào việc học hoặc dạy một nhiệm vụ khó khăn",
+           "kiềm chế bản thân khỏi những cực đoan về thể chất hoặc tài chính",
+           "hy sinh như một cách để đạt được những mục tiêu lớn hơn",
+           "chia một nhiệm vụ phức tạp thành các bước đơn giản",
+           "muốn những gì bạn có",
+           "biết sự khác biệt giữa nhu cầu và mong muốn"
           ],
-          "reversed": [
-            "being assigned to a task without being trained to perform it",
-            "pursuing a position for which you are not qualified",
-            "disregarding requirements",
-            "refusing to dedicate adequate time or attention when learning about something or someone new",
-            "always craving more"
+         "reversed": [
+           "được giao cho một nhiệm vụ mà không được đào tạo để thực hiện nó",
+           "theo đuổi một vị trí mà bạn không đủ tiêu chuẩn",
+           "bỏ qua các yêu cầu",
+           "từ chối dành thời gian hoặc sự chú ý thích đáng khi tìm hiểu về điều gì đó hoặc ai đó mới",
+           "luôn luôn thèm muốn nhiều hơn nữa"
           ]
         },
-        "new": {
-          "upright": [
-            "rewarded efforts",
-            "success",
-            "achievement",
-            "independence",
-            "leisure",
-            "material security",
-            "self-sufficiency"
+       "new": {
+         "upright": [
+           "những nỗ lực được khen thưởng",
+           "thành công",
+           "thành tích",
+           "Sự độc lập",
+           "thời gian rảnh rỗi",
+           "an ninh vật chất",
+           "tự túc"
           ],
-          "reversed": [
-            "being guarded",
-            "living beyond means",
-            "material instability",
-            "reckless spending",
-            "superficiality"
+         "reversed": [
+           "được canh gác",
+           "sống vượt quá ý nghĩa",
+           "vật chất không ổn định",
+           "chi tiêu liều lĩnh",
+           "bề ngoài"
           ]
         }
       },
@@ -4923,12 +4913,12 @@ export default {
       "astrology": "Venus in Virgo",
       "numerology": "9 (The Completion: fullness, readiness, ripeness)",
       "questions": [
-        "If you could not have what you want, how would you make do?",
-        "Could you make a complex task easier by breaking it down into smaller steps?",
-        "How patient are you during the learning process? With yourself? With others?"
+       "Nếu bạn không thể có những gì bạn muốn, bạn sẽ làm như thế nào?",
+       "Bạn có thể thực hiện một nhiệm vụ phức tạp dễ dàng hơn bằng cách chia nó thành các bước nhỏ hơn không?",
+       "Bạn kiên nhẫn như thế nào trong quá trình học? Với bản thân? Với người khác?"
       ],
-      "fortuneTelling": [
-        "Until you appreciate what you have, you won't have any luck getting more"
+       "fortuneTelling": [
+       "Cho đến khi bạn trân trọng những gì bạn có, bạn sẽ không gặp may mắn khi nhận được nhiều hơn"
       ],
       "id": "p9"
     },
@@ -4939,51 +4929,51 @@ export default {
       "suit": "Pentacles",
       "img": "p10.jpg",
       "keywords": [
-        "wealth",
-        "abundance",
-        "acquisition",
-        "greed"
+       "sự giàu có",
+       "phong phú",
+       "thu mua",
+       "tham lam"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "celebrating your physical and financial blessings",
-            "realizing how lucky or how blessed you are",
-            "being satisfied with your physical and financial achievements",
-            "taking best advantage of \"times of plenty\"",
-            "enjoying a feast",
-            "showering friends or family with gifts"
+     "meanings": {
+       "old": {
+         "upright": [
+           "chúc mừng những phước lành vật chất và tài chính của bạn",
+           "nhận ra mình thật may mắn hay thật may mắn",
+           "hài lòng với thành tựu vật chất và tài chính của bạn",
+           "tận dụng tối đa \"thời gian có nhiều\"",
+           "thưởng thức một bữa tiệc",
+           "tặng quà cho bạn bè hoặc gia đình"
           ],
-          "reversed": [
-            "spending all of your money on extravagant gifts and possessions",
-            "trying too hard to impress others with your wealth or physique",
-            "giving an inappropriately expensive gift as a means of currying favor",
-            "obsessing on matters of weight, health, or finance",
-            "always asking, \"what's in it for me?\""
+         "reversed": [
+           "tiêu hết tiền vào những món quà và tài sản xa hoa",
+           "cố gắng quá mức để gây ấn tượng với người khác bằng sự giàu có hoặc vóc dáng của bạn",
+           "tặng một món quà đắt tiền không thích hợp như một cách để thể hiện sự ưu ái",
+           "ám ảnh về các vấn đề cân nặng, sức khỏe hoặc tài chính",
+           "luôn hỏi, \"có gì trong đó cho tôi?\""
           ]
         },
-        "new": {
-          "upright": [
-            "legacy",
-            "roots",
-            "family",
-            "ancestry",
-            "inheritance",
-            "windfall",
-            "foundations",
-            "privilege",
-            "affluence",
-            "stability",
-            "tradition"
+       "new": {
+         "upright": [
+           "di sản",
+           "rễ",
+           "gia đình",
+           "tổ tiên",
+           "di sản",
+           "gió rơi",
+           "nền tảng",
+           "đặc ân",
+           "sung túc",
+           "sự ổn định",
+           "truyền thống"
           ],
-          "reversed": [
-            "family disputes",
-            "bankruptcy",
-            "debt",
-            "fleeting success",
-            "conflict over money",
-            "instability",
-            "breaking traditions"
+         "reversed": [
+           "tranh chấp gia đình",
+           "phá sản",
+           "nợ nần",
+           "thành công thoáng qua",
+           "xung đột về tiền bạc",
+           "không ổn định",
+           "phá vỡ truyền thống"
           ]
         }
       },
@@ -4993,13 +4983,13 @@ export default {
       "astrology": "Mercury in Virgo",
       "numerology": "10 (The End: finality, completion, exhaustion)",
       "questions": [
-        "How much stuff do I really need?",
-        "How do I feel about wealth and abundance? How do I define these terms?",
-        "How might shedding some possessions open room for growth?"
+       "Tôi thực sự cần bao nhiêu thứ?",
+       "Làm saotôi có cảm thấy gì về sự giàu có và dư dật không? Làm cách nào để xác định các thuật ngữ này?",
+       "Làm thế nào việc tiêu hủy một số tài sản có thể mở ra cơ hội phát triển?"
       ],
-      "fortuneTelling": [
-        "Big money is in the near future",
-        "Expect a powerful blessing to come your way"
+       "fortuneTelling": [
+       "số tiền lớn là trong tương lai gần",
+       "Mong đợi một phước lành mạnh mẽ đến theo cách của bạn"
       ],
       "id": "p10"
     },
@@ -5010,54 +5000,54 @@ export default {
       "suit": "Pentacles",
       "img": "p11.jpg",
       "keywords": [
-        "practicality",
-        "prosperity",
-        "learning",
-        "growth",
-        "adolescence"
+       "tính thực tế",
+       "sự phồn vinh",
+       "học tập",
+       "sự phát triển",
+       "tuổi thanh xuân"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "learning the value of a dollar",
-            "starting a savings plan",
-            "taking the first steps toward getting out of debt",
-            "learning new physical tasks",
-            "discovering your sexuality",
-            "launching a diet, a weight-lifting program, or a health-related effort",
-            "learning by doing"
+     "meanings": {
+       "old": {
+         "upright": [
+           "học giá trị của một đô la",
+           "bắt đầu kế hoạch tiết kiệm",
+           "thực hiện những bước đầu tiên để thoát khỏi nợ nần",
+           "học các nhiệm vụ thể chất mới",
+           "khám phá tình dục của bạn",
+           "khởi động chế độ ăn kiêng, chương trình tăng cân hoặc nỗ lực liên quan đến sức khỏe",
+           "Vừa học vừa làm"
           ],
-          "reversed": [
-            "trying to appear healthier or wealthier than you really are",
-            "spending money carelessly",
-            "living strictly for today, with no thought of tomorrow",
-            "possessing immature attitudes toward sex and sexuality",
-            "using wealth or beauty as an excuse for not having to learn and grow"
+         "reversed": [
+           "cố gắng tỏ ra khỏe mạnh hoặc giàu có hơn thực tế",
+           "tiêu tiền một cách bất cẩn",
+           "sống nghiêm túc cho ngày hôm nay, không nghĩ đến ngày mai",
+           "có thái độ chưa trưởng thành đối với tình dục và tình dục",
+           "sử dụng sự giàu có hoặc sắc đẹp như một cái cớ để không cần phải học hỏi và phát triển"
           ]
         },
-        "new": {
-          "upright": [
-            "ambitious",
-            "diligent",
-            "goal oriented",
-            "planner",
-            "consistent",
-            "star student",
-            "studious",
-            "grounded",
-            "loyal",
-            "faithful",
-            "dependable"
+       "new": {
+         "upright": [
+           "đầy tham vọng",
+           "siêng năng",
+           "mục tiêu định hướng",
+           "người lập kế hoạch",
+           "thích hợp",
+           "sinh viên ngôi sao",
+           "ham học",
+           "căn cứ",
+           "trung thành",
+           "Trung thành",
+           "đáng tin cậy"
           ],
-          "reversed": [
-            "foolish",
-            "immature",
-            "irresponsible",
-            "lazy",
-            "underachiever",
-            "procrastinator",
-            "missed chances",
-            "poor prospects"
+         "reversed": [
+           "khờ dại",
+           "chưa trưởng thành",
+           "thiếu trách nhiệm",
+           "lười biếng",
+           "underachiever",
+           "người hay chần chừ",
+           "cơ hội bị bỏ lỡ",
+           "triển vọng kém"
           ]
         }
       },
@@ -5066,12 +5056,12 @@ export default {
       "affirmation": "\"I am physically and financially responsible.\"",
       "elemental": "Earth of Earth.",
       "questions": [
-        "How can you get more financial or sexual experience without risking your livelihood or health?",
-        "How might hands-on learning play a role in your situation?",
-        "What's the most practical choice you could make?"
+       "Làm thế nào bạn có thể có thêm kinh nghiệm về tài chính hoặc tình dục mà không phải mạo hiểm với sinh kế hoặc sức khỏe của mình?",
+       "Việc học thực hành có thể đóng vai trò như thế nào trong tình huống của bạn?",
+       "Lựa chọn thiết thực nhất mà bạn có thể đưa ra là gì?"
       ],
-      "fortuneTelling": [
-        "This card represents a young man or woman with an earthy, practical demeanor, likely born an Aries, Taurus, or Gemini, who playfully encourages you to take financial or sexual risks"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông hoặc phụ nữ trẻ với phong thái thực tế, thực tế, có khả năng sinh ra là Bạch Dương, Kim Ngưu hoặc Song Tử, những người tinh nghịch khuyến khích bạn chấp nhận rủi ro tài chính hoặc tình dục"
       ],
       "id": "pp"
     },
@@ -5082,55 +5072,55 @@ export default {
       "suit": "Pentacles",
       "img": "p12.jpg",
       "keywords": [
-        "caution",
-        "focus",
-        "realism",
-        "invention"
+       "thận trọng",
+       "tiêu điểm",
+       "chủ nghĩa hiện thực",
+       "sự phát minh"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "spending money wisely",
-            "saving for a rainy day",
-            "paying close attention to physical or financial details",
-            "knowing where every dollar goes",
-            "having safe sex",
-            "preferring facts to \"good feelings\"",
-            "finding creative ways to \"make do\" with resources on hand",
-            "completing a new invention"
+     "meanings": {
+       "old": {
+         "upright": [
+           "tiêu tiền một cách khôn ngoan",
+           "tiết kiệm cho một ngày mưa",
+           "chú ý đến các chi tiết về thể chất hoặc tài chính",
+           "biết từng đô la đi đâu",
+           "quan hệ tình dục an toàn",
+           "thích sự thật hơn là \"cảm xúc tốt\"",
+           "tìm ra những cách sáng tạo để \"làm\" với tài nguyên sẵn có",
+           "hoàn thành một phát minh mới"
           ],
-          "reversed": [
-            "throwing caution to the four winds",
-            "spending without regard for consequence",
-            "spending on luxury when necessities are lacking",
-            "escaping stress by spending money",
-            "obsessing on tiny physical or financial details",
-            "perpetually chasing after some new bauble",
-            "copying another's work and claiming it as your own"
+         "reversed": [
+           "cẩn trọng với bốn phương gió",
+           "chi tiêu mà không quan tâm đến hậu quả",
+           "chi tiêu cho những thứ xa xỉ khi thiếu nhu cầu thiết yếu",
+           "thoát khỏi căng thẳng bằng cách tiêu tiền",
+           "ám ảnh về những chi tiết nhỏ về thể chất hoặc tài chính",
+           "thường xuyên theo đuổi một số đồ trang sức mới",
+           "sao chép tác phẩm của người khác và xác nhận nó là của riêng bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "practical",
-            "reliable",
-            "efficient",
-            "stoic",
-            "slow and steady",
-            "hard-working",
-            "committed",
-            "patient",
-            "conservative"
+       "new": {
+         "upright": [
+           "thực dụng",
+           "đáng tin cậy",
+           "Có hiệu quả",
+           "Kiên nhẫn",
+           "chậm mà chắc",
+           "làm việc chăm chỉ",
+           "cam kết",
+           "bệnh nhân",
+           "bảo thủ"
           ],
-          "reversed": [
-            "workaholic",
-            "laziness",
-            "dull",
-            "boring",
-            "no initiative",
-            "cheap",
-            "irresponsible",
-            "gambler",
-            "risky investments"
+         "reversed": [
+           "tham công tiếc việc",
+           "sự lười biếng",
+           "chán ngắt",
+           "nhàm chán",
+           "không có sáng kiến",
+           "rẻ",
+           "thiếu trách nhiệm",
+           "con bạc",
+           "đầu tư rủi ro"
           ]
         }
       },
@@ -5139,13 +5129,13 @@ export default {
       "affirmation": "\"I temper my actions with cautious optimism.\"",
       "elemental": "Air of Earth.",
       "questions": [
-        "What's the difference between caution and fear?",
-        "How can I evaluate the practicality of my own ideas and methods?",
-        "How realistic are my goals?"
+       "Sự khác biệt giữa thận trọng và sợ hãi là gì?",
+       "Làm thế nào tôi có thể đánh giá tính thực tiễn của các ý tưởng và phương pháp của riêng tôi?",
+       "Mục tiêu của tôi thực tế đến mức nào?"
       ],
-      "fortuneTelling": [
-        "A stingy person may chide you for spending money",
-        "Be prepared to defend an economic or sexual decision"
+       "fortuneTelling": [
+       "Một người keo kiệt có thể chế nhạo bạn vì đã tiêu tiền",
+       "Hãy chuẩn bị để bảo vệ một quyết định kinh tế hoặc tình dục"
       ],
       "id": "pn"
     },
@@ -5156,54 +5146,54 @@ export default {
       "suit": "Pentacles",
       "img": "p13.jpg",
       "keywords": [
-        "luxury",
-        "comfort",
-        "resourcefulness",
-        "generosity",
-        "prosperity"
+       "sang trọng",
+       "an ủi",
+       "tháo vát",
+       "hào phóng",
+       "sự phồn vinh"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "appreciating fine food, fine wine, beautiful art, beautiful bodies, or any of the better things in life",
-            "reveling in healthy sexuality",
-            "treating yourself",
-            "splurging on the occasional \"nice to have\" item",
-            "rewarding someone with compensation above and beyond expectations",
-            "having it all"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đánh giá cao thức ăn ngon, rượu ngon, nghệ thuật đẹp, cơ thể đẹp, hoặc bất kỳ điều gì tốt đẹp hơn trong cuộc sống",
+           "say mê tình dục lành mạnh",
+           "đối xử với chính mình",
+           "thỉnh thoảng tung tăng \"rất vui khi có\" đồ mới",
+           "thưởng cho ai đó với mức thù lao cao hơn và ngoài mong đợi",
+           "có tất cả"
           ],
-          "reversed": [
-            "indulging in gluttony or greediness",
-            "becoming insatiable",
-            "blunting the impact of treats by indulging in them too often",
-            "providing physical comfort without providing for emotional needs",
-            "allowing a feeling of entitlement to distort your gratitude for what you're given"
+         "reversed": [
+           "ham ăn hoặc ham ăn",
+           "trở nên vô độ",
+           "làm giảm tác động của các món ăn vặt bằng cách thưởng thức chúng quá thường xuyên",
+           "cung cấp sự thoải mái về thể chất mà không cung cấp nhu cầu về tình cảm",
+           "cho phép cảm giác có quyền làm sai lệch lòng biết ơn của bạn đối với những gì bạn được cho"
           ]
         },
-        "new": {
-          "upright": [
-            "generous",
-            "caring",
-            "nurturing",
-            "homebody",
-            "good business sense",
-            "practical",
-            "comforting",
-            "welcoming",
-            "sensible",
-            "luxurious"
+       "new": {
+         "upright": [
+           "rộng lượng",
+           "quan tâm",
+           "nuôi dưỡng",
+           "người nhà",
+           "ý thức kinh doanh tốt",
+           "thực dụng",
+           "an ủi",
+           "chào mừng",
+           "hợp lý",
+           "sang trọng"
           ],
-          "reversed": [
-            "selfish",
-            "unkempt",
-            "jealous",
-            "insecure",
-            "greedy",
-            "materialistic",
-            "gold digger",
-            "intolerant",
-            "self-absorbed",
-            "envious"
+         "reversed": [
+           "ích kỷ",
+           "nhếch nhác",
+           "ghen tuông",
+           "không an toàn",
+           "tham",
+           "nặng về vật chất",
+           "thợ đào vàng",
+           "không khoan dung",
+           "tự hấp thụ",
+           "ghen tị"
           ]
         }
       },
@@ -5212,12 +5202,12 @@ export default {
       "affirmation": "\"I relish the best this world has to offer.\"",
       "elemental": "Water of Earth.",
       "questions": [
-        "How do I define luxury?",
-        "To what extent am I capable of reveling in sensual pleasure?",
-        "What would I have to give up in order to \"have it all?\""
+       "Làm thế nào để tôi định nghĩa sự sang trọng?",
+       "Tôi có thể tận hưởng khoái cảm nhục dục ở mức độ nào?",
+       "Tôi sẽ phải từ bỏ điều gì để \"có tất cả?\""
       ],
-      "fortuneTelling": [
-        "This card represents a woman with an expansive, sensual nature, likely born between December 13th and 31st, who uses sensual appeal and the promise of reward to sway others to her point of view"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người phụ nữ có bản chất rộng rãi, gợi cảm, có khả năng sinh từ ngày 13 đến ngày 31 tháng 12, người sử dụng sự hấp dẫn gợi cảm và lời hứa thưởng để khiến người khác theo quan điểm của mình"
       ],
       "id": "pq"
     },
@@ -5228,55 +5218,55 @@ export default {
       "suit": "Pentacles",
       "img": "p14.jpg",
       "keywords": [
-        "stability",
-        "dependability",
-        "confidence",
-        "intervention"
+       "sự ổn định",
+       "đáng tin cậy",
+       "lòng tin",
+       "sự can thiệp"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "becoming debt-free",
-            "having more than enough to get by",
-            "making contributions to a savings plan",
-            "taking a new job with an eye toward advancing your career",
-            "buying life or health insurance",
-            "being confident in the bedroom",
-            "taking on the role of enforcer when called upon to do so"
+     "meanings": {
+       "old": {
+         "upright": [
+           "trở nên không có nợ",
+           "có quá đủ để vượt qua",
+           "đóng góp vào kế hoạch tiết kiệm",
+           "nhận một công việc mới với con mắt hướng tới việc thăng tiến sự nghiệp của bạn",
+           "mua bảo hiểm nhân thọ hoặc sức khỏe",
+           "tự tin trong phòng ngủ",
+           "đảm nhận vai trò của người thực thi khi được yêu cầu làm như vậy"
           ],
-          "reversed": [
-            "becoming so conservative you resist all change on principle alone",
-            "ignoring innovations in the name of preserving tradition",
-            "being smug or cocky",
-            "becoming ruthlessly dedicated to profit or pleasure",
-            "being sexually selfish",
-            "bossing others around, especially when you're not empowered to do so"
+         "reversed": [
+           "trở nên bảo thủ đến mức bạn chỉ chống lại mọi thay đổi về nguyên tắc",
+           "bỏ qua những đổi mới nhân danh bảo tồn truyền thống",
+           "tự mãn hoặc tự mãn",
+           "trở nên tàn nhẫn dành riêng cho lợi nhuận hoặc niềm vui",
+           "ích kỷ về tình dục",
+           "quản lý những người xung quanh, đặc biệt là khi bạn không được trao quyền để làm như vậy"
           ]
         },
-        "new": {
-          "upright": [
-            "abundance",
-            "prosperity",
-            "security",
-            "ambitious",
-            "safe",
-            "kind",
-            "patriarchal",
-            "protective",
-            "businessman",
-            "provider",
-            "sensual",
-            "reliable"
+       "new": {
+         "upright": [
+           "phong phú",
+           "sự phồn vinh",
+           "Bảo vệ",
+           "đầy tham vọng",
+           "an toàn",
+           "tốt bụng",
+           "gia trưởng",
+           "bảo vệ",
+           "doanh nhân",
+           "các nhà cung cấp",
+           "gợi cảm",
+           "đáng tin cậy"
           ],
-          "reversed": [
-            "greed",
-            "materialistic",
-            "wasteful",
-            "chauvanist",
-            "poor financial decisions",
-            "gambler",
-            "exploitative",
-            "possessive"
+         "reversed": [
+           "tham lam",
+           "nặng về vật chất",
+           "lãng phí",
+           "chauvanist",
+           "quyết định tài chính kém",
+           "con bạc",
+           "bóc lột",
+           "sở hữu"
           ]
         }
       },
@@ -5284,13 +5274,13 @@ export default {
       "isMajorArcana": false,
       "affirmation": "\"I embody confidence and fairness.\"",
       "elemental": "Fire of Earth.",
-      "questions": [
-        "How can you handle expenses with greater confidence and maturity?",
-        "How dependable are you? How dependable would others say you are?",
-        "To what extent is a conservative viewpoint valuable? At what point does it become more of a burden than a blessing?"
+       "questions": [
+       "Làm thế nào bạn có thể xử lý các khoản chi tiêu với sự tự tin và trưởng thành hơn?",
+       "Bạn đáng tin cậy đến mức nào? Người khác sẽ nói bạn là người đáng tin cậy như thế nào?",
+       "Quan điểm bảo thủ có giá trị ở mức độ nào? Nó trở thành gánh nặng hơn là một điều may mắn ở điểm nào?"
       ],
-      "fortuneTelling": [
-        "This card represents an older man with a financially, socially, and politically conservative spirit, likely born between August 12th and September 11th, who is known for putting his money where his mouth is"
+       "fortuneTelling": [
+       "Lá bài này đại diện cho một người đàn ông lớn tuổi với tinh thần bảo thủ về tài chính, xã hội và chính trị, có khả năng sinh từ ngày 12 tháng 8 đến ngày 11 tháng 9, người được biết đến với việc đặt tiền của mình ở nơi miệng"
       ],
       "id": "pk"
     }

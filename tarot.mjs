@@ -3038,6 +3038,8 @@ export default {
        "fortuneTelling": [
        "Nếu bạn thực hiện hành động mà bạn đang cân nhắc bây giờ, bạn sẽ phải hối tiếc trong tương lai"
       ],
+	    "id": "s9"
+    },
     {
       "name": "Ten of Swords",
       "number": 10,

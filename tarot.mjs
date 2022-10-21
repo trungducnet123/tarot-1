@@ -5049,7 +5049,7 @@ export default {
            "chưa trưởng thành",
            "thiếu trách nhiệm",
            "lười biếng",
-           "underachiever",
+           "không có gì",
            "người hay chần chừ",
            "cơ hội bị bỏ lỡ",
            "triển vọng kém"

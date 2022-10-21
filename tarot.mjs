@@ -1854,7 +1854,7 @@ export default {
       "id": "c5"
     },
     {
-      "name": "Six of Cups",
+      "name": "Six of Cups", 
       "number": 6,
       "arcana": "Minor Arcana",
       "suit": "Cups",

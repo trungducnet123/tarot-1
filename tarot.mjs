@@ -298,41 +298,41 @@ export default {
         "structure"
       ],
       "meanings": {
-        "old": {
-          "upright": [
-            "exercising authority",
-            "defining limits",
-            "directing the flow of work",
-            "communicating clear guidelines",
-            "being in control of yourself and others",
-            "tempering aggressive masculinity with wisdom and experience"
+       "old": {
+         "upright": [
+           "thực thi quyền hạn",
+           "xác định giới hạn",
+           "chỉ đạo luồng công việc",
+           "truyền đạt các nguyên tắc rõ ràng",
+           "kiểm soát bản thân và người khác",
+           "tôi luyện nam tính hung hãn bằng trí tuệ và kinh nghiệm"
           ],
-          "reversed": [
-            "micromanaging",
-            "crushing the creativity of others with a rigid, iron-fisted approach",
-            "insisting on getting your own way",
-            "assuming a dictatorial mindset",
-            "using overt force to achieve your goals and maintain order"
+         "reversed": [
+           "quản lý vi mô",
+           "bóp chết sự sáng tạo của người khác bằng cách tiếp cận cứng nhắc, có nắm đấm sắt",
+           "khăng khăng muốn đi theo cách riêng của bạn",
+           "giả định một tư duy độc tài",
+           "sử dụng vũ lực công khai để đạt được mục tiêu của bạn và duy trì trật tự"
           ]
         },
-        "new": {
-          "upright": [
-            "stability",
-            "structure",
-            "protection",
-            "authority",
-            "control",
-            "practicality",
-            "focus",
-            "discipline"
+       "new": {
+         "upright": [
+           "sự ổn định",
+           "kết cấu",
+           "sự bảo vệ",
+           "thẩm quyền",
+           "điều khiển",
+           "tính thực tế",
+           "tiêu điểm",
+           "kỷ luật"
           ],
-          "reversed": [
-            "tyrant",
-            "domineering",
-            "rigid",
-            "stubborn",
-            "lack of discipline",
-            "recklessness"
+         "reversed": [
+           "bạo chúa",
+           "độc đoán",
+           "cứng rắn",
+           "bướng bỉnh",
+           "thiếu kỷ luật",
+           "liều lĩnh"
           ]
         }
       },
@@ -344,14 +344,14 @@ export default {
       "spiritual": "Masculine gods, including the Hebrew God, the Christian God, Allah, and Zeus. Patriarchs (Abraham) and lawgivers (Moses). Vishnu, the Preserver.",
       "numerology": "4 (stability, equality, persistence)",
       "questions": [
-        "How does the issue of control or regulation impact this situation?",
-        "What would a compassionate but strict father do?",
-        "What needs more control?"
+       "Vấn đề kiểm soát hoặc quy định tác động đến tình trạng này như thế nào?",
+       "Một người cha nhân hậu nhưng nghiêm khắc sẽ làm gì?",
+       "Điều gì cần kiểm soát nhiều hơn?"
       ],
-      "fortuneTelling": [
-        "A father figure arrives",
-        "A new employer or authority figure will give you orders",
-        "Expect discipline or correction in the near future"
+       "fortuneTelling": [
+       "Một người cha đến",
+       "Người sử dụng lao động mới hoặc nhân vật có thẩm quyền sẽ ra lệnh cho bạn",
+       "Mong đợi kỷ luật hoặc sửa chữa trong tương lai gần"
       ],
       "id": "iv"
     },
@@ -368,41 +368,41 @@ export default {
         "belief"
       ],
       "meanings": {
-        "old": {
-          "upright": [
-            "teaching or guiding others",
-            "searching for the truth",
-            "asking for guidance from a higher power",
-            "acknowledging the wisdom and experience of others",
-            "taking vows",
-            "engaging in heartfelt rituals",
-            "volunteering"
+       "old": {
+         "upright": [
+           "dạy hoặc hướng dẫn người khác",
+           "tìm kiếm sự thật",
+           "yêu cầu hướng dẫn từ một quyền lực cao hơn",
+           "thừa nhận sự khôn ngoan và kinh nghiệm của người khác",
+           "thề nguyện",
+           "tham gia vào các nghi lễ chân thành",
+           "tình nguyện"
           ],
-          "reversed": [
-            "using experience as a means of manipulating or misguiding others",
-            "being dogmatic",
-            "favoring tradition over what is expedient or necessary",
-            "going through the motions of empty rituals",
-            "concealing wisdom",
-            "restricting access to spiritual truths or the gods"
+         "reversed": [
+           "sử dụng kinh nghiệm như một phương tiện để thao túng hoặc lừa dối người khác",
+           "là giáo điều",
+           "ưu tiên truyền thống hơn những gì thích hợp hoặc cần thiết",
+           "đi qua các chuyển động của các nghi lễ trống rỗng",
+           "che giấu sự khôn ngoan",
+           "hạn chế quyền truy cập vào chân lý tâm linh hoặc các vị thần"
           ]
         },
-        "new": {
-          "upright": [
-            "tradition",
-            "social groups",
-            "conventionality",
-            "conformity",
-            "education",
-            "knowledge",
-            "beliefs"
+       "new": {
+         "upright": [
+           "truyền thống",
+           "nhóm xã hội",
+           "quy ước",
+           "sự phù hợp",
+           "giáo dục",
+           "hiểu biết",
+           "niềm tin"
           ],
-          "reversed": [
-            "rebellion",
-            "unconventionality",
-            "non-conformity",
-            "new methods",
-            "ignorance"
+         "reversed": [
+           "nổi loạn",
+           "độc đáo",
+           "không phù hợp",
+           "phương pháp mới",
+           "ngu dốt"
           ]
         }
       },
@@ -414,14 +414,14 @@ export default {
       "spiritual": "The Christ, the Apostle Peter, Buddha, Mohammed. Popes, priests, and intercessors of every faith and tradition",
       "numerology": "5 (instability, resistance, confrontation, evolution)",
       "questions": [
-        "What role might tradition or religion play in this situation?",
-        "Who authored the rules? Who enforces them? Why?",
-        "How might an experienced guide impact this situation?"
+       "Truyền thống hoặc tôn giáo có thể đóng vai trò gì trong tình huống này?",
+       "Ai là người tạo ra các quy tắc? Ai thực thi các quy tắc đó? Tại sao?",
+       "Hướng dẫn viên có kinh nghiệm có thể tác động đến tình huống này như thế nào?"
       ],
-      "fortuneTelling": [
-        "Expect to be caught in a misdeed and punished accordingly",
-        "Pray for forgiveness and confess wrongdoings",
-        "A more experienced man, spiritual leader, or father figure will come into your life"
+       "fortuneTelling": [
+       "Mong rằng sẽ bị bắt quả tang và bị trừng phạt tương xứng",
+       "Hãy cầu nguyện để được tha thứ và thú nhận những việc làm sai trái",
+       "Một người đàn ông giàu kinh nghiệm hơn, nhà lãnh đạo tinh thần hoặc nhân vật người cha sẽ đi vào cuộc sống của bạn"
       ],
       "id": "v"
     },
@@ -438,41 +438,40 @@ export default {
         "choice"
       ],
       "meanings": {
-        "old": {
-          "upright": [
-            "being in love",
-            "showing your love to others",
-            "expressing passion or romantic feelings",
-            "aligning yourself with groups or like-minded others",
-            "bringing people together",
-            "making well-informed decisions"
+       "old": {
+         "upright": [
+           "đang yêu",
+           "thể hiện tình yêu của bạn với người khác",
+           "thể hiện niềm đam mê hoặc cảm xúc lãng mạn",
+           "sắp xếp bản thân với các nhóm hoặc những người cùng chí hướng",
+           "mang mọi người lại gần nhau",
+           "đưa ra quyết định sáng suốt"
           ],
-          "reversed": [
-            "debilitating passion",
-            "allowing an unhealthy desire for love to motivate destructive behavior",
-            "disrupting unity",
-            "working against the best interests of those who care about you",
-            "ill-informed decisions"
+         "reversed": [
+           "suy nhược niềm đam mê","cho phép ham muốn tình yêu không lành mạnh thúc đẩy hành vi phá hoại",
+           "phá vỡ sự đoàn kết",
+           "làm việc chống lại lợi ích tốt nhất của những người quan tâm đến bạn",
+           "quyết định thiếu thông tin"
           ]
         },
-        "new": {
-          "upright": [
-            "love",
-            "unions",
-            "partnerships",
-            "relationships",
-            "choices",
-            "romance",
-            "balance",
-            "unity"
+       "new": {
+         "upright": [
+           "yêu và quý",
+           "công đoàn",
+           "quan hệ đối tác",
+           "các mối quan hệ",
+           "lựa chọn",
+           "lãng mạn",
+           "THĂNG BẰNG",
+           "đoàn kết"
           ],
-          "reversed": [
-            "disharmony",
-            "imbalance",
-            "conflict",
-            "detachment",
-            "bad choices",
-            "indecision"
+         "reversed": [
+           "bất hòa",
+           "mất cân bằng",
+           "xung đột",
+           "tách ra",
+           "Những lựa chọn tồi tệ",
+           "do dự"
           ]
         }
       },
@@ -484,63 +483,63 @@ export default {
       "spiritual": "Obviously, Adam and Eve, who are depicted in RWS-influenced decks. Also Venus and Cupid, Aphrodite and Eros.",
       "numerology": "6 (cooperation, collaboration, interaction)",
       "questions": [
-        "What guides my choices?",
-        "What is my heart leading me to do?",
-        "How might this decision transform me as a person?"
+       "Điều gì hướng dẫn lựa chọn của tôi?",
+       "Trái tim của tôi đang dẫn dắt tôi phải làm gì?",
+       "Quyết định này có thể biến đổi tôi thành một người như thế nào?"
       ],
-      "fortuneTelling": [
-        "A new personal or professional relationship blossoms",
-        "Sexual opportunities abound",
-        "Unexpectedly, a friend becomes a lover"
+       "fortuneTelling": [
+       "Mối quan hệ cá nhân hoặc nghề nghiệp mới nảy nở",
+       "Có rất nhiều cơ hội tình dục",
+       "Không ngờ từ một người bạn lại trở thành người yêu"
       ],
-      "id": "vi"
+       "id":"vi"
     },
     {
-      "name": "The Chariot",
-      "number": 7,
-      "arcana": "Major Arcana",
-      "suit": "Trump",
-      "img": "m07.jpg",
-      "keywords": [
-        "advancement",
-        "victory",
-        "triumph",
-        "success"
+     "name":"The Chariot",
+       "number": 7,
+       "arcana":"Major Arcana",
+       "suit":"Trump",
+       "img":"m07.jpg",
+       "keywords": [
+       "thăng tiến",
+       "chiến thắng",
+       "vinh quang",
+       "thành công"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "breaking through barriers",
-            "moving forward with confidence and authority",
-            "reaching the pinnacle of success",
-            "basking in the glory of achievement",
-            "guiding an effort to total victory",
-            "establishing yourself as a worthy leader"
+     "meanings": {
+       "old": {
+         "upright": [
+           "vượt qua các rào cản",
+           "tiến về phía trước với sự tự tin và uy quyền",
+           "đạt đến đỉnh cao của thành công",
+           "đắm mình trong vinh quang của thành tích",
+           "hướng dẫn nỗ lực để giành chiến thắng toàn diện",
+           "thiết lập bản thân như một nhà lãnh đạo xứng đáng"
           ],
-          "reversed": [
-            "resting on laurels",
-            "riding roughshod over the feelings or expectations of others",
-            "focusing more on past successes than future opportunities",
-            "failing to rein in impulsive behavior"
+         "reversed": [
+           "yên nghỉ trên vòng nguyệt quế",
+           "cưỡi ngựa xem thường cảm xúc hoặc kỳ vọng của người khác",
+           "tập trung nhiều hơn vào những thành công trong quá khứ hơn là các cơ hội trong tương lai",
+           "không kiềm chế được hành vi bốc đồng"
           ]
         },
-        "new": {
-          "upright": [
-            "success",
-            "ambition",
-            "determination",
-            "willpower",
-            "control",
-            "self-discipline",
-            "focus"
+       "new": {
+         "upright": [
+           "thành công",
+           "tham vọng",
+           "sự quyết tâm",
+           "ý chí",
+           "điều khiển",
+           "kỷ luật tự giác",
+           "tiêu điểm"
           ],
-          "reversed": [
-            "forceful",
-            "no direction",
-            "no control",
-            "powerless",
-            "aggression",
-            "obstacles"
+         "reversed": [
+           "mạnh mẽ",
+           "không phương hướng",
+           "không kiểm soát",
+           "bất lực",
+           "Hiếu chiến",
+           "chướng ngại vật"
           ]
         }
       },
@@ -552,61 +551,61 @@ export default {
       "spiritual": "Odysseus. Jason. The search for the Holy Grail. Christ's triumphal entry into Jerusalem.",
       "numerology": "7 (imagination, inner work, psychology)",
       "questions": [
-        "To what extent have I arrived? What will my next challenge be?",
-        "How can I use past achievements to their best advantage?",
-        "What would the criteria for real and meaningful success be?"
+       "Tôi đã đến được mức độ nào? Thử thách tiếp theo của tôi sẽ là gì?",
+       "Làm thế nào tôi có thể sử dụng những thành tựu trong quá khứ để làm lợi thế tốt nhất của họ?",
+       "Tiêu chí để thành công thực sự và có ý nghĩa là gì?"
       ],
-      "fortuneTelling": [
-        "Victory is a certainty",
-        "Move ahead with all plans",
-        "Beware the jealousy of others"
+       "fortuneTelling": [
+       "Chiến thắng là điều chắc chắn",
+       "Tiến lên với mọi kế hoạch",
+       "Hãy coi chừng sự ghen tị của người khác"
       ],
-      "id": "vii"
+       "id":"vii"
     },
     {
-      "name": "Strength",
-      "number": 8,
-      "arcana": "Major Arcana",
-      "suit": "Trump",
-      "img": "m08.jpg",
-      "keywords": [
-        "discipline",
-        "boldness",
-        "self-discipline",
-        "power",
-        "vitality"
+     "name":"Sức mạnh",
+       "number": 8,
+       "arcana":"Major Arcana",
+       "suit":"Trump",
+       "img":"m08.jpg",
+       "keywords": [
+       "kỷ luật",
+       "sự táo bạo",
+       "tự giác",
+       "sức mạnh",
+       "sức sống"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "imposing restrictions on yourself for your own benefit",
-            "bringing your passions under the control of reason",
-            "resisting impulses that work against your best interests",
-            "taking bold action"
+     "meanings": {
+       "old": {
+         "upright": [
+           "áp đặt các hạn chế đối với bản thân vì lợi ích của riêng bạn",
+           "mang những đam mê của bạn dưới sự kiểm soát của lý trí",
+           "chống lại những thôi thúc làm việc chống lại lợi ích tốt nhất của bạn",
+           "hành động táo bạo"
           ],
-          "reversed": [
-            "indulging weakness, even when you know it will damage your health and happiness",
-            "languishing in addiction",
-            "allowing your instincts to tame and conquer you",
-            "failing to take a stand when necessary"
+         "reversed": [
+           "ham muốn yếu đuối, ngay cả khi bạn biết điều đó sẽ làm tổn hại sức khỏe và hạnh phúc của bạn",
+           "mòn mỏi trong cơn nghiện",
+           "cho phép bản năng của bạn chế ngự và chinh phục bạn",
+           "không có lập trường khi cần thiết"
           ]
         },
-        "new": {
-          "upright": [
-            "courage",
-            "bravery",
-            "confidence",
-            "compassion",
-            "self-confidence",
-            "inner power"
+       "new": {
+         "upright": [
+           "lòng can đảm",
+           "bản lĩnh",
+           "lòng tin",
+           "thương hại",
+           "tự tin",
+           "Nội lực"
           ],
-          "reversed": [
-            "self-doubt",
-            "weakness",
-            "low confidence",
-            "inadequacy",
-            "cowardice",
-            "forcefulness"
+         "reversed": [
+           "tự nghi ngờ",
+           "yếu đuối",
+           "độ tin cậy thấp",
+           "bất cập",
+           "hèn nhát",
+           "mạnh mẽ"
           ]
         }
       },
@@ -618,62 +617,62 @@ export default {
       "spiritual": "Themis or Justitia. Ma'at. Solomon dividing a baby. The Sword of Damocles. The giving of the Ten Commandments.",
       "numerology": "8 (movement, work) or 11 = 1 + 1 = 2 (debate, duality)",
       "questions": [
-        "To what extent is your life (or work) balanced?",
-        "How can you achieve greater objectivity?",
-        "What course of action would be fair to everyone concerned?"
+       "Cuộc sống (hoặc công việc) của bạn cân bằng ở mức độ nào?",
+       "Làm thế nào bạn có thể đạt được tính khách quan hơn?",
+       "Hành động nào sẽ công bằng cho tất cả mọi người có liên quan?"
       ],
-      "fortuneTelling": [
-        "Your self-control will be tested",
-        "A woman will seek to change her partner or lover",
-        "You are a strong, capable person"
+       "fortuneTelling": [
+       "Khả năng tự kiểm soát của bạn sẽ được kiểm tra",
+       "Một người phụ nữ sẽ tìm cách thay đổi người bạn đời hoặc người yêu của mình",
+       "Bạn là một người mạnh mẽ, có năng lực"
       ],
       "id": "viii"
     },
     {
-      "name": "The Hermit",
-      "number": 9,
-      "arcana": "Major Arcana",
-      "suit": "Trump",
-      "img": "m09.jpg",
-      "keywords": [
-        "solitude",
-        "experience",
-        "stillness",
-        "withdrawal"
+      "name":"The Hermit",
+       "number": 9,
+       "arcana":"Major Arcana",
+       "suit":"Trump",
+       "img":"m09.jpg",
+       "keywords": [
+       "cô đơn",
+       "trải qua",
+       "tĩnh lặng",
+       "rút tiền"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "becoming or seeking out a guru",
-            "going on a retreat",
-            "recharging spiritual or creative batteries",
-            "lighting the way for those with less experience",
-            "stepping back to gain perspective"
+     "meanings": {
+       "old": {
+         "upright": [
+           "trở thành hoặc tìm kiếm một guru",
+           "đang nhập thất",
+           "sạc lại pin tinh thần hoặc sáng tạo",
+           "soi đường cho những người có ít kinh nghiệm",
+           "lùi lại để có được quan điểm"
           ],
-          "reversed": [
-            "being a loner",
-            "fearing contact with others",
-            "becoming a know-it-all",
-            "inflating claims of expertise",
-            "hiding your skills and talents out of fear of unworthiness"
+         "reversed": [
+           "là một người cô đơn",
+           "sợ tiếp xúc với người khác",
+           "trở thành người biết tất cả",
+           "thổi phồng tuyên bố về chuyên môn",
+           "che giấu kỹ năng và tài năng của bạn vì sợ không xứng đáng"
           ]
         },
-        "new": {
-          "upright": [
-            "self-reflection",
-            "introspection",
-            "contemplation",
-            "withdrawal",
-            "solitude",
-            "search for self"
+       "new": {
+         "upright": [
+           "tự phản ánh",
+           "nội tâm",
+           "chiêm ngưỡng",
+           "rút tiền",
+           "cô đơn",
+           "tự tìm kiếm"
           ],
-          "reversed": [
-            "loneliness",
-            "isolation",
-            "recluse",
-            "being anti-social",
-            "rejection",
-            "returning to society"
+         "reversed": [
+           "sự cô đơn",
+           "sự cách ly",
+           "ẩn dật",
+           "chống đối xã hội",
+           "sự từ chối",
+           "trở lại xã hội"
           ]
         }
       },
@@ -685,63 +684,63 @@ export default {
       "spiritual": "The Christ, while fasting 40 days in the wilderness. Chronos, the god of time. Father Time. Hermes.",
       "numerology": "9 (fullness, readiness, ripeness)",
       "questions": [
-        "What would happen if I simply withdrew and took no action?",
-        "How can I get some perspective on the situation?",
-        "Who has walked this path before me? How can I enlist his or her help?"
+       "Điều gì sẽ xảy ra nếu tôi chỉ rút lui và không có hành động gì?",
+       "Làm thế nào tôi có thể có một số quan điểm về tình hình?",
+       "Ai đã đi trên con đường này trước tôi? Làm thế nào tôi có thể tranh thủ sự giúp đỡ của anh ấy hoặc cô ấy?"
       ],
-      "fortuneTelling": [
-        "A period of loneliness begins",
-        "One partner in a relationship departs",
-        "A search for love or money proves fruitless"
+       "fortuneTelling": [
+       "Một giai đoạn cô đơn bắt đầu",
+       "Một đối tác trong mối quan hệ ra đi",
+       "Tìm kiếm tình yêu hoặc tiền bạc không có kết quả"
       ],
-      "id": "ix"
+       "id":"ix"
     },
     {
-      "name": "Wheel of Fortune",
-      "number": 10,
-      "arcana": "Major Arcana",
-      "suit": "Trump",
-      "img": "m10.jpg",
-      "keywords": [
-        "luck",
-        "randomness",
-        "cycles",
-        "karma",
-        "fate",
-        "revolution"
+     "name":"Wheel of Fortune",
+       "number": 10,
+       "arcana":"Major Arcana",
+       "suit":"Trump",
+       "img":"m10.jpg",
+       "keywords": [
+       "may mắn",
+       "ngẫu nhiên",
+       "chu kỳ",
+       "nghiệp chướng",
+       "định mệnh",
+       "Cuộc cách mạng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "allowing events to unfold",
-            "seeing the larger pattern in everyday events",
-            "trusting your luck",
-            "watching for cycles",
-            "believing that \"what goes around, comes around\""
+     "meanings": {
+       "old": {
+         "upright": [
+           "cho phép các sự kiện diễn ra",
+           "nhìn thấy mô hình lớn hơn trong các sự kiện hàng ngày",
+           "tin tưởng vào sự may mắn của bạn",
+           "theo dõi chu kỳ",
+           "tin rằng \" những gì diễn ra xung quanh, sẽ đến xung quanh \""
           ],
-          "reversed": [
-            "losing money gambling",
-            "refusing to do your part to bring a plan to fruition",
-            "taking a fatalistic approach to life",
-            "fighting the natural course of events"
+         "reversed": [
+           "cờ bạc ăn thua",
+           "từ chối làm phần việc của mình để đưa một kế hoạch thành hiện thực",
+           "thực hiện một cách tiếp cận theo định mệnh đối với cuộc sống",
+           "chống lại quá trình tự nhiên của các sự kiện"
           ]
         },
-        "new": {
-          "upright": [
-            "change",
-            "cycles",
-            "fate",
-            "decisive moments",
-            "luck",
-            "fortune",
-            "unexpected events"
+       "new": {
+         "upright": [
+           "biến đổi",
+           "chu kỳ",
+           "định mệnh",
+           "thời điểm quyết định",
+           "may mắn",
+           "vận may",
+           "Sự kiện bất ngờ"
           ],
-          "reversed": [
-            "bad luck",
-            "lack of control",
-            "clinging to control",
-            "unwelcome changes",
-            "delays"
+         "reversed": [
+           "xui xẻo",
+           "thiếu kiểm soát",
+           "bám vào sự kiểm soát",
+           "những thay đổi không mong muốn",
+           "sự chậm trễ"
           ]
         }
       },
@@ -753,14 +752,14 @@ export default {
       "spiritual": "The God in the Machine. Deus ex Machina. Clotho, Lachesis, and Atropos. Fortuna.",
       "numerology": "10 (finality, completion) and 10 = 1 + 0 = 1 (seed, opportunity)",
       "questions": [
-        "How does this challenge fit into a larger pattern?",
-        "What role does luck play in my circumstances?",
-        "What can I control? How should I know when to relinquish control?"
+       "Làm thế nào để thử thách này phù hợp với một mô hình lớn hơn?",
+       "May mắn đóng vai trò gì trong hoàn cảnh của tôi?",
+       "Tôi có thể kiểm soát điều gì? Làm thế nào tôi nên biết khi nào nên từ bỏ quyền kiểm soát?"
       ],
-      "fortuneTelling": [
-        "Some events are in the hands of heaven",
-        "You've lived through this before",
-        "What happened then?"
+       "fortuneTelling": [
+       "Một số sự kiện nằm trong tay của trời",
+       "Bạn đã sống qua điều này trước đây",
+       "Chuyện gì xảy ra sau đó?"
       ],
       "id": "x"
     },
@@ -771,48 +770,47 @@ export default {
       "suit": "Trump",
       "img": "m11.jpg",
       "keywords": [
-        "balance",
-        "law",
-        "fairness",
-        "objectivity"
+       "thăng bằng","pháp luật",
+       "công bằng",
+       "tính khách quan"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "making an objective decision",
-            "weighing an issue carefully before taking action",
-            "appropriately scaling your reaction to a situation",
-            "getting all the facts",
-            "considering evidence",
-            "deliberating"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đưa ra quyết định khách quan",
+           "cân nhắc kỹ vấn đề trước khi hành động",
+           "mở rộng phản ứng của bạn một cách thích hợp trước một tình huống",
+           "nhận được tất cả sự thật",
+           "xem xét bằng chứng",
+           "đang cân nhắc"
           ],
-          "reversed": [
-            "delivering harsh criticism",
-            "obsessing on rules and regulations",
-            "playing by the book even when it is destructive or counterproductive to do so",
-            "confusing snap decisions with timely action",
-            "playing favorites"
+         "reversed": [
+           "đưa ra những lời chỉ trích gay gắt",
+           "ám ảnh về các quy tắc và quy định",
+           "chơi theo cuốn sách ngay cả khi làm như vậy là phá hoại hoặc phản tác dụng",
+           "nhầm lẫn giữa quyết định chớp nhoáng với hành động kịp thời",
+           "chơi yêu thích"
           ]
         },
-        "new": {
-          "upright": [
-            "justice",
-            "karma",
-            "consequence",
-            "accountability",
-            "law",
-            "truth",
-            "honesty",
-            "integrity",
-            "cause and effect"
+       "new": {
+         "upright": [
+           "Sự công bằng",
+           "nghiệp chướng",
+           "hậu quả",
+           "trách nhiệm giải trình",
+           "pháp luật",
+           "sự thật",
+           "trung thực",
+           "sự toàn vẹn",
+           "nhân quả"
           ],
-          "reversed": [
-            "injustice",
-            "retribution",
-            "dishonesty",
-            "corruption",
-            "unfairness",
-            "avoiding accountability"
+         "reversed": [
+           "bất công",
+           "quả báo",
+           "không trung thực",
+           "tham nhũng",
+           "không công bằng",
+           "tránh trách nhiệm"
           ]
         }
       },
@@ -824,14 +822,14 @@ export default {
       "spiritual": "Samson. Hercules. Daniel in the lion's den. The sinless Christ.",
       "numerology": "11 = 1 + 1 = 2 (debate, duality) or 8 (movement, outer work)",
       "questions": [
-        "How can I enhance my self-discipline?",
-        "What behaviors tempt me? How can I resist?",
-        "What instincts do I continue to struggle with today?"
+       "Làm cách nào tôi có thể nâng cao tính tự giác của mình?",
+       "Những hành vi nào cám dỗ tôi? Làm sao tôi có thể chống lại?",
+       "Bản năng nào để tôi tiếp tục đấu tranh với ngày hôm nay?"
       ],
-      "fortuneTelling": [
-        "A legal verdict will be rendered soon",
-        "Someone is making a decision",
-        "You need to get the facts"
+       "fortuneTelling": [
+       "Bản án pháp lý sẽ sớm được đưa ra",
+       "Ai đó đang đưa ra quyết định",
+       "Bạn cần biết sự thật"
       ],
       "id": "xi"
     },
@@ -849,38 +847,38 @@ export default {
         "reversals"
       ],
       "meanings": {
-        "old": {
-          "upright": [
-            "seeing growth opportunities in unpleasant events",
-            "experiencing a dramatic change in personal perspective",
-            "making the best of an unforeseen change in your life or work",
-            "suspending disbelief",
-            "making sacrifices"
+       "old": {
+         "upright": [
+           "nhìn thấy cơ hội phát triển trong những sự kiện khó chịu",
+           "trải qua một sự thay đổi mạnh mẽ trong quan điểm cá nhân",
+           "tận dụng tối đa một thay đổi không lường trước được trong cuộc sống hoặc công việc của bạn",
+           "đình chỉ sự hoài nghi",
+           "hy sinh"
           ],
-          "reversed": [
-            "being untrue to yourself and your values",
-            "refusing to make sacrifices when appropriate",
-            "refusing to adapt to new situations",
-            "blaming others",
-            "profiting at the expense of others"
+         "reversed": [
+           "không trung thực với bản thân và giá trị của bạn",
+           "từ chối hy sinh khi thích hợp",
+           "từ chối thích ứng với các tình huống mới",
+           "đổ lỗi cho người khác",
+           "thu lợi bằng chi phí của người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "sacrifice",
-            "waiting",
-            "uncertainty",
-            "lack of direction",
-            "perspective",
-            "contemplation"
+       "new": {
+         "upright": [
+           "hy sinh",
+           "đang chờ đợi",
+           "tính không chắc chắn",
+           "thiếu phương hướng",
+           "luật xa gần",
+           "chiêm ngưỡng"
           ],
-          "reversed": [
-            "stalling",
-            "disinterest",
-            "stagnation",
-            "avoiding sacrifice",
-            "standstill",
-            "apathy"
+         "reversed": [
+           "đình trệ",
+           "không quan tâm",
+           "trì trệ",
+           "tránh hy sinh",
+           "bế tắc",
+           "thờ ơ"
           ]
         }
       },
@@ -892,14 +890,14 @@ export default {
       "spiritual": "The Crucified Christ. Isaac as a sacrifice. Prometheus bound. Jonah and the whale. Lazarus. Any hanged or sacrificed god. Judas.",
       "numerology": "12 = 1 + 2 = 3 (expression, productivity, output)",
       "questions": [
-        "How can I radically alter my perspective?",
-        "How might being stuck actually be a blessing in disguise?",
-        "How can I help myself see the glass as half full?"
+       "Làm cách nào để tôi có thể thay đổi hoàn toàn quan điểm của mình?",
+       "Làm thế nào có thể bị mắc kẹt thực sự là một may mắn trong ngụy trang?",
+       "Làm sao tôi có thể giúp mình nhìn thấy chiếc ly đã đầy một nửa?"
       ],
-      "fortuneTelling": [
-        "A traitor is revealed",
-        "One of your friends is working against you",
-        "Change your ways or suffer the consequences"
+       "fortuneTelling": [
+       "Kẻ phản bội đã lộ diện",
+       "Một trong những người bạn của bạn đang chống lại bạn",
+       "Thay đổi cách của bạn hoặc gánh chịu hậu quả"
       ],
       "id": "xii"
     },
@@ -910,44 +908,43 @@ export default {
       "suit": "Trump",
       "img": "m13.jpg",
       "keywords": [
-        "ending",
-        "conclusion",
-        "transition",
-        "passage",
-        "departure"
+       "kết thúc",
+       "phần kết luận",
+       "chuyển tiếp",
+       "đoạn văn",
+       "sự khởi hành"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "bringing an unpleasant phase of life to an end",
-            "recognizing and celebrating the conclusion of something",
-            "putting bad habits to rest",
-            "becoming a new person",
-            "leaving one person, place, or thing for another",
-            "letting go"
+     "meanings": {
+       "old": {
+         "upright": [
+           "kết thúc một giai đoạn khó chịu của cuộc đời",
+           "công nhận và kỷ niệm kết luận của một cái gì đó",
+           "bỏ những thói quen xấu để nghỉ ngơi",
+           "trở thành một người mới",
+           "rời bỏ một người, một địa điểm hoặc một thứ cho người khác",
+           "buông tay"
           ],
-          "reversed": [
-            "obsessing on death and dying",
-            "refusing to give up old habits or unhealthy relationships",
-            "insisting that everything and everyone should stay the same forever",
-            "failing to take good care of yourself"
+         "reversed": [
+           "ám ảnh về cái chết và cái chết",
+           "từ chối từ bỏ những thói quen cũ hoặc những mối quan hệ không lành mạnh",
+           "nhấn mạnh rằng mọi thứ và mọi người nên giữ nguyên như vậy mãi mãi","không chăm sóc tốt cho bản thân"
           ]
         },
-        "new": {
-          "upright": [
-            "transformation",
-            "endings",
-            "change",
-            "transition",
-            "letting go",
-            "release"
+       "new": {
+         "upright": [
+           "chuyển đổi",
+           "kết thúc",
+           "biến đổi",
+           "chuyển tiếp",
+           "buông tay",
+           "phóng thích"
           ],
-          "reversed": [
-            "fear of change",
-            "repeating negative patterns",
-            "resisting change",
-            "stagnancy",
-            "decay"
+         "reversed": [
+           "sợ thay đổi",
+           "lặp lại các mẫu phủ định",
+           "chống lại sự thay đổi",
+           "trì trệ",
+           "phân rã"
           ]
         }
       },
@@ -959,14 +956,14 @@ export default {
       "spiritual": "Christ in the tomb. Hades. Hypnos. Thanatos. Stories of journeys into the underworld.",
       "numerology": "13 = 1 + 3 = 4 (stability, persistence)",
       "questions": [
-        "What needs to end?",
-        "How might an ending actually be a blessing in this situation?",
-        "What's next?"
+       "Điều gì cần phải kết thúc?",
+       "Làm thế nào một kết thúc thực sự có thể là một may mắn trong tình huống này?",
+       "Cái gì tiếp theo?"
       ],
-      "fortuneTelling": [
-        "A relationship or illness ends suddenly",
-        "Limit travel and risk-taking",
-        "General gloom and doom"
+       "fortuneTelling": [
+       "Một mối quan hệ hoặc bệnh tật kết thúc đột ngột",
+       "Hạn chế đi lại và chấp nhận rủi ro",
+       "Sự u ám chung và sự diệt vong"
       ],
       "id": "xiii"
     },
@@ -977,50 +974,50 @@ export default {
       "suit": "Trump",
       "img": "m14.jpg",
       "keywords": [
-        "blending",
-        "synthesis",
-        "mediation",
-        "combination",
-        "harmony"
+       "pha trộn",
+       "tổng hợp",
+       "dàn xếp",
+       "sự kết hợp",
+       "hòa hợp"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "bringing opposites together",
-            "moderating your actions or emotions",
-            "finding middle ground",
-            "reaching compromises",
-            "synthesizing solutions that please everyone involved",
-            "using the old to make something new"
+     "meanings": {
+       "old": {
+         "upright": [
+           "tập hợp các mặt đối lập lại với nhau",
+           "kiểm duyệt hành động hoặc cảm xúc của bạn",
+           "tìm kiếm trung gian",
+           "đạt được thỏa hiệp",
+           "tổng hợp các giải pháp làm hài lòng tất cả mọi người tham gia",
+           "sử dụng cái cũ để tạo ra cái gì đó mới"
           ],
-          "reversed": [
-            "going to extremes",
-            "disrupting group efforts",
-            "ignoring healthy approaches to life",
-            "becoming an addict",
-            "practicing gluttony",
-            "tearing something or someone apart",
-            "breaking alliances"
+         "reversed": [
+           "đi đến cực điểm",
+           "làm gián đoạn nỗ lực của nhóm",
+           "bỏ qua các cách tiếp cận lành mạnh với cuộc sống",
+           "trở thành một con nghiện",
+           "hành nghề háu ăn",
+           "xé nát một cái gì đó hoặc một ai đó ra xa",
+           "phá vỡ liên minh"
           ]
         },
-        "new": {
-          "upright": [
-            "balance",
-            "peace",
-            "patience",
-            "moderation",
-            "calm",
-            "tranquillity",
-            "harmony",
-            "serenity"
+       "new": {
+         "upright": [
+           "thăng bằng",
+           "hòa bình",
+           "tính kiên nhẫn",
+           "kiểm duyệt",
+           "trấn tĩnh",
+           "Yên bình",
+           "hòa hợp",
+           "thanh thản"
           ],
-          "reversed": [
-            "imbalance",
-            "excess",
-            "extremes",
-            "discord",
-            "recklessness",
-            "hastiness"
+         "reversed": [
+           "mất cân bằng",
+           "thặng dư",
+           "cực đoan",
+           "bất hòa",
+           "liều lĩnh",
+           "thung dung"
           ]
         }
       },
@@ -1032,13 +1029,13 @@ export default {
       "spiritual": "The angel seen here may be the goddess Iris. By extension, priests, priesthoods, or the transfigured Christ.",
       "numerology": "14 = 1 + 4 = 5 (catalyst, instability, confrontation)",
       "questions": [
-        "How can I avoid extremes?",
-        "What does everyone involved have in common?",
-        "How might combining familiar things help me create something new?"
+       "Làm thế nào tôi có thể tránh những thái cực?",
+       "Mọi người liên quan có điểm gì chung?",
+       "Làm thế nào để kết hợp những thứ quen thuộc có thể giúp tôi tạo ra một cái gì đó mới?"
       ],
-      "fortuneTelling": [
-        "Someone's using drugs or alcohol to excess",
-        "It's time to get back on that diet"
+       "fortuneTelling": [
+       "Ai đó đang sử dụng ma túy hoặc rượu quá mức",
+       "Đã đến lúc quay lại chế độ ăn kiêng đó"
       ],
       "id": "xiv"
     },
@@ -1049,47 +1046,47 @@ export default {
       "suit": "Trump",
       "img": "m15.jpg",
       "keywords": [
-        "shadow",
-        "materialism",
-        "bondage",
-        "delusion"
+       "bóng",
+       "chủ nghĩa duy vật",
+       "nô lệ",
+       "ảo tưởng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "appreciating the luxuries that life has to offer",
-            "being comfortable in your own skin",
-            "enjoying your sexuality",
-            "splurging on an expensive personal item",
-            "embracing the fact that everyone has a darker side",
-            "dealing with unhealthy impulses in healthy ways"
+     "meanings": {
+       "old": {
+         "upright": [
+           "đánh giá cao những thứ xa xỉ mà cuộc sống mang lại",
+           "được thoải mái trong làn da của chính bạn",
+           "tận hưởng tình dục của bạn",
+           "vung tiền cho một món đồ cá nhân đắt tiền",
+           "chấp nhận thực tế rằng mọi người đều có mặt tối",
+           "đối phó với những xung động không lành mạnh theo những cách lành mạnh"
           ],
-          "reversed": [
-            "putting excessive emphasis on appearances",
-            "always wanting more",
-            "valuing possessions more than people or relationships",
-            "allowing base instincts to govern your life",
-            "being selfish",
-            "attributing your own dark impulses to outside forces or other people"
+         "reversed": [
+           "chú trọng quá mức đến vẻ bề ngoài",
+           "luôn muốn nhiều hơn nữa",
+           "coi trọng tài sản hơn con người hoặc các mối quan hệ",
+           "cho phép bản năng cơ bản chi phối cuộc sống của bạn",
+           "ích kỷ",
+           "quy những xung động đen tối của chính bạn cho các thế lực bên ngoài hoặc những người khác"
           ]
         },
-        "new": {
-          "upright": [
-            "oppression",
-            "addiction",
-            "obsession",
-            "dependency",
-            "excess",
-            "powerlessness",
-            "limitations"
+       "new": {
+         "upright": [
+           "áp bức",
+           "nghiện",
+           "nỗi ám ảnh",
+           "phụ thuộc",
+           "thặng dư",
+           "bất lực",
+           "giới hạn"
           ],
-          "reversed": [
-            "independence",
-            "freedom",
-            "revelation",
-            "release",
-            "reclaiming power",
-            "reclaiming control"
+         "reversed": [
+           "Sự độc lập",
+           "sự tự do",
+           "khải thị",
+           "phóng thích",
+           "đòi lại quyền lực",
+           "giành lại quyền kiểm soát"
           ]
         }
       },
@@ -1101,14 +1098,14 @@ export default {
       "spiritual": "The Biblical Satan, certainly. Fallen angels, including Lucifer. Bacchus and Pan. Tempters and serpents of every stripe.",
       "numerology": "15 = 1 + 5 = 6 (adjustment, collaboration)",
       "questions": [
-        "What enslaves me? How can I set myself free?",
-        "How can I re-evaluate the importance I assign to material things?",
-        "To what extent do my cravings define me?"
+       "Điều gì bắt tôi phải nô lệ? Làm sao tôi có thể tự do?",
+       "Làm cách nào để tôi có thể đánh giá lại tầm quan trọng mà tôi gán cho những thứ vật chất?",
+       "Cảm giác thèm ăn xác định tôi ở mức độ nào?"
       ],
-      "fortuneTelling": [
-        "Adultery and unfaithfulness",
-        "A string of extremely bad luck is coming your way",
-        "Beware evil influences and wolves in sheep's clothing"
+       "fortuneTelling": [
+       "Ngoại tình và không chung thủy",
+       "Một chuỗi xui xẻo đang đến với bạn",
+       "Hãy coi chừng những ảnh hưởng xấu xa và những con sói đội lốt cừu"
       ],
       "id": "xv"
     },
@@ -1119,43 +1116,43 @@ export default {
       "suit": "Trump",
       "img": "m16.jpg",
       "keywords": [
-        "demolition",
-        "upheaval",
-        "deconstruction",
-        "disaster",
-        "destruction"
+       "phá hủy",
+       "biến động",
+       "giải cấu trúc",
+       "thảm họa",
+       "sự phá hủy"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "breaking out of old, confining habits and mindsets",
-            "clearing the way for new growth",
-            "dispelling the influence of an inflated ego",
-            "getting back to basics",
-            "stripping away harmful illusions",
-            "receiving sudden insight"
+     "meanings": {
+       "old": {
+         "upright": [
+           "thoát khỏi những thói quen và suy nghĩ cũ, hạn chế",
+           "dọn đường cho sự phát triển mới",
+           "xua tan ảnh hưởng của cái tôi bị thổi phồng",
+           "quay lại những điều cơ bản",
+           "loại bỏ những ảo tưởng có hại",
+           "nhận được thông tin chi tiết đột ngột"
           ],
-          "reversed": [
-            "clinging to traditions that repress growth",
-            "engaging in willful blindness",
-            "rejecting evidence that change is needed",
-            "ignoring guidance from a higher power",
-            "maliciously engaging in destructive behavior"
+         "reversed": [
+           "bám vào những truyền thống kìm hãm sự phát triển",
+           "cố ý làm cho mù quáng",
+           "bác bỏ bằng chứng cho thấy cần thay đổi",
+           "phớt lờ sự hướng dẫn từ một quyền lực cao hơn",
+           "tham gia một cách ác ý vào hành vi phá hoại"
           ]
         },
-        "new": {
-          "upright": [
-            "disaster",
-            "destruction",
-            "upheaval",
-            "trauma",
-            "sudden change",
-            "chaos"
+       "new": {
+         "upright": [
+           "thảm họa",
+           "sự phá hủy",
+           "biến động",
+           "tổn thương",
+           "thay đổi đột ngột",
+           "sự hỗn loạn"
           ],
-          "reversed": [
-            "averting disaster",
-            "delaying the inevitable",
-            "resisting change"
+         "reversed": [
+           "ngăn chặn thảm họa",
+           "trì hoãn điều không thể tránh khỏi",
+           "chống lại sự thay đổi"
           ]
         }
       },
@@ -1167,15 +1164,15 @@ export default {
       "spiritual": "The Tower of Babel. The destruction of Sodom and Gomorrah. Shiva's destructive dance. The lightning of Zeus and Thor.",
       "numerology": "16 = 1 + 6 = 7 (psychology, imagination, inner work)",
       "questions": [
-        "How might the current situation dramatically alter my perspective?",
-        "How might this loss open the door for new growth?",
-        "What attitudes need to be struck down before I proceed?"
+       "Làm thế nào mà tình hình hiện tại lại có thể thay đổi quan điểm của tôi một cách đáng kể?",
+       "Làm thế nào để mất mát này có thể mở ra cánh cửa cho sự phát triển mới?",
+       "Thái độ nào cần phải bị loại bỏ trước khi tôi tiếp tục?"
       ],
-      "fortuneTelling": [
-        "Impending disaster",
-        "Cancel plans and reverse decisions",
-        "Someone wants to take you down a notch or two",
-        "Don't hold back; say what you really mean"
+       "fortuneTelling": [
+       "Thảm họa sắp xảy ra",
+       "Hủy kế hoạch và đảo ngược quyết định",
+       "Ai đó muốn hạ gục bạn một hoặc hai bậc",
+       "Đừng kìm lại; hãy nói những gì bạn thực sự muốn nói"
       ],
       "id": "xvi"
     },
@@ -1186,48 +1183,48 @@ export default {
       "suit": "Trump",
       "img": "m17.jpg",
       "keywords": [
-        "hope",
-        "optimism",
-        "openness",
-        "certainty",
-        "faith",
-        "longing",
-        "truth"
+       "mong",
+       "lạc quan",
+       "sự cởi mở",
+       "chắc chắn",
+       "sự tin tưởng",
+       "khao khát",
+       "sự thật"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "hoping for the best",
-            "believing good things happen to good people",
-            "seeing events in the best possible light",
-            "adopting a generous spirit",
-            "seeking guidance from above",
-            "embracing possibility over probability"
+     "meanings": {
+       "old": {
+         "upright": [
+           "hy vọng những điều tốt nhất",
+           "tin rằng những điều tốt đẹp sẽ xảy ra với những người tốt",
+           "nhìn thấy các sự kiện trong điều kiện tốt nhất có thể",
+           "áp dụng một tinh thần hào phóng",
+           "tìm kiếm hướng dẫn từ phía trên",
+           "chấp nhận khả năng hơn xác suất"
           ],
-          "reversed": [
-            "denying unpleasant truths",
-            "denying personal accountability and saying, \"things just happen!\"",
-            "ignoring signs and omens",
-            "preferring illusion to reality",
-            "spreading pessimism and stinginess of spirit"
+         "reversed": [
+           "phủ nhận những sự thật khó chịu",
+           "phủ nhận trách nhiệm giải trình cá nhân và nói, \" mọi thứ chỉ xảy ra! \"",
+           "bỏ qua các dấu hiệu và điềm báo",
+           "thích ảo tưởng hơn thực tế",
+           "lây lan sự bi quan và keo kiệt của tinh thần"
           ]
         },
-        "new": {
-          "upright": [
-            "hope",
-            "inspiration",
-            "positivity",
-            "faith",
-            "renewal",
-            "healing",
-            "rejuvenation"
+       "new": {
+         "upright": [
+           "mong",
+           "nguồn cảm hứng",
+           "tính tích cực",
+           "sự tin tưởng",
+           "sự đổi mới",
+           "đang lành lại",
+           "trẻ hóa"
           ],
-          "reversed": [
-            "hopelessness",
-            "despair",
-            "negativity",
-            "lack of faith",
-            "despondent"
+         "reversed": [
+           "vô vọng",
+           "tuyệt vọng",
+           "tiêu cực",
+           "thiếu niềm tin",
+           "chán nản"
           ]
         }
       },
@@ -1239,14 +1236,14 @@ export default {
       "spiritual": "The star that guided the Magi. Aphrodite. Venus. The Pleiades. Moses bringing forth water from the rock.",
       "numerology": "17 = 1 + 7 = 8 (action, movement, swiftness)",
       "questions": [
-        "What would my higher power direct me to do?",
-        "How can I be less self-conscious and guarded?",
-        "How can I better attune myself to the abundance of life's blessings?"
+       "Quyền lực cao hơn của tôi sẽ hướng dẫn tôi làm gì?",
+       "Làm thế nào tôi có thể bớt tự giác và đề phòng hơn?",
+       "Làm thế nào tôi có thể điều chỉnh bản thân tốt hơn với sự phong phú của các phước lành trong cuộc sống?"
       ],
-      "fortuneTelling": [
-        "Get an astrology chart drawn up",
-        "Someone is a little too starstruck",
-        "What's happening now has long been fore-ordained"
+       "fortuneTelling": [
+       "Vẽ một biểu đồ chiêm tinh học",
+       "Ai đó hơi quá nghiêm khắc",
+       "Những gì đang xảy ra bây giờ đã được định trước từ lâu"
       ],
       "id": "xvii"
     },
@@ -1257,47 +1254,47 @@ export default {
       "suit": "Trump",
       "img": "m18.jpg",
       "keywords": [
-        "mystery",
-        "fantasy",
-        "imagination",
-        "dreams",
-        "uncertainty"
+       "huyền bí",
+       "tưởng tượng",
+       "trí tưởng tượng",
+       "những giấc mơ",
+       "tính không chắc chắn"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "enjoying healthy fantasies and daydreams",
-            "using your imagination",
-            "practicing magic or celebrating the magic of everyday life",
-            "attuning yourself to the cycles of nature",
-            "embracing the unknown"
+     "meanings": {
+       "old": {
+         "upright": [
+           "tận hưởng những tưởng tượng và mơ mộng lành mạnh",
+           "sử dụng trí tưởng tượng của bạn",
+           "thực hành phép thuật hoặc tôn vinh sự kỳ diệu của cuộc sống hàng ngày",
+           "hòa mình vào các chu kỳ của tự nhiên",
+           "ôm lấy những điều chưa biết"
           ],
-          "reversed": [
-            "becoming unable to separate fantasy from reality",
-            "suffering from delusions",
-            "losing your appreciation for the fantastic or magical",
-            "adopting a ruthlessly logical mindset",
-            "failing to appreciate life's mysteries"
+         "reversed": [
+           "trở nên không thể tách rời tưởng tượng khỏi thực tế",
+           "bị ảo tưởng",
+           "đánh mất sự đánh giá của bạn đối với điều kỳ diệu hoặc kỳ diệu",
+           "áp dụng một tư duy logic tàn nhẫn",
+           "không đánh giá được những bí ẩn của cuộc sống"
           ]
         },
-        "new": {
-          "upright": [
-            "illusion",
-            "intuition",
-            "uncertainty",
-            "confusion",
-            "complexity",
-            "secrets",
-            "unconscious"
+       "new": {
+         "upright": [
+           "ảo giác",
+           "trực giác",
+           "tính không chắc chắn",
+           "sự hoang mang",
+           "phức tạp",
+           "bí mật",
+           "bất tỉnh"
           ],
-          "reversed": [
-            "fear",
-            "deception",
-            "anxiety",
-            "misunderstanding",
-            "misinterpretation",
-            "clarity",
-            "understanding"
+         "reversed": [
+           "nỗi sợ",
+           "lừa dối",
+           "sự lo ngại",
+           "sự hiểu lầm",
+           "diễn giải sai",
+           "trong trẻo",
+           "hiểu biết"
           ]
         }
       },
@@ -1309,14 +1306,14 @@ export default {
       "spiritual": "Kali, the dark-skinned divine mother associated with time, the eternal night, and the female principle. Hecate, goddess of night and darkness, who, like Anubis, assists others in their travels to the underworld. ",
       "numerology": "18 = 1 + 8 = 9 (fullness, readiness, ripeness)",
       "questions": [
-        "How can I face my fears and move forward?",
-        "What helpers can serve me as guides through my personal darkness?",
-        "How can I deal with the unknown in healthy ways?"
+       "Làm thế nào tôi có thể đối mặt với nỗi sợ hãi của mình và tiến về phía trước?",
+       "Những người trợ giúp nào có thể phục vụ tôi như người hướng dẫn vượt qua bóng tối của cá nhân tôi?",
+       "Làm thế nào tôi có thể đối phó với những điều chưa biết theo những cách lành mạnh?"
       ],
-      "fortuneTelling": [
-        "Watch for problems at the end of the month",
-        "Someone you know needs to howl at the moon more often",
-        "Someone is about to change his or her mind about an important decision"
+       "fortuneTelling": [
+       "Đề phòng các vấn đề vào cuối tháng",
+       "Ai đó bạn biết cần hú lên mặt trăng thường xuyên hơn",
+       "Ai đó sắp thay đổi ý định về một quyết định quan trọng"
       ],
       "id": "xviii"
     },
@@ -1327,45 +1324,45 @@ export default {
       "suit": "Trump",
       "img": "m19.jpg",
       "keywords": [
-        "joy",
-        "brilliance",
-        "validation",
-        "attention",
-        "energy"
+       "vui sướng",
+       "sáng chói",
+       "Thẩm định",
+       "chú ý",
+       "năng lượng"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "seeing things clearly",
-            "experiencing intense joy",
-            "celebrating your own successes",
-            "knowing you're good at what you do",
-            "gaining recognition for your personal genius"
+     "meanings": {
+       "old": {
+         "upright": [
+           "nhìn rõ mọi thứ",
+           "trải nghiệm niềm vui mãnh liệt",
+           "kỷ niệm những thành công của chính bạn",
+           "biết mình giỏi việc mình làm",
+           "đạt được sự công nhận cho thiên tài cá nhân của bạn"
           ],
-          "reversed": [
-            "being dazzled by your own accomplishments",
-            "becoming absorbed in your own self-image",
-            "feeling rushed and distracted",
-            "exerting yourself to the point of exhaustion",
-            "overstating your abilities or misrepresenting your achievements"
+         "reversed": [
+           "bị lóa mắt bởi thành tích của chính bạn",
+           "trở nên đắm chìm trong hình ảnh của chính bạn",
+           "cảm thấy vội vã và mất tập trung",
+           "nỗ lực đến mức kiệt quệ",
+           "nói quá khả năng của bạn hoặc trình bày sai thành tích của bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "happiness",
-            "success",
-            "optimism",
-            "vitality",
-            "joy",
-            "confidence",
-            "truth"
+       "new": {
+         "upright": [
+           "niềm hạnh phúc",
+           "thành công",
+           "lạc quan",
+           "sức sống",
+           "vui sướng",
+           "lòng tin",
+           "sự thật"
           ],
-          "reversed": [
-            "blocked happiness",
-            "excessive enthusiasm",
-            "pessimism",
-            "unrealistic expectations",
-            "conceitedness"
+         "reversed": [
+           "hạnh phúc bị chặn",
+           "nhiệt tình quá mức",
+           "bi quan",
+           "kỳ vọng không thực tế",
+           "tự phụ"
           ]
         }
       },
@@ -1377,13 +1374,13 @@ export default {
       "spiritual": "God the Father. Sun gods, including Ra, Apollo, and Helios. The moment of baptism. Claiming a new faith as your own.",
       "numerology": "19 = 1 + 9 = 10 (completion, exhaustion) 1 + 0 = 1 (starting point, opportunity)",
       "questions": [
-        "How can I take best advantage of the attention coming my way?",
-        "What are my highest spiritual goals?",
-        "How can I avoid being bedazzled by the energy swirling around me?"
+       "Làm thế nào tôi có thể tận dụng tốt nhất sự chú ý đang đến theo cách của mình?",
+       "Mục tiêu tinh thần cao nhất của tôi là gì?",
+       "Làm thế nào tôi có thể tránh bị buồn ngủ bởi năng lượng xoay quanh tôi?"
       ],
-      "fortuneTelling": [
-        "Everything's coming up roses (or sunflowers, whatever the case may be)",
-        "Whatever's on your mind, go for it because you can't lose today"
+       "fortuneTelling": [
+       "Mọi thứ sắp đến là hoa hồng (hoặc hoa hướng dương, bất kể trường hợp nào)",
+       "Bất cứ điều gì trong tâm trí của bạn, hãy cố gắng vì bạn không thể thua ngày hôm nay"
       ],
       "id": "xix"
     },
@@ -1394,44 +1391,43 @@ export default {
       "suit": "Trump",
       "img": "m20.jpg",
       "keywords": [
-        "revival",
-        "renewal",
-        "resurrection",
-        "evaluation",
-        "invitation"
+       "hồi sinh",
+       "sự đổi mới",
+       "hồi sinh",
+       "sự đánh giá",
+       "lời mời"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "receiving a wake-up call",
-            "discovering a new purpose in life",
-            "becoming totally and completely yourself",
-            "receiving a well-deserved reward",
-            "passing an evaluation or examination",
-            "welcoming the start of a new phase of life"
+     "meanings": {
+       "old": {
+         "upright": [
+           "nhận được một cuộc gọi đánh thức",
+           "khám phá mục đích mới trong cuộc sống","trở thành hoàn toàn và hoàn toàn là chính mình",
+           "nhận được phần thưởng xứng đáng",
+           "vượt qua đánh giá hoặc kiểm tra",
+           "chào đón sự khởi đầu của một giai đoạn mới của cuộc đời"
           ],
-          "reversed": [
-            "being weighed in the balances and found wanting",
-            "failing to measure up to a well-defined standard",
-            "being caught goofing off or misbehaving",
-            "failing to prepare for an examination you know is coming",
-            "rejecting an opportunity to reinvent yourself"
+         "reversed": [
+           "được cân nhắc trong các cân và tìm thấy mong muốn",
+           "không đo lường được theo tiêu chuẩn được xác định rõ",
+           "bị bắt quả tang hành vi sai trái hoặc hoạt động sai",
+           "không chuẩn bị cho kỳ kiểm tra mà bạn biết là sắp tới",
+           "từ chối cơ hội sáng tạo lại bản thân"
           ]
         },
-        "new": {
-          "upright": [
-            "self-evaluation",
-            "awakening",
-            "renewal",
-            "purpose",
-            "reflection",
-            "reckoning"
+       "new": {
+         "upright": [
+           "tự đánh giá",
+           "thức tỉnh",
+           "sự đổi mới",
+           "mục đích",
+           "sự phản xạ",
+           "tính toán"
           ],
-          "reversed": [
-            "self-doubt",
-            "lack of self-awareness",
-            "failure to learn lessons",
-            "self-loathing"
+         "reversed": [
+           "tự nghi ngờ",
+           "thiếu nhận thức về bản thân",
+           "không học được bài học",
+           "tự ghê tởm"
           ]
         }
       },
@@ -1443,14 +1439,14 @@ export default {
       "spiritual": "The resurrected Christ. The Last Judgment of Revelation. The phoenix, which rises to new life from its own ashes.",
       "numerology": "20 = 2 + 0 = 2 (division, duality)",
       "questions": [
-        "What is the main thing I need to realize about myself?",
-        "In what way might the universe be trying to get my attention?",
-        "If I were to reinvent myself, what would I become?"
+       "Điều chính tôi cần nhận ra về bản thân là gì?",
+       "Vũ trụ có thể đang cố thu hút sự chú ý của tôi theo cách nào?",
+       "Nếu tôi được đổi mới chính mình, tôi sẽ trở thành gì?"
       ],
-      "fortuneTelling": [
-        "An old issue you thought was over will come up again today",
-        "Get ready for huge changes: break-ups, sudden calls from old friends, and unexpected setbacks",
-        "God's trying to get your attention"
+       "fortuneTelling": [
+       "Một vấn đề cũ mà bạn nghĩ đã qua sẽ xuất hiện lại vào ngày hôm nay",
+       "Hãy sẵn sàng cho những thay đổi lớn: chia tay, cuộc gọi đột ngột từ bạn cũ và thất bại bất ngờ",
+       "Chúa đang cố gắng thu hút sự chú ý của bạn"
       ],
       "id": "xx"
     },
@@ -1461,43 +1457,43 @@ export default {
       "suit": "Trump",
       "img": "m21.jpg",
       "keywords": [
-        "wholeness",
-        "integration",
-        "totality",
-        "completeness",
-        "fullness"
+       "toàn vẹn",
+       "hội nhập",
+       "toàn bộ",
+       "sự hoàn chỉnh",
+       "đầy đủ"
       ],
-      "meanings": {
-        "old": {
-          "upright": [
-            "having it all",
-            "knowing and loving yourself as completely as possible",
-            "seeing the interconnection of all things and people",
-            "enhancing your perspective",
-            "living life to its fullest",
-            "understanding the meaning of life"
+     "meanings": {
+       "old": {
+         "upright": [
+           "có tất cả",
+           "biết và yêu bản thân hết mức có thể",
+           "thấy được sự kết nối giữa vạn vật và con người",
+           "nâng cao quan điểm của bạn",
+           "sống hết mình",
+           "hiểu được ý nghĩa của cuộc sống"
           ],
-          "reversed": [
-            "allowing greed and envy to prevent you from enjoying what you do possess",
-            "failing to see the larger design in ordinary events",
-            "believing that everything that exists can be touched, counted, or measured",
-            "failing to see the divine reflected in those around you"
+         "reversed": [
+           "cho phép lòng tham và sự đố kỵ ngăn cản bạn tận hưởng những gì bạn sở hữu",
+           "không nhìn thấy thiết kế lớn hơn trong các sự kiện thông thường",
+           "tin rằng mọi thứ tồn tại đều có thể được chạm vào, đếm được hoặc đo lường được",
+           "không nhìn thấy điều thiêng liêng phản ánh trong những người xung quanh bạn"
           ]
         },
-        "new": {
-          "upright": [
-            "completion",
-            "achievement",
-            "fulfilment",
-            "sense of belonging",
-            "wholeness",
-            "harmony"
+       "new": {
+         "upright": [
+           "hoàn thành",
+           "thành tích",
+           "sự hoàn thành",
+           "cảm giác thuộc về",
+           "toàn vẹn",
+           "hòa hợp"
           ],
-          "reversed": [
-            "lack of closure",
-            "lack of achievement",
-            "feeling incomplete",
-            "emptiness"
+         "reversed": [
+           "thiếu sự khép kín",
+           "thiếu thành tích",
+           "cảm thấy không đầy đủ",
+           "trống rỗng"
           ]
         }
       },

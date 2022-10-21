@@ -10,7 +10,7 @@
 				Dự án gồm rất nhiều những lời khuyên và trải nghiệm huyền học (các thuật xem số mệnh) từ Đông Phương đến Tây Phương: Tử vi, Chiêm tinh, Kinh dịch, Thần số học, Tâm lý học, Nhịp sinh học, MBTI, Tarot, Enneagram...
 			</p>
 			<p>
-				Sử dụng Kabala ABOUT sẽ rất hữu ích nếu bạn xây dựng cho mình một tấm lòng hướng thiện và một nền tảng tư duy vững chắc! Chúc bạn vững bước trên con đường tu dưỡng!
+				Sử dụng Kabala TAROT sẽ rất hữu ích nếu bạn xây dựng cho mình một tấm lòng hướng thiện và một nền tảng tư duy vững chắc! Chúc bạn vững bước trên con đường tu dưỡng!
 			</p>
 
             <hr>

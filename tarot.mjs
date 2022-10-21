@@ -3168,6 +3168,7 @@ export default {
       "isMajorArcana": false,
       "affirmation": "\"I am ready to make good decisions.\"",
       "elemental": "Earth of Air.",
+	  "questions": [
       "Bạn cảm thấy thoải mái như thế nào khi tiết lộ sự thiếu hiểu biết của chính mình?",
        "Điểm của một học sinh giỏi là gì?",
        "Bạn cởi mở với thông tin mới ở mức độ nào?"

@@ -2437,6 +2437,8 @@ export default {
        "fortuneTelling": [
        "Lá bài này đại diện cho một người đàn ông lớn tuổi với vẻ ngoài dịu dàng, nhạy cảm, có khả năng sinh từ ngày 9 tháng 2 đến ngày 10 tháng 3, người được biết đến với sự công bằng và khoan dung"
       ],
+	  "id": "ck"
+    },
     {
       "name": "Ace of Swords",
       "number": 1,

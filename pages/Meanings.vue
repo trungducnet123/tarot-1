@@ -41,6 +41,12 @@
                 <div class="information__header">Nguyên mẫu</div>
                 <div class="information__text">{{ card.archetype }}</div>
             </div> 
+			
+			<div class="information" v-if="card.numerology">
+                <div class="information__header">Số học</div>
+                <div class="information__text">{{ card.numerology }}</div>
+            </div> 
+			
             <div class="information" v-if="card.affirmation">
                 <div class="information__header">Khẳng định</div>
                 <div class="information__text">{{ card.affirmation }}</div>
@@ -49,9 +55,10 @@
                 <div class="information__header">Bảng chữ cái Hebrew</div>
                 <div class="information__text">{{ card.hebrewAlphabet }}</div>
             </div> 
-            <div class="information" v-if="card.numerology">
-                <div class="information__header">Số học</div>
-                <div class="information__text">{{ card.numerology }}</div>
+            
+			<div class="information" v-if="card.img">
+                <div class="information__header">Hình ảnh lá bài Tarot</div>
+                <div class="information__text"><img src="cards/{{ card.img }}"/></div>
             </div> 
             <div class="information" v-if="card.questions">
                 <div class="information__header">Câu hỏi</div>

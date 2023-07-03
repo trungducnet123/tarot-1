@@ -51,7 +51,7 @@ export class Card {
             reversed: object.meanings.new.reversed,
         },
 
-        card.arcana = object.arcana == 'Major Arcana' ? Arcana.Minor : Arcana.Major
+        card.arcana = object.arcana == 'Major Arcana' ? Arcana.Major : Arcana.Minor
 
         let suits = {
             Trump: Suit.Trump,

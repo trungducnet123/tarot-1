@@ -35,10 +35,6 @@
 		
         <div class="meanings__page meanings__page--information" v-if="card">
 		
-			<div class="information" v-if="card.img">
-                <div class="information__header">Hình ảnh lá bài Tarot</div>
-                <div class="information__text"><img src="cards/{{ card.img }}"/></div>
-            </div> 
 			
             <div class="information" v-if="card.element">
                 <div class="information__header">Nguyên tố</div>

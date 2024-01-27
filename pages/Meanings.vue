@@ -67,6 +67,7 @@
             <div class="information" v-if="card">
                 <div class="information__header">Liên kết</div>
                 <div class="information__list">
+                    <a v-bind:href="kabala" class="information__text information__text--link" target="_blank">{{ cleanURL(kabalaLink) }}</a>
                     <a v-bind:href="labyrinthosLink" class="information__text information__text--link" target="_blank">{{ cleanURL(labyrinthosLink) }}</a>
                     <a v-bind:href="biddyLink" class="information__text information__text--link" target="_blank">{{ cleanURL(biddyLink) }}</a>
                     <a v-bind:href="busterBensonLink" class="information__text information__text--link" target="_blank">busterbenson.com</a>
@@ -173,6 +174,16 @@
         computed: {
             meanings: function() {
                 return this.card.meanings[this.isReversed ? 'reversed' : 'upright']
+            },
+			kabalaLink: function() {
+                let name = this.card.name
+
+                name = name.replace(/^[Tt]he\s*/, '')
+
+                let slug = name.toLowerCase().split(/\s+/).join('-')
+
+                return `https://hoc.kabala.vn/${slug}/`
+
             },
             labyrinthosLink: function() {
                 let name = this.card.name

@@ -432,4 +432,7 @@
     .spacer {
         flex-grow: 1;
     }
+	img[reversed="reversed"] {
+		transform: scaleY(-1);
+	}
 </style>

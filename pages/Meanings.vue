@@ -44,6 +44,10 @@
                 <div class="information__header">Nguyên mẫu</div>
                 <div class="information__text">{{ card.archetype }}</div>
             </div> 
+			<div class="information" v-if="card.affirmation">
+                <div class="information__header">Hình Ảnh Lá Bài</div>
+                <div class="information__text"><img :src="`https://dich.kabala.vn/tarot/cards/${card.img}`"></div>
+            </div> 
             <div class="information" v-if="card.affirmation">
                 <div class="information__header">Khẳng định</div>
                 <div class="information__text">{{ card.affirmation }}</div>

@@ -35,6 +35,9 @@
                         <div class="list-card__name">{{ card.name }}</div>
                         <div class="list-card__separator"></div>
                         <div class="list-card__card-name" v-if="card.card">{{ card.card[0].name }}</div>
+						
+						
+                        <div class="list-card__card-img" v-if="card.card"><img src="../cards/{{ card.card[0].img }}"/></div>
                         <div class="list-card__card-reversed" v-if="card.card && card.card[1]">Đảo ngược</div>
                     </div>
                     <div class="list-card__content">

@@ -41,7 +41,7 @@
                     </div>
                     <div class="list-card__content">
 						<div class="list-card__card-img" v-if="card.card">
-						  <img v-bind:reversed="isReversed" v-on:reverse="reverse" :src="`https://dich.kabala.vn/tarot/cards/${card.card[0].img}`" alt="{{ card.card[0].name }}">
+						  <img :src="`https://dich.kabala.vn/tarot/cards/${card.card[0].img}`" :reverse="card.card[1] === 'reversed' ? 'reverse' : ''">
 						</div>
                         <div class="list-card__content-header" v-if="card.description">Mô tả</div>
                         <div class="list-card__description" v-if="card.description">

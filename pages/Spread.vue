@@ -518,7 +518,7 @@
             fill: var(--color-fg)
         }
     }
-	img[reversed="reversed"] {
+	.reversed{
 		transform: scaleY(-1);
 	}
 

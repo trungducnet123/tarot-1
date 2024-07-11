@@ -79,18 +79,19 @@
             </div> 
         </div>
 
+		<div v-else>
+		<p><strong><a href="https://tarot.kabala.vn/" aria-invalid="true">Tarot</a></strong> l&agrave; một hệ thống b&agrave;i b&oacute;i to&aacute;n gồm 78 l&aacute; b&agrave;i, được sử dụng để giải m&atilde; tương lai, hiểu r&otilde; bản th&acirc;n v&agrave; kh&aacute;m ph&aacute; những tiềm năng ẩn chứa b&ecirc;n trong mỗi người. Mỗi l&aacute; b&agrave;i trong bộ Tarot mang một h&igrave;nh ảnh, biểu tượng v&agrave; &yacute; nghĩa ri&ecirc;ng, gi&uacute;p người đọc c&oacute; thể đưa ra những dự đo&aacute;n, lời khuy&ecirc;n v&agrave; g&oacute;c nh&igrave;n s&acirc;u sắc về c&aacute;c vấn đề trong cuộc sống.</p>
+		<p><strong><span style="text-decoration: underline;">Tarot</span> được sử dụng trong nhiều mục đ&iacute;ch kh&aacute;c nhau:</strong></p>
+		<ul>
+		<li><strong>Dự đo&aacute;n tương lai:</strong> Cung cấp c&aacute;i nh&igrave;n về những khả năng v&agrave; xu hướng tương lai.</li>
+		<li><strong>Tư vấn v&agrave; định hướng:</strong> Gi&uacute;p người hỏi t&igrave;m hiểu v&agrave; giải quyết c&aacute;c vấn đề trong cuộc sống, từ t&igrave;nh cảm, c&ocirc;ng việc đến sức khỏe v&agrave; t&agrave;i ch&iacute;nh.</li>
+		<li><strong>Ph&aacute;t triển bản th&acirc;n:</strong> Kh&aacute;m ph&aacute; bản th&acirc;n, nhận diện những điểm mạnh, điểm yếu v&agrave; tiềm năng ẩn chứa.</li>
+		</ul>
+		<p>Tarot kh&ocirc;ng chỉ l&agrave; c&ocirc;ng cụ để dự đo&aacute;n m&agrave; c&ograve;n l&agrave; phương tiện gi&uacute;p con người kết nối với t&acirc;m hồn, trực gi&aacute;c v&agrave; nguồn năng lượng vũ trụ.</p>
+		</div>
+
     </div>
 
-<div>
-<p><strong><a href="https://tarot.kabala.vn/" aria-invalid="true">Tarot</a></strong> l&agrave; một hệ thống b&agrave;i b&oacute;i to&aacute;n gồm 78 l&aacute; b&agrave;i, được sử dụng để giải m&atilde; tương lai, hiểu r&otilde; bản th&acirc;n v&agrave; kh&aacute;m ph&aacute; những tiềm năng ẩn chứa b&ecirc;n trong mỗi người. Mỗi l&aacute; b&agrave;i trong bộ Tarot mang một h&igrave;nh ảnh, biểu tượng v&agrave; &yacute; nghĩa ri&ecirc;ng, gi&uacute;p người đọc c&oacute; thể đưa ra những dự đo&aacute;n, lời khuy&ecirc;n v&agrave; g&oacute;c nh&igrave;n s&acirc;u sắc về c&aacute;c vấn đề trong cuộc sống.</p>
-<p><strong><span style="text-decoration: underline;">Tarot</span> được sử dụng trong nhiều mục đ&iacute;ch kh&aacute;c nhau:</strong></p>
-<ul>
-<li><strong>Dự đo&aacute;n tương lai:</strong> Cung cấp c&aacute;i nh&igrave;n về những khả năng v&agrave; xu hướng tương lai.</li>
-<li><strong>Tư vấn v&agrave; định hướng:</strong> Gi&uacute;p người hỏi t&igrave;m hiểu v&agrave; giải quyết c&aacute;c vấn đề trong cuộc sống, từ t&igrave;nh cảm, c&ocirc;ng việc đến sức khỏe v&agrave; t&agrave;i ch&iacute;nh.</li>
-<li><strong>Ph&aacute;t triển bản th&acirc;n:</strong> Kh&aacute;m ph&aacute; bản th&acirc;n, nhận diện những điểm mạnh, điểm yếu v&agrave; tiềm năng ẩn chứa.</li>
-</ul>
-<p>Tarot kh&ocirc;ng chỉ l&agrave; c&ocirc;ng cụ để dự đo&aacute;n m&agrave; c&ograve;n l&agrave; phương tiện gi&uacute;p con người kết nối với t&acirc;m hồn, trực gi&aacute;c v&agrave; nguồn năng lượng vũ trụ.</p>
-</div>
 </template>
 
 <script lang="ts">

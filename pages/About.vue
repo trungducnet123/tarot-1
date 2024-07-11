@@ -17,9 +17,10 @@
 			<p><u>Tarot</u> kh&ocirc;ng chỉ l&agrave; c&ocirc;ng cụ để dự đo&aacute;n m&agrave; c&ograve;n l&agrave; phương tiện gi&uacute;p con người kết nối với t&acirc;m hồn, trực gi&aacute;c v&agrave; nguồn năng lượng vũ trụ.</p>
 
             <hr> 
-						<p>
-				Tìm hiểu thêm về các dự án thuộc Kabala: <a href="https://kabala.vn/all">https://kabala.vn/all</a>
-			</p>
+						<ul>
+				<li>Học và tìm hiểu về Tarot: <a href="https://hoc.kabala.vn/tay-phuong/tarot/">Học Tarot từ Kabala</a>
+				<li>Tìm hiểu thêm về các dự án thuộc Kabala: <a href="https://kabala.vn/all">https://kabala.vn/all</a></li>
+			</ul>
             <!--<p>
                 Site version: <b>{{ siteVersion }}</b>
             </p>-->

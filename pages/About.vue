@@ -18,8 +18,14 @@
 
             <hr> 
 						<ul>
+				<li>Tìm hiểu thêm về các dự án thuộc Kabala: <a href="https://kabala.vn/all">https://tools.kabala.vn/</a></li>
 				<li>Học và tìm hiểu về Tarot: <a href="https://hoc.kabala.vn/tay-phuong/tarot/">Học Tarot từ Kabala</a>
-				<li>Tìm hiểu thêm về các dự án thuộc Kabala: <a href="https://kabala.vn/all">https://kabala.vn/all</a></li>
+				<li><a href="https://dich.kabala.vn/tarot">Rút bài Tarot với 10+ bộ bài</a></li>
+				<li><a href="https://dich.kabala.vn/boi-tarot">Bói Bài Tarot miễn phí</a></li>
+				<li><a href="https://dich.kabala.vn/tarot/y-nghia.html">Tra cứu 78 lá bài Tarot</a></li>
+				<li><a href="https://dich.kabala.vn/tarot/hanh-trinh.html">Hành trình ý nghĩa xoay quanh Tarot</a></li>
+				<li><a href="https://dich.kabala.vn/tarot/bo-bai.html">Tất cả bộ bài Tarot tại Kabala</a></li>
+				<li><a href="https://tarot.kabastro.com/">25+ phương pháp trải bài Tarot</a></li>
 			</ul>
             <!--<p>
                 Site version: <b>{{ siteVersion }}</b>
